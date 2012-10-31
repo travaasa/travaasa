@@ -8,3 +8,5 @@ munin/*
 images.zip
 holidayproblems/*
 /nbproject/private/
+.gitconfig
+.ssh
