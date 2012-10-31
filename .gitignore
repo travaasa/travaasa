@@ -7,3 +7,4 @@ munin/*
 *.DS_Store
 images.zip
 holidayproblems/*
+/nbproject/private/
