@@ -159,7 +159,6 @@ function create_pageContent(html, fromAjax, pagePosition, page_id){
             var fancy = $(html[6][e]).attr('class');
             var blank = $(html[6][e]).attr('target');
             var text = l.text();
-            console.log(text);
             if(fancy!=undefined)
                 fancy = " class='fancyajax' ";
             if(blank!=undefined)
