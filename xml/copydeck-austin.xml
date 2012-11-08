@@ -68,6 +68,11 @@
 					<thumbImg>images/site/natural-beauty-crisman-t.jpg</thumbImg>
 					<thumbCaption>Travaasa Austin</thumbCaption>
 					<mainImg>images/site/austin-landing-view-729.jpg</mainImg>
+                                        <slides>
+                                            <slide>/images/site/austin-landing-view-729.jpg</slide>
+                                            <slide url='http://travaasadinner.com' target="_blank">images/site/travaasa-dinner-729.png</slide>
+                                            <slide>/images/site/729-canyon-windows.jpg</slide>
+                                        </slides>
 					<imageCaption></imageCaption>
 					<Storybook></Storybook>
 					<pdf_downloads>

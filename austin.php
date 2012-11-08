@@ -22,6 +22,7 @@
   }
 ?>
 <?php
+
   $count = 0;
   $html = "";
   foreach ($xml->austin->secondaryPages->page as $section) {
@@ -82,6 +83,7 @@
 
       if (($_GET['page'] && $page->meta->slug == $page_slug) || (!$_GET['page'] && $page[id] == $pageId)) {
           $imgSrc = $page->mainImg;
+          $main_imgs = $page->slideshow;
           $imageCaption = $page->imageCaption;
           $header = $page->h1;
           $copy = $page->copy;
@@ -217,7 +219,7 @@
                     <div id="reservation_cta">
                         <p class="reservation_title">1-855-TO-TRAVAASA  (1-855-868-7282)</p>
                         <div id="book-buttons">
-                            <div id="book-hana"><a href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">Book Hana</a></div>
+                            <div id="book-hana"><a href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2']); return false;">Book Hana</a></div>
                             <div id="book-austin"><a href="https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4']); return false;">Book Austin</a></div>
                             <div class="clearbox"></div>
                             <div id="getonthelist"><a href="http://www.data2gold.com/gallery/travaasa/eClub/eClub.html">Get on the list</a></div>
@@ -257,21 +259,21 @@
 
                     </div><!-- #secondary_nav -->
                     <div id="main_content_frame">
-                        <div id="main_image">
+                    <div id="main_image">
 
 
 
-                            <img src="/<?php echo $imgSrc; ?>" />
-<?php if ($imageCaption != ""): ?>
-                                  <div id="main_image_caption">
-                                      <p><?php echo $imageCaption; ?></p>
-                                  </div>
-  <?php else: ?>
-                                  <div id="main_image_caption" style="display:none">
-                                      <p></p>
-                                  </div>
-                            <?php endif; ?>
-                        </div><!-- #main_image -->
+                      <img src="/<?php echo $imgSrc; ?>" class="mainimg" />
+                      <?php if($imageCaption != ""):?>
+                      <div id="main_image_caption">
+                        <p><?php echo $imageCaption; ?></p>
+                      </div>
+                      <?php else: ?>
+                      <div id="main_image_caption" style="display:none">
+                        <p></p>
+                      </div>
+                      <?php endif; ?>
+                    </div><!-- #main_image -->
                         <div class="clear"></div>
                         <div id="slideshow_frame2">
                             <div id="slideshow">
@@ -327,5 +329,6 @@
   <? endif ?>
                             });
         </script>
+        <script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
     </body>
 </html>
