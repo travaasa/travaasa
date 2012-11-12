@@ -33,7 +33,7 @@
 					<div style="padding:0px 10px 10px 10px; margin:0px 25px 10px 25px;">
 					
 					<p>
-					<span style="font-family:georgia, serif; color:#D11241; font-size:30px; line-height:40px;"><em>Travaasa Experiences</em></span><br />
+					<span style="font-family:georgia, serif; color:#D7385E; font-size:30px; line-height:40px;"><em>Travaasa Experiences</em></span><br />
 					<a class="large-link" href="/experiences/#/adventure-overview"><em>Stretch your imagination.</em></a><br />
 					<a class="large-link" href="/experiences/#/culinary-overview"><em>Delight your palate.</em></a><br />
 					<a class="large-link" href="/experiences/#/culture-overview"><em>Enrich your mind.</em></a><br />
@@ -92,7 +92,7 @@
                           </a>
                           <h2>Equine Encounters</h2>
                           <p>Travaasa’s beautiful resort properties are covered with a network of footpaths that will guide you on a journey like none other.<br />
-                          &#8226;&nbsp;&nbsp;<a class="pink-link" style="color:#D11241; text-decoration:none;" href="/austin/equine-experiences">Equine Encounters at Travaasa Austin</a><br />
+                          &#8226;&nbsp;&nbsp;<a class="pink-link" style="color:#D7385E; text-decoration:none;" href="/austin/equine-experiences">Equine Encounters at Travaasa Austin</a><br />
                           &#8226;&nbsp;&nbsp;<a class="pink-link" href="/hana/hana-equine">Equine Encounters at Travaasa Hana</a>
                           </p>
                               
@@ -139,7 +139,7 @@
                           <p>Remember the ropes course at summer camp? Remember the feeling of accomplishment it gave you? Our challenge courses will have your inner child doing backflips.
                             <br />
                                &#8226;&nbsp;&nbsp;<a class="pink-link" href="/austin/prickly-pear-challenge-course">Challenge Course at Travaasa Austin</a><br />
-                               &#8226;&nbsp;&nbsp;<span style="color:#D11241; text-decoration:none;">Challenge Course at Travaasa Hana (coming 2013)</span>
+                               &#8226;&nbsp;&nbsp;<span style="color:#D7385E; text-decoration:none;">Challenge Course at Travaasa Hana (coming 2013)</span>
                            </p>
                              
                           <hr style="clear:both; border-top-style:dotted; border-color:#fafafa; border-width:1px;">
@@ -487,19 +487,22 @@
                     
                    <p>Travaasa Experiential Resorts' monthly calendar of experiences, classes and special events.</p>
                    
-                   <div style="background-color:#FFFFFF; border-color:#F1F1F1; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-width: 2px; border-style:solid; padding:20px 0px 20px 25px; margin:20px 25px 10px 25px; height:195px;">
-						
-				   <a class="fancyajax frame-left" href="/lightbox/harvest-month.html">
-						<img src="/images/site/oct-harvest-blue.png" height="184" alt="October is Harvest Month" /></a>	
+                   <div class="gray-box">
+                   		<div class="months">
 
-                   <a class="fancyajax frame-left" href="/lightbox/nov-2012.html">
-						<img src="/images/site/nov-stop-gray.png" height="184" alt="November is Stop Month" /></a>
+                   			<a class="fancyajax frame-left" href="/lightbox/nov-2012.html">
+								<img src="/images/site/nov-stop-blue.png" height="141" alt="November is Stop Month" /></a>
+
+							<a class="fancyajax frame-left" href="/lightbox/dec-2012.html">
+								<img src="/images/site/dec-joy-gray.png" height="141" alt="December is Joy Month" /></a>
 						
-				   <a class="fancy frame-left" href="/images/site/coming-soon.png">
-						<img src="/images/site/dec-joy-gray.png" height="184" alt="December is Joy Month" /></a>
-						
-				   </div>
-				   <p style="margin: 0 0 0 0; padding: 0 0 0 0;">&nbsp;</p>	
+				   			<a class="fancy frame-left" href="/images/site/coming-soon.png">
+								<img src="/images/site/jan-vitality-gray.png" height="141" alt="January is Vitality Month" /></a>
+
+							<a class="fancy frame-left" href="/images/site/coming-soon.png">
+								<img src="/images/site/feb-heart-gray.png" height="141" alt="February is Heart Month" /></a>
+						</div>
+					<div>
                                                                                                     
                     ]]>
 					</copy>

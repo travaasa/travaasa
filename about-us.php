@@ -24,7 +24,9 @@ $xml = simplexml_load_file('xml/copydeck.xml');
 	<link rel="stylesheet" href="/css/jquery-ui-1.8.8.custom.css" type="text/css" />
 	<!--[if IE]><link rel="stylesheet" href="/css/ie.css" type="text/css" /> <![endif]-->
 	<?php echo $ipadStyle; ?>
-	
+	<!-- begin fonts.com code -->
+    <script type="text/javascript" src="http://fast.fonts.com/jsapi/855e233c-3953-43b0-abfe-6551b0031c94.js"></script>
+    <!-- end fonts.com code -->
     <!-- start Typekit -->
     <script type="text/javascript" src="http://use.typekit.com/ypk4oxw.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>

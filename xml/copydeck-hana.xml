@@ -295,8 +295,124 @@
                 </h1>
                 <copy><![CDATA[
                 <p>Travaasa Resort & Spa provides you with different rate and package selections so that you can make the most of your time with us. These special offerings are designed to customize your journey.</p>
+                <div class="gray-box">
+                    
+                    <!--<a href='/lightbox/travaasa-man-month-june.html' class='fancyajax'><img class='frame-left' style='margin-left:20px;' src='http://placekitten.com/659/100' /></a>-->
+                    
+                    <table width="100%" id="table" cellpadding="10" cellspacing="5">  
+                      <tbody>
+                        <tr>
+                          <td width="54%" class="compare-table-title">&nbsp;</td>
+                          <td width="23%" class="compare-table-title">INCLUSIVE<br /><span style="font-size: 11px;">Total Travaasa</span></td>
+                          <td width="23%" class="compare-table-title">&#193; LA CARTE<br /><span style="font-size: 11px;">Your Travaasa</span></td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box">Spacious, <a href="hana/#/accommodations">well-appointed accommodations</a></td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box">Organic cotton linens</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box">In-room complimentary bottled water & organic fair-trade coffee</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box">Complete access to resort facilities</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box">Wi-Fi</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box">Access to our <a href="hana/#/hanaschedule">schedule</a> of programs & activities including yoga, fitness classes and an array of cultural activities and more</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box">Chef-prepared breakfast, lunch and dinner daily</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&nbsp;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box">All snacks and non-alcoholic beverages</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&nbsp;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box"><strong>$125</strong> resort credit per person per day, good toward <a href="hana/#/hana-massage-therapy">spa treatments</a> and private classes.</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td colspan="3">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td class="compare-table-title">&nbsp;</td>
+                          <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+                          <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+                        </tr>
+                        <tr>
+                          <td>&nbsp;</td>
+                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>800</td>
+                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>350</td>
+                        </tr>  
+                     </tbody>
+                    </table>
+
+                        <div class="months">
+
+                            <p class="rates-table-description-box" style="clear:both; margin:10px 20px 15px 0px">Calendar of Monthly Focuses</p>
+
+                            <a class="fancyajax frame-left" href="/lightbox/nov-2012.html">
+                                <img src="/images/site/nov-stop-blue.png" height="141" alt="November is Stop Month" /></a>
+
+                            <a class="fancyajax frame-left" href="/lightbox/dec-2012.html">
+                                <img src="/images/site/dec-joy-gray.png" height="141" alt="December is Joy Month" /></a>
+                        
+                            <a class="fancy frame-left" href="/images/site/coming-soon.png">
+                                <img src="/images/site/jan-vitality-gray.png" height="141" alt="January is Vitality Month" /></a>
+
+                            <a class="fancy frame-left" href="/images/site/coming-soon.png">
+                                <img src="/images/site/feb-heart-gray.png" height="141" alt="February is Heart Month" /></a>
+                        </div>
+
+                    <div class="fine-print-box">
+                        <h1>Age Policy</h1>
+
+                        <ul style="color:#707070; text-shadow: 1px 1px #FFF;">
+                          <li>The <a class="address_ajax" href="/hana/hana-accommodations-sea-ranch-cottages">Sea Ranch Cottages</a> and <strong>Total Travaasa</strong> packages are limited to adults <strong>16 and over</strong>.</li>
+                          <li>Children are welcome on the Garden View Suite side of the property during family friendly periods of March 11–24, July 25–August 8, and December 22–January 5, 2013.</li>
+                        </ul>
+
+                        <h1>Stay Longer, Save More</h1>
+                         
+                        <p style="text-align:left; font-size:14px; margin: 0 10px 0 10px; color:#888888;">Multiple night discounts are applied when you choose your dates.</p>
+
+                        <h1>The Fine Print</h1>
+
+                        <ul style="color:#707070; text-shadow: 1px 1px #FFF;">
+                          <li>There is no minimum length of stay required to book an inclusive package.</li>
+                          <li>Premium activities and private sessions may be purchased on an individual basis.</li>
+                          <li>High season is July 1–August 31; Holiday Season is December 22–January 5, 2013.</li>
+                          <li>An advance deposit of one night is required to guarantee your reservation. Advance deposit becomes non-refundable 10 days prior to arrival date of your reservation.</li>
+                          <li>Rates are exclusive of applicable taxes and an 18% daily service charge. The service charge is designed to cover access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, transportation from and to the Hana Airport (HNM), valet parking and gratuities on all package components.</li>
+                          <li>Trail rides and tasting tours at Ono Farms are an additional charge. Total Travaasa resort credits may be used toward these activities.</li>
+                          <li>Please note: Travaasa Hana is a non-tipping resort property other than food &#38; beverage areas.</li>
+                        </ul>
+                          <p style="color:#707070; text-shadow: 1px 1px #FFF;">CANCELLATION POLICY</strong>: All cancellations must be made at least 10 days before arrival date of reservation to receive refund of your advance deposit.</p>
+                    </div>
+                </div>
+
                 
-                <div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:4px 10px 4px 10px; margin:10px 25px 10px 25px;">
+                <!--<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:4px 10px 4px 10px; margin:10px 25px 10px 25px;">
                 <p><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="611" /></a></p>
                 </div>
                                 
@@ -510,7 +626,7 @@
                  <strong>CANCELLATION POLICY</strong>: All cancellations must be made at least 10 days before arrival date of reservation to receive refund of your advance deposit.</p>              
                  
                  </div>
-                                               
+                -->                            
                  <p><a href='http://www.tripadvisor.com/Hotel_Review-g60630-d120706-Reviews-Travaasa_Hotel_Hana-Hana_Maui_Hawaii.html' target='blank'><img src='http://travaasa.com/images/site/691-banner_tripadvisor.png' /></a></p>
                 ]]>
                 </copy>

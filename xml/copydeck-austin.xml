@@ -30,7 +30,7 @@
 					</meta>
 					<h1>The Newest Destination Resort and Spa in Texas</h1>
 					<copy><![CDATA[
-					<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:15px 0 20px 0; margin:5px 25px 0px 25px; height:390px;">
+					<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:15px 0 20px 0; margin:5px 25px 0px 25px; height:390px;">	
 		
 					<div style="float:left; margin:0 0 0 20px; width:370px;">
 					<a href="/austin/accommodations"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-rooms-t.jpg" width="150" height="95" alt="Rooms"></a>
@@ -70,7 +70,7 @@
 					<mainImg>images/site/austin-landing-view-729.jpg</mainImg>
                                         <slides>
                                             <slide>/images/site/austin-landing-view-729.jpg</slide>
-                                            <slide url='http://travaasadinner.com' target="_blank">images/site/travaasa-dinner-729.png</slide>
+                                            <slide>images/site/focus-on-your-bottom-line-729.jpg</slide>
                                             <slide>/images/site/729-canyon-windows.jpg</slide>
                                         </slides>
 					<imageCaption></imageCaption>
@@ -229,10 +229,125 @@
 						<description><![CDATA[Travaasa offers different rate and package selections to customize your journey]]></description>
 						<keywords><![CDATA[travaasa, rates, packages, customize]]></keywords>
 					</meta>
-					<h1><![CDATA[Staying at Travaasa Austin: Rates & Packages]]></h1>
+					<h1><![CDATA[Rates & Packages &#47; Staying at Travaasa Austin]]></h1>
 					<copy><![CDATA[
-					<p>Travaasa Resort & Spa provides you with different rate and package selections so that you can make the most of your time with us. These special offerings are designed to customize your journey.</p>
+					<p>Travaasa Resort & Spa provides you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <em>Travaasa Austin welcomes guests age 16 and up.</em></p>
+
+					<div class="gray-box">
 					
+					<!--<a href='/lightbox/travaasa-man-month-june.html' class='fancyajax'><img class='frame-left' style='margin-left:20px;' src='http://placekitten.com/659/100' /></a>-->
+					
+					<table width="100%" id="table" cellpadding="10" cellspacing="5">  
+					  <tbody>
+					    <tr>
+					      <td width="54%" class="compare-table-title">&nbsp;</td>
+					      <td width="23%" class="compare-table-title">INCLUSIVE<br /><span style="font-size: 11px;">Total Travaasa</span></td>
+					      <td width="23%" class="compare-table-title">&#193; LA CARTE<br /><span style="font-size: 11px;">Your Travaasa</span></td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box">Spacious, <a href="austin/#/accommodations">well-appointed accommodations</a></td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box">Organic cotton linens</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box">In-room complimentary bottled water & organic fair-trade coffee</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box">Complete access to resort facilities</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box">Wi-Fi</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box">Access to a <a href="austin/#/austinschedule">robust schedule</a> of programs & activities including yoga, fitness classes and an array of cultural activities and more</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box">Chef-prepared breakfast, lunch and dinner daily</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&nbsp;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box">All snacks and non-alcoholic beverages</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&nbsp;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box"><strong>$125</strong> resort credit per person per day, good toward <a href="austin/#/special-packages-and-day-spa">spa treatments</a> and private classes.</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&nbsp;</td>
+					    </tr>
+					    <tr>
+					      <td colspan="3">&nbsp;</td>
+					    </tr>
+					    <tr>
+					      <td class="compare-table-title">&nbsp;</td>
+					      <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+					      <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+					    </tr>
+					    <tr>
+					      <td>&nbsp;</td>
+					      <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>525</td>
+					      <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>225</td>
+					    </tr>  
+					 </tbody>
+					</table>
+
+						<div class="months">
+
+							<p class="rates-table-description-box" style="clear:both; margin:10px 20px 15px 0px">Calendar of Monthly Focuses</p>
+
+                   			<a class="fancyajax frame-left" href="/lightbox/nov-2012.html">
+								<img src="/images/site/nov-stop-blue.png" height="141" alt="November is Stop Month" /></a>
+
+							<a class="fancyajax frame-left" href="/lightbox/dec-2012.html">
+								<img src="/images/site/dec-joy-gray.png" height="141" alt="December is Joy Month" /></a>
+						
+				   			<a class="fancy frame-left" href="/images/site/coming-soon.png">
+								<img src="/images/site/jan-vitality-gray.png" height="141" alt="January is Vitality Month" /></a>
+
+							<a class="fancy frame-left" href="/images/site/coming-soon.png">
+								<img src="/images/site/feb-heart-gray.png" height="141" alt="February is Heart Month" /></a>
+						</div>
+
+					<div class="fine-print-box">
+						<h1>Age Policy</h1>
+					     
+					    <p style="text-align:left; font-size:14px; margin: 0 10px 0 10px; color:#888888;">
+					    	Travaasa welcomes guests <strong>aged 16 and up</strong>.</p>
+
+					    <h1>Stay Longer, Save More</h1>
+					     
+					    <p style="text-align:left; font-size:14px; margin: 0 10px 0 10px; color:#888888;">Multiple night discounts are applied when you choose your dates.</p>
+
+						<h1>The Fine Print</h1>
+					     
+					     <ul style="color:#707070; text-shadow: 1px 1px #FFF;">
+					       <li>There is no minimum length of stay required to book an inclusive package.</li>
+					       <li>Premium activities and <a href="austin/#/private-consultations">private sessions</a> may be purchased on an individual basis.</li>
+					       <li>Travaasa Austin requires that <strong>all guests be 16 and older</strong>.</li>
+					       <li>An advance deposit of one night is required to guarantee your reservation. Advance deposit becomes non-refundable 10 days prior to arrival date of your reservation.</li>
+					       <li>All rates are per person, per night.</li>
+					       <li>Rates are exclusive of applicable taxes and an 18% daily service charge. The service charge is designed to cover access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, self parking and gratuities on all package components.</li>
+					       <li>Travaasa Austin is a non-tipping resort property.</li>
+					       <li>Travaasa Austin does not allow smoking on property.</li>
+					       </ul>
+					       <p style="color:#707070; text-shadow: 1px 1px #FFF;">CANCELLATION POLICY: All cancellations must be made at least 10 days before arrival date of reservation to receive refund of your advance deposit.</p>
+					</div>
+				</div>
+
 					<!--<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:4px 10px 4px 10px; margin:10px 25px 10px 25px;">
                 <p><a href='/lightbox/travaasa-man-month-june.html' class='fancyajax'><img src="/images/site/man-month-rates.png" /></a></p></div>-->
 	                <!--<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:4px 10px 4px 10px; margin:10px 25px 10px 25px;">
@@ -241,7 +356,7 @@
                 <p><a href='/lightbox/august-aqua.html' class='fancyajax'><img src="/images/site/august-water-promo-611.jpg" /></a></p></div>-->
                    
 
-					<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:10px 10px 10px 10px; margin:10px 25px 5px 25px;">
+					<!--<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:10px 10px 10px 10px; margin:10px 25px 5px 25px;">
 					
 					<h1>Total Travaasa</h1>
 										
@@ -354,7 +469,7 @@
 						<li>Complimentary Wi-Fi</li>
 					</ul>
 					
-						<p style="font-size: 12px; text-decoration:none !important; font-family:'Adobe Caslon Pro', georgia, serif !important; color:#D11241 !important;"><a href="/austin/accommodations"><em>Learn more about accommodation types.</em></a></p>
+						<p style="font-size: 12px; text-decoration:none !important; font-family:'Adobe Caslon Pro', georgia, serif !important; color:#D7385E !important;"><a href="/austin/accommodations"><em>Learn more about accommodation types.</em></a></p>
 					
 					
 					<table width="100%" cellpadding="10" cellspacing="10" style="background-color:#FAFAFA; border: 1px solid #F1F1F1;">
@@ -474,7 +589,7 @@
 					       <br />
   
 					     </div>
-
+					-->
                     <p><a href='http://www.tripadvisor.com/Hotel_Review-g30196-d2008152-Reviews-Travaasa_Austin-Austin_Texas.html' target='blank'><img src='/images/site/691-banner_tripadvisor.png' /></a></p>
                     ]]>
 					</copy>
@@ -1445,6 +1560,7 @@
 								<url></url>
 							</pdf>
 						</pdf_downloads>
+
 				</page>
 				<page section="10" secondaryNav="true" id="41" position="1" sitemapId="3.2" sitemapTitle="AUSTIN SPA OVERVIEW">
 					<title>The Spa at Travaasa Austin</title>
@@ -1456,19 +1572,19 @@
 					</meta>
 					<h1>The Spa at Travaasa Austin</h1>
 					<copy><![CDATA[
-					<a href="/austin/austin-watsu"><img class="frame-left" style="float:left; margin: 5px 20px 10px 20px;" src="http://travaasa.com/images/site/discover-watsu.jpg" width="180" height="127" alt="Discover Watsu"></a>
+					<!--<a href="/austin/austin-watsu"><img class="frame-left" style="float:left; margin: 5px 20px 10px 20px;" src="http://travaasa.com/images/site/discover-watsu.jpg" width="180" height="127" alt="Discover Watsu"></a>-->
 					<p>A visit to The Spa at Travaasa Austin goes far beyond pampering and indulgence.  Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul.  Featuring 11 treatment rooms, including a couple’s room, as well as a hot tub and dry sauna, the spa sits adjacent to the property’s infinity pool, which overlooks the serene and scenic hill country landscape.</p>
-										<p>We offer an array of massages, healing rituals, beauty treatments and personalized services, using only organic, bioenergetic products, including the Primavera and Anakiri skin care lines, which are also available in our Spa Boutique.</p>
+					<p>We offer an array of massages, healing rituals, beauty treatments and personalized services, using only organic, bioenergetic products, including the Primavera and Anakiri skin care lines, which are also available in our Spa Boutique.</p>
 
-										<p style="text-align:left; font-family:georgia, serif; font-size:12px; color:#333;"><em>The Spa at Travaasa is a retreat for both overnight and day guests offering a comprehensive menu of treatments.</em></p>
+					<p style="text-align:left; font-family:georgia, serif; font-size:12px; color:#333;"><em>The Spa at Travaasa is a retreat for both overnight and day guests offering a comprehensive menu of treatments.</em></p>
 										
-										<br />
+					<br />
 										
-										<div id="book-gift" style='float: left; margin: 0 20px 0 0'><a href="http://travaasa.com/pdf/The-Spa-at-Travaasa_Guide.pdf" TARGET="_blank">Spa Guide</a></div>
+					<div id="book-gift" style='float: left; margin: 0 20px 0 0'><a href="http://travaasa.com/pdf/The-Spa-at-Travaasa_Guide.pdf" TARGET="_blank">Spa Guide</a></div>
 										
-										<br />
+					<br />
 										
-										<p><iframe style='margin-top: -20px; float: left;' align="right" allowtransparency="true" class="facebook_menu" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http://traavasa.com/austin/#/travaasa-spa-overview&layout=button_count&show_faces=false&action=like&colorscheme=light"></iframe></p>]]>
+					<p><iframe style='margin-top: -20px; float: left;' align="right" allowtransparency="true" class="facebook_menu" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http://traavasa.com/austin/#/travaasa-spa-overview&layout=button_count&show_faces=false&action=like&colorscheme=light"></iframe></p>]]>
 					</copy>
 					<thumbImg>images/site/spa-treatment-overview-crisman-t.jpg</thumbImg>
 					<thumbCaption>The Spa at Travaasa Austin</thumbCaption>
@@ -1907,7 +2023,7 @@ A portion of the proceeds from this treatment will be donated to the Texas Beeke
 							</pdf>
 						</pdf_downloads>
 				</page>
-				<page section="10" secondaryNav="false" id="50" position="10" sitemapId="3.2.8" sitemapTitle="WATSU">
+				<!--<page section="10" secondaryNav="false" id="50" position="10" sitemapId="3.2.8" sitemapTitle="WATSU">
 					<title>Watsu</title>
 					<meta>
 						<slug>austin-watsu</slug>
@@ -1944,7 +2060,7 @@ A portion of the proceeds from this treatment will be donated to the Texas Beeke
 								<url>/pdf/The-Spa-at-Travaasa_Guide.pdf</url>
 							</pdf>
 						</pdf_downloads>
-				</page>
+				</page>-->
 
 				<page section="11" secondaryNav="true" id="51" position="1" sitemapId="3.3" sitemapTitle="DINING">
 					<title>Dining</title>
@@ -2392,7 +2508,7 @@ A portion of the proceeds from this treatment will be donated to the Texas Beeke
 					
 					<p>Travaasa sits nestled in 210 acres of the Balcones Canyonlands Preserve overlooking beautiful Lake Travis just 30 minutes from downtown Austin.  There are 70 guestrooms located within seven buildings set along meandering paths with scenic Texas Hill Country views. The property includes horse stables, a challenge course, a state-of-the-art fitness center, a tranquil spa with infinity edge pool, a beautifully appointed dining area with an exhibition kitchen, and an outdoor patio with sunset views.</p>
 					 
-					<p><em>A New Type of Destination Hotel</em></p>
+					<p><em>A New Type of Experiential Hotel</em></p>
 					<p>Travaasa is an ideal location for Corporate Meetings and Executive Retreats. The boutique hotel property boasts invigorating group activities and team building, regional culinary experiences, and authentic customizable meetings.</p>
 					 
 					<p>Austin Bergstrom International Airport is easily accessible with nonstop and direct flights from numerous cities.   With Austin’s warm and sunny climate, Travaasa is the perfect setting year-round.</p>
@@ -2970,31 +3086,31 @@ A portion of the proceeds from this treatment will be donated to the Texas Beeke
 					
 					<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:20px 15px 15px 15px; margin:10px 25px 0px 25px;">
 						
-					<h2><span style="color:#d11241;">7:00am</span></h2>
+					<h2><span style="color:#D7385E;">7:00am</span></h2>
 					<p>Wake up to the sound of bird song outside your deluxe <a class="pink-link" href="/austin/canyon">Canyon Room</a>. Make a little morning tea or coffee, and savor the peace and tranquility from your balcony.</p>
 										
-					<h2><span style="color:#d11241;">7:30am</span></h2>
+					<h2><span style="color:#D7385E;">7:30am</span></h2>
 					<p>Join us for a <a class="pink-link" href="/austin/hiking">sunrise hike</a>. We’ll stroll across our property and through the beautiful Balcones Canyonlands.</p>
 										
-					<h2><span style="color:#d11241;">8:30am</span></h2>
+					<h2><span style="color:#D7385E;">8:30am</span></h2>
 					<p>After an invigorating walk, savor a hearty yet healthy breakfast at <a class="pink-link" href="/austin/jeans-kitchen-and-the-spur">Jean's Kitchen</a>. After all, you’ve already earned it.</p>
 										
-					<h2><span style="color:#d11241;">10:00am</span></h2>
+					<h2><span style="color:#D7385E;">10:00am</span></h2>
 					<p>By mid-morning, you’ll be ready to get back outside. Head to the stables and enjoy a <a class="pink-link" href="/austin/equine-experiences">A guided equine encounter</a>. This isn’t just an ordinary horseback ride. You’ll learn to project your intentions and build self-awareness and confidence by guiding one of these majestic animals.</p>
 										
-					<h2><span style="color:#d11241;">12:30pm</span></h2>
+					<h2><span style="color:#D7385E;">12:30pm</span></h2>
 					<p>Continue your discovery of self-awareness with a sun salutation (among many other poses) in one of our many <a class="pink-link" href="/austin/yoga-for-mind-and-body">yoga classes</a>, or in a <a class="pink-link" href="/austin/meditation">guided meditation class</a>. Let go, suspend your judgment, and uncover a whole new side to your consciousness.</p>
 										
-					<h2><span style="color:#d11241;">1:30pm</span></h2>
+					<h2><span style="color:#D7385E;">1:30pm</span></h2>
 					<p>Return to Jean’s Kitchen for a light and delicious lunch.</p>
 					
-					<h2><span style="color:#d11241;">2:00pm</span></h2>
+					<h2><span style="color:#D7385E;">2:00pm</span></h2>
 					<p>We highly recommend learning the <a class="pink-link" href="/austin/texas-two-step">Texas Two-Step</a>. It’s not only a great workout and ridiculously fun, it’s also a glimpse at true Texas culture. Depending on the day’s <a class="pink-link" href="/austin/austinschedule">activity schedule</a>, you can also follow the Two-Step with one of our many <a class="pink-link" href="/austin/basic-culinary-skills">culinary demonstrations</a>.</p>
 										
-					<h2><span style="color:#d11241;">4:00pm</span></h2>
+					<h2><span style="color:#D7385E;">4:00pm</span></h2>
 					<p>It’s time to unwind and work out the kinks and stresses that you have been piling up. Head to the <a class="pink-link" href="/austin/travaasa-spa-overview">Spa at Travaasa Austin</a> and choose from our extensive menu of body treatments, facials, massages and holistic healing remedies. Overwhelmed with choices? Start with our signature juniper and olive stone exfoliation massage.</p>
 										
-					<h2><span style="color:#d11241;">6:00pm</span></h2>
+					<h2><span style="color:#D7385E;">6:00pm</span></h2>
 					<p>Watch the evening sun settle toward the horizon with a cocktail in hand on the Mesquite Patio. Follow it with an exceptional dinner in Jean’s Kitchen.</p>
 					
 					</div>
