@@ -52,8 +52,8 @@
 					   <td width="50%" class="thin-title">&#192; la carte</td>
 					  </tr>
 					  <tr>
-					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>425<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
-					   <td class="thin-big-price"><span style="font-size:38px;">$</span>200<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
+					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>525<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
+					   <td class="thin-big-price"><span style="font-size:38px;">$</span>300<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
 					  </tr>
 					  <tr>
 					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 47px; float: none;'><a class="address_ajax" href="/hana/hana-rates-and-packages">See Rates and Packages</a></div></td>
@@ -356,8 +356,8 @@
                         </tr>
                         <tr>
                           <td class="compare-table-title">&nbsp;</td>
-                          <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
-                          <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+                          <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+                          <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
                         </tr>
                         <tr>
                           <td>&nbsp;</td>
