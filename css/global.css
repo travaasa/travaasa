@@ -383,9 +383,25 @@ NEW GIFTCARD BUTTON COLOR
 */
 h1 {font-size:20px; color:#D7385E; padding:16px 20px 7px 20px; font-weight:normal; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;}
 .austin .main_content_content h1, .experiences .main_content_content h1{font-weight:normal; padding-top:15px; padding-bottom:5px; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;}
-h2 {font-size:17px; color:#fff; font-weight:normal;}
+
+h2 {
+    font-size:0.75em;
+    line-height: 1.3em;
+    color:#D7385E;
+    font-weight:bold;
+    text-transform: uppercase;
+    font-family: 'Gill Sans W04 Bold', 'Gill Sans Std', 'Gill Sans MT', 'Helvetica Neue', Helvetica, Arial, Sans-Serif;
+}
+
 .about_us h2{color:#D7385E;}
-.main_content_content h2{font-size:18px; color:#111111; padding:5px 20px 0px; font-weight:normal; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;
+.main_content_content h2 {
+    font-size:0.75em;
+    line-height: 1.3em;
+    color:#D7385E;
+    padding:5px 20px 0px;
+    font-weight:bold;
+    text-transform: uppercase;
+    font-family: 'Gill Sans W04 Bold', 'Gill Sans Std', 'Gill Sans MT', 'Helvetica Neue', Helvetica, Arial, Sans-Serif;
 }
 h3 {font-size:24px; color:#fff; font-weight:normal;}
 h4 {}
@@ -1000,7 +1016,7 @@ a.large-link:hover {
 }
 
 .compare-table-check {
-    color: #D11241;
+    color: #D7385E;
     text-align: center;
     vertical-align:middle;
     background-color: #FFFFFF;
