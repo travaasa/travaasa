@@ -52,8 +52,8 @@
 					   <td width="50%" class="thin-title">&#192; la carte</td>
 					  </tr>
 					  <tr>
-					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>425<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
-					   <td class="thin-big-price"><span style="font-size:38px;">$</span>200<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
+					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>525<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
+					   <td class="thin-big-price"><span style="font-size:38px;">$</span>300<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
 					  </tr>
 					  <tr>
 					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 47px; float: none;'><a class="address_ajax" href="/hana/hana-rates-and-packages">See Rates and Packages</a></div></td>
@@ -356,8 +356,8 @@
                         </tr>
                         <tr>
                           <td class="compare-table-title">&nbsp;</td>
-                          <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
-                          <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=28064&Chain=10237&template=AUSTC&shell=AUSTC4']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+                          <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+                          <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
                         </tr>
                         <tr>
                           <td>&nbsp;</td>
@@ -409,224 +409,7 @@
                         </ul>
                           <p style="color:#707070; text-shadow: 1px 1px #FFF;">CANCELLATION POLICY</strong>: All cancellations must be made at least 10 days before arrival date of reservation to receive refund of your advance deposit.</p>
                     </div>
-                </div>
-
-                
-                <!--<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:4px 10px 4px 10px; margin:10px 25px 10px 25px;">
-                <p><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="611" /></a></p>
-                </div>
-                                
-                <div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:10px 10px 10px 10px; margin:10px 25px 10px 25px;">
-                
-                <h1>Total Travaasa</h1>
-                					
-                <p>Treat yourself to the Total Travaasa package when you don’t want to worry about a thing.<br />
-                Arrive, relax and enjoy.</p>
-                <p><em>Total Travaasa includes:</em></p>
-                <ul>
-                <li>Spacious, well-appointed accommodations featuring organic cotton linens</li>
-                <li>Three healthy meals per day, snacks and non-alcoholic beverages</li>
-                <li>A daily spa/activity credit valued at <strong>$125</strong> per night of stay per guest for use towards spa services, private sessions, trail rides, or other off-site adventures with one of our select partners</li>
-                <li>Complete access to the resort facilities</li>
-                <li>Unlimited access to a variety of <a class="address_ajax" href="/hana/hanaschedule">scheduled programs & activities</a> including yoga, archery, fitness classes, an array of cultural activities and more</li>
-                </ul>
-                
-                <table width="100%" cellpadding="10" cellspacing="10" style="background-color:#FAFAFA; border: 1px solid #F1F1F1;">
-                
-                <tr>
-                	<td colspan="10" class="rates-table-description-box" style="text-align:center !important;">Regular season rates for Total Travaasa listed below. <a class='fancyajax' href='/lightbox/hana-total-travaasa-high-season-rates.html'>Click here to view Total Travaasa high season rates.</a></td>
-                </tr>
-                <tr><td colspan="10">&nbsp;</td></tr>
-                <tr>
-                	<td rowspan="8" width="15">&nbsp;</td>
-                	<td colspan="2" class="rates-table-package-title">One-Night Package<br /><span style="font-family:georgia, serif; font-size:12px; color:#333333;"><em>&#42;per person, per night</em></span></td>
-                    <td rowspan="8" width="15">&nbsp;</td>
-                	<td colspan="2" class="rates-table-package-title">Three-Night Package<br /><span style="font-family:georgia, serif; font-size:12px; color:#333333;"><em>&#42;per person, per night</em></span></td>
-                    <td rowspan="8" width="15">&nbsp;</td>
-                	<td colspan="2" class="rates-table-package-title">Five-Night Package<br /><span style="font-family:georgia, serif; font-size:12px; color:#333333;"><em>&#42;per person, per night</em></span></td>
-                    <td rowspan="8" width="15">&nbsp;</td>
-                </tr>
-                <tr>
-                	<td colspan="2" class="rates-table-room-type1">Sea Ranch Cottage</td>
-                	<td colspan="2" class="rates-table-room-type1">Sea Ranch Cottage</td>
-                	<td colspan="2" class="rates-table-room-type1">Sea Ranch Cottage</td>
-                </tr>  
-                
-                <tr>
-                	<td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$450 – $588</td>
-                	<td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$438 – $575</td>
-                    <td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$425 – $563</td>
-                </tr>     
-                <tr>
-                	<td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$625 – $900</td>
-                	<td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$600 – $875</td>
-                    <td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$575 – $850</td>
-                </tr>
-                
-                <tr>
-                	<td colspan="2" class="rates-table-room-type1">Garden View Suite</td>
-                	<td colspan="2" class="rates-table-room-type1">Garden View Suite</td>
-                	<td colspan="2" class="rates-table-room-type1">Garden View Suite</td>
-                </tr>  
-                
-                <tr>
-                	<td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$425</td>
-                	<td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$413</td>
-                    <td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$400</td>
-                </tr>     
-                <tr>
-                	<td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$575</td>
-                	<td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$550</td>
-                    <td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$525</td>
-                </tr>
-                <tr>
-                	<td colspan="2"><div id="book-hana" style='font-size: 14px; margin:0 0 0 35px; float: none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">Book Now</a></div></td>
-                    
-                    <td colspan="2"><div id="book-hana" style='font-size: 14px; margin:0 0 0 35px; float: none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">Book Now</a></div></td>
-                    
-                    <td colspan="2"><div id="book-hana" style='font-size: 14px; margin:0 0 0 35px; float: none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">Book Now</a></div></td>
-                </tr>
-                
-                <tr><td colspan="10">&nbsp;</td></tr>
-                
-                <tr>
-                	<td colspan="10" class="rates-table-description-box" style="text-align:center !important;">Sea Ranch Cottage rates vary by view and amenities&#59; specific rates are available by clicking "Book Now".  Multiple night discounts are applied when you choose your dates. Taxes and 18% service charge not included.</td>
-                </tr>
-                </table>
-                </div>
-                
-                <div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:10px 10px 10px 10px; margin:10px 25px 10px 25px;">
-                
-                <h1>Your Travaasa</h1>
-                
-                <p style="text-align:justify;">Your Travaasa is a package of our core offerings including accommodations and access to the wide variety of Travaasa's <a class="address_ajax" href="/hana/hanaschedule">signature daily programming experiences</a>. Guests may customize their experience with additional meals, activities and/or spa treatments on an &#224; la carte basis.</p>
-                
-                <p><em>Your Travaasa include:</em></p>
-                
-                <ul>
-                <li>Spacious, well-appointed accommodations featuring organic cotton linens</li>
-                <li>In-room complimentary bottled water</li>
-                <li>Complete access to resort facilities</li>
-                <li>Unlimited access to a variety of <a class="address_ajax" href="/hana/hanaschedule">scheduled programs & activities</a> including yoga, archery, fitness classes, an array of cultural activities and more</li>
-                </ul>
-                
-                <table width="100%" cellpadding="10" cellspacing="10" style="background-color:#FAFAFA; border: 1px solid #F1F1F1;">
-                
-                <tr>
-                	<td colspan="10" class="rates-table-description-box" style="text-align:center !important;">Regular season rates for Your Travaasa listed below. <a class='fancyajax' href='/lightbox/hana-your-travaasa-high-season-rates.html'>Click here to view Your Travaasa high season rates.</a></td>
-                </tr>
-                <tr><td colspan="10">&nbsp;</td></tr>
-                <tr>
-                	<td rowspan="8" width="15">&nbsp;</td>
-                	<td colspan="2" class="rates-table-package-title">One-Night Package<br /><span style="font-family:georgia, serif; font-size:12px; color:#333333;"><em>&#42;per person, per night</em></span></td>
-                    <td rowspan="8" width="15">&nbsp;</td>
-                	<td colspan="2" class="rates-table-package-title">Three-Night Package<br /><span style="font-family:georgia, serif; font-size:12px; color:#333333;"><em>&#42;per person, per night</em></span></td>
-                    <td rowspan="8" width="15">&nbsp;</td>
-                	<td colspan="2" class="rates-table-package-title">Five-Night Package<br /><span style="font-family:georgia, serif; font-size:12px; color:#333333;"><em>&#42;per person, per night</em></span></td>
-                    <td rowspan="8" width="15">&nbsp;</td>
-                </tr>
-                <tr>
-                	<td colspan="2" class="rates-table-room-type1">Sea Ranch Cottage</td>
-                	<td colspan="2" class="rates-table-room-type1">Sea Ranch Cottage</td>
-                	<td colspan="2" class="rates-table-room-type1">Sea Ranch Cottage</td>
-                </tr>  
-                
-                <tr>
-                	<td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$225 – $363</td>
-                	<td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$213 – $350</td>
-                    <td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$200 – $338</td>
-                </tr>     
-                <tr>
-                	<td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$400 – $675</td>
-                	<td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$375 – $650</td>
-                    <td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$350 – $625</td>
-                </tr>
-                
-                <tr>
-                	<td colspan="2" class="rates-table-room-type1">Garden View Suite</td>
-                	<td colspan="2" class="rates-table-room-type1">Garden View Suite</td>
-                	<td colspan="2" class="rates-table-room-type1">Garden View Suite</td>
-                </tr>  
-                
-                <tr>
-                	<td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$200</td>
-                	<td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$188</td>
-                    <td class="rates-table-single-double">Double&#42;</td>
-                	<td class="rates-table-prices">$175</td>
-                </tr>     
-                <tr>
-                	<td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$350</td>
-                	<td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$325</td>
-                    <td class="rates-table-single-double">Single&nbsp;</td>
-                	<td class="rates-table-prices">$300</td>
-                </tr>
-                <tr>
-                	<td colspan="2"><div id="book-hana" style='font-size: 14px; margin:0 0 0 35px; float: none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">Book Now</a></div></td>
-                    
-                    <td colspan="2"><div id="book-hana" style='font-size: 14px; margin:0 0 0 35px; float: none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">Book Now</a></div></td>
-                    
-                    <td colspan="2"><div id="book-hana" style='font-size: 14px; margin:0 0 0 35px; float: none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">Book Now</a></div></td>
-                </tr>
-                
-                <tr><td colspan="10">&nbsp;</td></tr>
-                
-                <tr>
-                	<td colspan="10" class="rates-table-description-box" style="text-align:center !important;">Sea Ranch Cottage rates vary by view and amenities&#59; specific rates are available by clicking "Book Now".  Multiple night discounts are applied when you choose your dates. Taxes and 18% service charge not included.</td>
-                </tr>
-                </table>
-                </div>
-                
-                                 
-                 <div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:12px 10px 5px 10px; margin:5px 25px 5px 25px;">
-                                               	
-                 <p style="text-align:center; font-family:georgia, serif; font-size: 13px"><em>the fine print</em></p>
-                 
-                 <p style="text-align:left; font-size:13px; margin: 0 15px 0 15px;">&#8226;&nbsp;There is no minimum length of stay required to book an inclusive package.<br />
-                 
-                 &#8226;&nbsp;Premium activities and private sessions may be purchased on an individual basis.<br />
-                                               	
-                 &#8226;&nbsp;Please note the <a class="address_ajax" href="/hana/hana-accommodations-sea-ranch-cottages">Sea Ranch Cottages</a> and Total Travaasa packages are limited to adults <strong>16 and over</strong>.<br />
-                 
-                 &#8226;&nbsp;Family friendly periods are March 11–24, July 25–August 8, and December 22–January 5, 2013.<br />
-                 
-                 &#8226;&nbsp;High season is July 1–August 31; Holiday Season is December 22–January 5, 2013.<br />
-                 
-                 &#8226;&nbsp;An advance deposit of one night is required to guarantee your reservation. Advance deposit becomes non-refundable 10 days prior to arrival date of your reservation.<br />
-                 
-                 &#8226;&nbsp;All rates are per person, per night.<br />
-                 
-                 &#8226;&nbsp;Rates are exclusive of applicable taxes and an 18% daily service charge. The service charge is designed to cover access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, transportation from and to the Hana Airport (HNM), valet parking and gratuities on all package components.<br />
-                 
-                 &#8226;&nbsp;Trail rides and tasting tours at Ono Farms are an additional charge. Total Travaasa resort credits may be used toward these activities.<br />
-                 
-                 &#8226;&nbsp;Please note: Travaasa Hana is a non-tipping resort property other than food &#38; beverage areas.<br />
-                 
-                 <strong>CANCELLATION POLICY</strong>: All cancellations must be made at least 10 days before arrival date of reservation to receive refund of your advance deposit.</p>              
-                 
-                 </div>
-                -->                            
+                </div>                       
                  <p><a href='http://www.tripadvisor.com/Hotel_Review-g60630-d120706-Reviews-Travaasa_Hotel_Hana-Hana_Maui_Hawaii.html' target='blank'><img src='http://travaasa.com/images/site/691-banner_tripadvisor.png' /></a></p>
                 ]]>
                 </copy>
@@ -1790,16 +1573,17 @@
                     <keywords><![CDATA[Travaasa, Hana, Hāna, Maui, resort, Maui spa, Hawaii spa, boutique spa resorts, spa, treatments, massage, facials, packages, rates, all-inclusive]]></keywords>
                 </meta>
                 <h1>The Spa at Travaasa Hana</h1>
-                <copy><![CDATA[<p>Welcome to The Spa at Travaasa Hana, a deeply relaxing sanctuary of peace and tranquility enhanced by Hana&rsquo;s natural tropical beauty. We believe true health and balance come from the gifts of the earth and elements of nature, and that Hana is a place of innate nurturing and well-being.</p>
+                <copy><![CDATA[
+                    
+                     <p>Welcome to The Spa at Travaasa Hana, a deeply relaxing sanctuary of peace and tranquility enhanced by Hana&rsquo;s natural tropical beauty. We believe true health and balance come from the gifts of the earth and elements of nature, and that Hana is a place of innate nurturing and well-being.</p>
             		<p>At The Spa at Travaasa Hana, we gratefully utilize the incredible bounty of Hana, using its abundant plants, minerals and water to blend in our teas and create natural body and face products and treatments. The wide variety of therapeutic services we offer prepares our guests to experience Hana more fully, thus restoring feelings of balance and wellness to body, mind, spirit and emotion</p>
                                         
-                   <br />
                    
-                   <div id="book-gift" style='float: left; margin: 0 20px 0 0'><a href="http://travaasa.com/pdf/Travaasa-Hana-Spa-Guide.pdf" TARGET="_blank">Spa Guide</a></div>
+                     <div id="book-gift" style='float: left; margin: 0 20px 0 0'><a href="http://travaasa.com/pdf/Travaasa-Hana-Spa-Guide.pdf" TARGET="_blank">Spa Guide</a></div>
                    
-                   <br />
+                     <br />
                    
-                   <p><iframe style='margin-top: -20px; float: left;' align="right" allowtransparency="true" class="facebook_menu" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http://travaasa.com/hana/#/hana-the-spa-at-traavasa-hana&layout=button_count&show_faces=false&action=like&colorscheme=light"></iframe></p>
+                     <p style="padding-bottom:40px;"><iframe style='margin-top: -20px; float: left;' align="right" allowtransparency="true" class="facebook_menu" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http://travaasa.com/hana/#/hana-the-spa-at-traavasa-hana&layout=button_count&show_faces=false&action=like&colorscheme=light"></iframe></p>
                 ]]>
                 </copy>
                 <thumbImg>images/site/hana-spa-t.jpg</thumbImg>
@@ -1825,29 +1609,38 @@
                 <h1>Reservations &#38; Spa Information</h1>
                 <copy><![CDATA[<p>To make reservations at The Spa at Travaasa Hana for a spa treatment or spa package, to plan a spa retreat, or to inquire about a customized wellness program, please call 808-270-5290.</p>
             		
-            		<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:20px 10px 10px 10px; margin:10px 25px 0px 25px;">
+            		<div class="gray-box">
             		
             		<h2>Spa Concierge</h2>
             		<p>We are at your service during spa hours to address your questions and to customize your spa experience for maximum benefit and enjoyment. When making your spa reservations, advise our Spa Concierge of any health concerns, allergies or special requests to ensure a healthy and enjoyable experience.</p>
-            		<h2>Cancellations</h2>
+            		
+                    <h2>Cancellations</h2>
             		<p>Please keep in mind that the treatment times are reserved especially for you. There is a 50% charge for any changes made to appointments with less than 6 hours notice, or Spa Packages with less than 24 hours notice. No-shows and cancellations will be charged in full with less than 24 hours notice. As a courtesy to all guests, late arrivals will only receive the remaining available appointment time.</p>
-            		<h2>Arrival Time</h2>
+            		
+                    <h2>Arrival Time</h2>
             		<p>Please arrive at least 30 minutes prior to your appointment time to take full advantage of our facilities. If you arrive late, your treatment will end on time so that the next guest will not be inconvenienced.</p>
-            		<h2>Spa Attire</h2>
+            		
+                    <h2>Spa Attire</h2>
             		<p>Please arrive wearing attire that is comfortable for you. You will need a bathing suit for use of the outdoor water facilities. We provide robes and slippers.</p>
             		<h2>Leave Everything Behind</h2>
             		<p>Please leave valuables, cigarettes, alcoholic beverages, cell phones and pagers in your Cottage. Minimum age requirement for spa guests is 16 years of age.</p>
-            		<h2>Our Therapists</h2>
+            		
+                    <h2>Our Therapists</h2>
             		<p>As spa professionals, our therapists are well-trained to ensure your comfort and privacy at all times. A male, female or specific therapist may be requested. However, we cannot guarantee their availability.</p>
-            		<h2>Gratuities</h2>
+            		
+                    <h2>Gratuities</h2>
             		<p>For your convenience, an 18% gratuity will be added to each treatment.</p>
-            		<h2>For Your Comfort</h2>
+            		
+                    <h2>For Your Comfort</h2>
             		<p>Please shower before all treatments. Avoid shaving one day prior to body scrubs. Rest and avoid vigorous activity for at least one hour after treatments, and drink water before and after all therapies.</p>
-            		<h2>In-Room Massage</h2>
+            		
+                    <h2>In-Room Massage</h2>
             		<p>Enjoy massages in the privacy of your Cottage for an additional $40 per person.</p>
-            		<h2>Pregnancy</h2>
+            		
+                    <h2>Pregnancy</h2>
             		<p>We suggest several different treatments for pregnant women. Please notify us as to the length of term when making an appointment.</p>
-            		<h2>Day Guests</h2>
+            		
+                    <h2>Day Guests</h2>
             		<p>Appointments are required for all non-guests.</p>
             		</div>
             		]]>
@@ -1875,33 +1668,29 @@
                 <h1>Body Treatments</h1>
                 <copy><![CDATA[<p>Body treatments at Travaasa Hana are designed to energize or soothe, and at Travaasa Hana we have a special name for the special herbal treatments we use: Pala&lsquo;au Kino (heal the body with herbs).</p>
             		
-            		<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:20px 10px 10px 10px; margin:10px 25px 0px 25px;">
+            		<div class="gray-box">
             		
-            		<h2>Ho&rsquo;ala (&ldquo;To Arise&rdquo;) Refining Clay Body Wrap</h2>
+            		<h2>Refining Clay Body Wrap</h2>
             		<p>Unrefined, sun-dried pink clay blended with wild-crafted, organic myrtle, sandalwood, lemon, sea algae and wild rose defines this deeply cleansing, purifying and toning experience. Witch hazel, organic fig and rosemary help balance and clear the mind while reducing stress and tension trapped in the body. Clay has been used throughout the ages for its healing, cooling, anti-inflammatory and regenerative properties. This treatment includes a gentle exfoliation, comforting clay body wrap and Harmonizing Ear &amp; Scalp massage. Healing botanicals of organic cypress, juniper and hyssop also help cleanse, tone, moisturize and deeply stimulate your skin.
             		<br />90 minutes &#8211; <strong>$175</strong></p>
             		
-            		<h2>Ho&rsquo;ola hou (&ldquo;To Restore Life&rdquo;) Aromatherapy Massage and Warm Body Wrap</h2>
+            		<h2>Aromatherapy Massage and Warm Body Wrap</h2>
             		<p>Enjoy the calming and genuine healing properties of pure organic essential oils. This 90-minute customized massage soothes the soul with your choice of Relaxing, Balancing, Warming, Energizing or Fitness premium massage oil blends. Your massage is followed with a warm body wrap to allow this pure oil blend to deeply penetrate your skin. During the wrap, a Harmonizing Ear &amp; Scalp Massage is performed to usher your body and psyche into a state of total relaxation and renewal.
             		<br />90 minutes &#8211; <strong>$185</strong></p>
             		
-            		<h2>Ho&rsquo;opa&rsquo;a (&ldquo;To Complete&rdquo;) Detoxifying Body Massage &amp; Algae Wrap</h2>
+            		<h2>Detoxifying Algae Wrap &amp; Massage</h2>
             		<p>Unrefined, sun-dried green clay blended with the purest spirulina defines this experience. Finding balance and clarity using organic myrtle, lemon and juniper combined with sandalwood and olive stone to regenerate, oxygenate and clarify your skin. Skin will be restored, rehydrated and protected by our organic myrtle, cypress, hyssop, juniper, rosemary and other healing plants and flowers, leaving it feeling pure, clean, firm and smooth. A Swedish massage finishes this age-defying treatment.
             		<br />90 minutes &#8211; <strong>$185</strong></p>
             		
-            		<h1>Add-On Treatments</h1>
+                    <br />
+            		<h2 style="color:#666666;">Add-On Treatments</h2>
             		
-            		<h2>Malama Maka (&ldquo;Care for the Eyes&rdquo;) Soothing &amp; Healing Eye Treatment</h2>
+            		<h2>Soothing &amp; Healing Eye Treatment</h2>
             		<p>Applied during mask resting time. Treat and revive tired or stressed eyes with Amala&rsquo;s mineral-rich eye pack. This eye pack will work to restore tone and elasticity and assist in minimizing dark circles, puffiness and fine lines while regenerating and oxygenating your skin. The delicate eye area will be soothed, remineralized and rehydrated by our organic seed oils, crafted from plants and flowers which are vital for the health and repair of our skin.
             		<br />$40</strong></p>
             		
-            		<h2>&lsquo;Anainai Pa&rsquo;akai (&ldquo;To Scrub with Salt&rdquo;) Sea Mineral Salt Scrub</h2>
+            		<h2>&lsquo;Anainai Pa&rsquo;akai Sea Mineral Salt Scrub</h2>
             		<p>A perfect add-on to any massage. Unrefined, mineral rich sea salt will gently buff away dry flaky skin, leaving your body silky smooth.
-            		<br />30 minutes &#8211; <strong>$65</strong></p>
-            		
-            		<h2>&lsquo;Anainai &lsquo;Ili (&ldquo;To Scrub the Skin&rdquo;) Dry Brush Treatment</h2>
-            		<p>Stimulate the lymphatic system with this massage add-on. Dry skin will be brushed off, while stimulating the lymphatic system to help create perfect balance.
-            		<br />30 minutes &#8211; <strong>$50</strong></p>
             		
             		</div>
             		]]>
@@ -1930,29 +1719,29 @@
                 </h1>
                 <copy><![CDATA[<p>We believe that natural beauty is best restored using natural remedies. At Travaasa Hana we call it Pala&lsquo;au &lsquo;lli (heal the skin with herbs). Let us create a facial expressly for you and your skin type, then lay back and relax as we soothe, heal and clarify your skin with local clay, wild-crafted oils, plants, minerals and flowers.</p>
             		
-            		<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:20px 10px 10px 10px; margin:10px 25px 0px 25px;">
+            		<div class="gray-box">
             		
-            		<h2>Ka &lsquo;Oi (&ldquo;The Best&rdquo;) Most Pure Facial</h2>
+            		<h2>Most Pure Facial</h2>
             		<p>Throughout time, blue lotus has symbolized purity of mind and body. Blue lotus, and other healing plants, seed oils and flowers such as jasmine, papaya, coco bean, green tea and green algae inspired this balancing, clarifying and restorative treatment. Indian Rassoul clay is incorporated for its deep-cleansing and healing properties. Our signature Vedic Marma Cleansing Technique, combined with wild-crafted bamboo, tiger grass and ginger, provides essential nutrition and replenishes amino acids to purify the skin as it restores balance. The rare blue lotus provides essential nutrition for a pure, healthy complexion. Great for all skin types.
             		<br />90 minutes &#8211; <strong>$195</strong></p>
             		
-            		<h2>Ho&rsquo;oma&rsquo;ema&rsquo;e (&ldquo;To Purify&rdquo;) Oil Control Facial</h2>
+            		<h2>Oil Control Facial</h2>
             		<p>Restore balance, clarity and radiance to skin inspired by the healing plants and flowers of the Islands. Fair-trade rice germ, blue lotus, bamboo, algae extract and green and white clays help control excessive oil production and remove clogging impurities from skin. Wild-crafted tiger grass, tonka, macadamia and organic aloe, ginger and lemon help heal blemishes and promote clear skin. Organic green and white teas provide antioxidant protection, soothe skin and even skin tone for a pure, clear and healthy complexion. Perfect for oily and combination skin.
             		<br />60 minutes &#8211; <strong>$135</strong></p>
             		
-            		<h2>Ho&rsquo;opahe&rsquo;e (&ldquo;To Hydrate&rdquo;) Deep Moisturizing Facial</h2>
+            		<h2>Deep Moisturizing Facial</h2>
             		<p>Quench dry, dehydrated skin with our organic, fair-trade cultivated and custom-distilled jasmine, along with organic papaya, jojoba and shea butter. Soothing fruits and healing herbs will restore lasting hydration and elasticity while protecting skin from free radical damage. Fine lines and uneven skin texture are smoothed by clove bud, lychee, rosewood and turmeric. The healing power of jasmine and other South Pacific plant ingredients replenish and sustain the skin&rsquo;s moisture and pono (balance) for a silky smooth texture and healthy, even tone. Essential for dehydrated, tired or jetlagged skin.
             		<br />60 minutes &#8211; <strong>$135</strong></p>
             		
-            		<h2>Ho&rsquo;omalena (&ldquo;To Tighten&rdquo;) Firming Facial</h2>
+            		<h2>Firming Facial</h2>
             		<p>Nourish, rejuvenate and firm your skin with this luxurious and highly effective facial. A combination of organic jasmine, avocado, macadamia nut and papaya gently hydrates. The perfect blend of organic cocoa bean, acerola, damask rose, sandalwood and hibiscus rejuvenates and brightens your skin. Restorative fruits and plants such as andiroba, neroli and buriti will smooth fine lines and renew elasticity of the skin. Sun-dried sea algae, organic aloe, green coffee oil and licorice root trap and remove impurities, leaving your skin firmer, brighter with a more radiant and youthful skin tone.
             		<br />60 minutes &#8211; <strong>$135</strong></p>
             		
-            		<h2>Ho&rsquo;omalu (&ldquo;To Protect&rdquo;) Hana Remineralizing Facial</h2>
+            		<h2>Hana Remineralizing Facial</h2>
             		<p>Unrefined white and pink clays blended with the purest spirulina define this facial experience. Healing organic plants and flowers nourish parched skin. Inherent minerals will regenerate, oxygenate and deeply stimulate your skin. Your skin will gently absorb the minerals, vitamins and moisture from our organic cocoa bean, acai, andiroba, brazil nut, island plants and flowers, leaving skin brighter, firmer, smoother, more youthful. Great for all skin types, especially mature or long-term sun damaged skin.
             		<br />60 minutes &#8211; <strong>$140</strong></p>
             		
-            		<h2>Ho&rsquo;opiha (&ldquo;To Replenish&rdquo;) Soothing Skin Facial</h2>
+            		<h2>Soothing Skin Facial</h2>
             		<p>Sun-dried, white clay has been used by indigenous cultures throughout the ages for its healing, cooling, anti-inflammatory and regenerative properties. Our organic, botanical facial uses white clay to calm and nurture sensitive or overexposed skin back to healthy balance. Organic jasmine, shea butter, aloe, rose, papaya and other healing plants and flowers will replenish the skin&rsquo;s moisture level and restore a healthy, even tone. Sensitive skin and sunburned skin will also benefit from this facial.
             		<br />60 minutes &#8211; <strong>$135</strong></p>
             		
@@ -1960,7 +1749,7 @@
             		<p>The healing blue lotus has come to symbolize purity and balance. Our gentleman&rsquo;s deeply cleansing and hydrating facial employs wild-crafted blue lotus, algae extract, rice germ, bamboo, ginger, lemon and tiger grass to exfoliate and purify the skin and decongest pores. Perfect for a man&rsquo;s skin, this facial provides the full spectrum of skin benefits as nature intended.
 					<br />60 minutes &#8211; <strong>$135</strong></p>
 					
-            		<h2>Hō&rsquo;ae&rsquo;ae (&ldquo;To Make Soft&rdquo;) Purifying Back Treatment</h2>
+            		<h2>Purifying Back Treatment</h2>
             		<p>Restore balance, clarity and radiance to your skin with this back treatment inspired by the healing properties of rice germ, blue lotus, bamboo, algae extract and green and white clays. Control excessive oil production and remove clogging impurities from skin. Tiger grass and lemon help heal blemishes and promote clear skin; green and white teas provide antioxidant protection, soothe skin and even skin tone for a pure, healthy complexion.
             		<br />60 minutes &#8211; <strong>$135</strong></p>
             		</div>
@@ -1992,7 +1781,7 @@
                 </h1>
                 <copy><![CDATA[
                 
-                	<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:20px 10px 10px 10px; margin:10px 25px 0px 25px;">
+                	<div class="gray-box">
                 	
                 	<h2>Aromatherapy Scalp Treatment</h2>
                 	<p>This wonderful scalp treatment uses herbal oils of cinnamon and clove to stimulate and nourish your hair and scalp.
@@ -2032,32 +1821,44 @@
                 </meta>
                 <h1>Massage Therapy</h1>
                 <copy><![CDATA[
-                	<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:20px 10px 10px 10px; margin:10px 25px 0px 25px;">
+                	<!--<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:20px 10px 10px 10px; margin:10px 25px 0px 25px;">-->
+
+                    <div class="gray-box">
                 	
-                	<h2>Swedish Massage</h2>
+                	<h2>Hawaiian Lomilomi</h2>
+                    <p>Lomilomi is a powerful native Hawaiian healing tradition. Rhythmic strokes, joint movement and deep kneading open the body and soothe the soul. Enjoy your choice of aromatherapy signature oil blends &#8211; $10 additional.
+                    <br />60 or 90 minutes &#8211; <strong>$130/$185</strong></p>
+
+                    <h2>Deep Tissue Massage</h2>
+                    <p>Melt away deep-seated tension and pain. This massage will release muscle fatigue and toxicity, help to realign your posture and increase range of motion. Our signature rice bran, coconut and monoi oil is used during this massage.
+                    <br />60 or 90 minutes &#8211; <strong>$140/$195</strong></p>
+
+                    <h2>Swedish Massage</h2>
             		<p>This deeply relaxing and soothing massage uses long, flowing strokes to help reduce tension and stress, ease stiffness and gently increase circulation. Our signature coconut, rice bran and monoi oil is used during this massage.
             		<br />60 or 90 minutes &#8211; <strong>$130/$185</strong></p>
-            		<h2>Deep Tissue Massage</h2>
-            		<p>Melt away deep-seated tension and pain. This massage will release muscle fatigue and toxicity, help to realign your posture and increase range of motion. Our signature rice bran, coconut and monoi oil is used during this massage.
-            		<br />60 or 90 minutes &#8211; <strong>$140/$195</strong></p>
-            		<h2>Hapai (Pre-Natal) Massage</h2>
+            		
+                    
+            		
+                    <h2>Prenatal Massage</h2>
             		<p>Perfect for that special mom-to-be. This massage can be performed in all stages of pregnancy and is designed to reduce fluid retention, increase muscle tone and soothe aching backs and necks.
             		<br />60 minutes &#8211; <strong>$130</strong></p>
-            		<h2>Traditional Thai Massage</h2>
+            		
+                    <h2>Traditional Thai Massage</h2>
             		<p>This ancient healing art of Thailand uses gentle compression, acupressure on specific energy lines, rhythmic stretching and warm herbal compresses. The yoga of massage. Thai massage garments are provided.
             		<br />90 or 120 minutes &#8211; <strong>$195/$250</strong></p>
-            		<h2>Pōhaku Wela Hot Stone</h2>
+            		
+                    <h2>Pohaku Wela Hot Stone</h2>
             		<p>In the traditions of Hawai&rsquo;i, smooth heated stones apply the elements of earth, air, fire and water to achieve a healing, centering, rejuvenating treatment as muscle tension melts.
             		<br />60 or 90 minutes &#8211; <strong>$140/$195</strong></p>
-            		<h2>Hawaiian Lomilomi</h2>
-            		<p>Lomilomi is a powerful native Hawaiian healing tradition. Rhythmic strokes, joint movement and deep kneading open the body and soothe the soul. Enjoy your choice of aromatherapy signature oil blends &#8211; $10 additional.
-            		<br />60 or 90 minutes &#8211; <strong>$130/$185</strong></p>
-            		<h2>Reflexology</h2>
+            		
+                    
+            		
+                    <h2>Reflexology</h2>
             		<p>Reflexology uses a specific touch to stimulate points along meridian paths over the entire body. This treatment begins with a dry brush treatment over the feet and lower leg, followed by a detoxifying foot soak using organic myrtle, fig and juniper. A soothing hand and foot massage completes this treatment. Not recommended for pregnant women.
             		<br />60 minutes &#8211; <strong>$130</strong></p>
-            		<h2>Hō&rsquo;a&rsquo;ala (&ldquo;To Make Fragrant&rdquo;) Aromatherapy Oil</h2>
+            		
+                    <h2>Ho&rsquo;a&rsquo;ala (&ldquo;To Make Fragrant&rdquo;) Aromatherapy Oil</h2>
             		<p>Added to any massage treatment &#8211; <strong>$10</strong></p>
-            		<br />
             		
             		</div>
             		]]>
@@ -2134,19 +1935,19 @@
                 <h1>Special Packages</h1>
                 <copy><![CDATA[
                 	
-                	<div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:20px 10px 10px 10px; margin:10px 25px 0px 25px;">
+                	<div class="gray-box">
                 	
                 	<h2>Hana Couple&rsquo;s Escape</h2>
-            		<p>Relax together, in the privacy of our couple&rsquo;s spa suite. Share any 60-minute massage, followed by a 90 minute Body Treatment of your choice. Price per couple, does not include gratuity.
-            		<br /><strong>$590</strong> per couple</p>
+            		<p>In your shared spa suite, this indulgent treatment starts off with an organic myrtle salt water foot soak and unrefined, sun-dried clay foot mask. You and your special someone will slip into deep relaxation with a soothing full body massage using our premium, organic massage oil.  Our nourishing scalp treatment finishes this head-to-toe treatment. Price per couple, does not include gratuity.
+            		<br /><strong>$450</strong> per couple</p>
             		
-            		<h2>Ho&rsquo;okaulike (Total Balance)</h2>
+            		<h2>Total Balance</h2>
             		<p>Choose any 60-minute facial followed by any 90-minute massage. Does not include gratuity.
             		<br /><strong>$285</strong> per person</p>
             		
-            		<h2>Malama Kino Package (Total Care)</h2>
-            		<p>Regular massage and body therapies increase circulation and promote overall health, giving your body, mind and spirit a renewed sense of well-being. Choose up to eight 60-minute treatments from our spa menu and enjoy the benefits of wellness. Allow us to customize a package for you. Speak to your spa concierge for help in designing your ultimate spa experience. This package is available for more than one person and must be prepaid. There are no refunds or reimbursements for unused treatments. Guests may use this package any time during their stay. Price does not include gratuity.
-            		<br /><strong>$950</strong> per cottage</p>
+            		<h2>The Journey</h2>
+            		<p>Unwind and renew from your journey with this holistic treatment. We combine the best of our organic facials and theraputic, healing massages in this integrated experience. Price does not include gratuity.
+            		<br /><strong>$200</strong> per person</p>
             		</div>
             		]]>
                 </copy>
@@ -2172,7 +1973,7 @@
                 </meta>
                 <h1>Spa Facilities</h1>
                 <copy><![CDATA[
-                <div style="background-color:#FFFFFF; border-color:#F1F1F1; border-width: 4px; border-style:solid; padding:15px 10px 10px 10px; margin:10px 25px 0px 25px;">
+                <div class="gray-box">
     
                 <p>Enjoy our well-appointed men&rsquo;s and women&rsquo;s locker rooms complete with steam rooms, cold plunge pool, indoor and outdoor showers, robes, slippers, towels and personal amenities. Beverages, herbal tea and fresh fruit are provided in the relaxation lounge. Relax in our outdoor, lava-rock whirlpool and lounge overlooking Hana Bay in a tropical garden setting. Browse our spa shop, which features a full line of nurturing products, clothing, books, music, jewelry, teas and more.</p>
                 </div>
@@ -2199,13 +2000,16 @@
                     <keywords><![CDATA[Travaasa, Hana, Maui, dining, restaurant, Kauiki, Paniolo Lounge, organic food, sustainable]]></keywords>
                 </meta>
                 <h1>Dining at Travaasa Hana</h1>
-                <copy><![CDATA[<h2>Nourishment</h2>
+                <copy><![CDATA[
+                    <div class="gray-box">
+                    <h2>Nourishment</h2>
             		<p>With the incredible abundance and inspiration of Hana to draw from, our Executive Chef has created a dining experience that&rsquo;s pure Travaasa &ndash; a celebration of life and the bounty of the earth that nourishes us body and soul. He&rsquo;s coined a name for his eclectic, creative culinary style: Hana Fusion, a combination of techniques from classical to innovative blending bold flavors with a focus on in-season, local ingredients.</p>
             		<p>The menu incorporates many diverse layers of culinary influence central to Hawaiian culture. Alongside signature local dishes, you&rsquo;ll find elements of Asian and Old World European cuisine. Here at Travaasa Hana, it all gets mixed up in a delicious m&eacute;lange as our chef creates familiar yet unique dishes with a Polynesian flair. And in keeping with the health-conscious ethos of the Hawaiian people, we also offer an extensive selection of gourmet vegetarian and vegan foods. Everything we serve is made from scratch with health and balance in mind.</p>
             		<p>During your stay you can expect to savor a wide range of inventive, ambrosial dishes, such as our own Pohole Fern Shoot Salad, a native Hawaiian favorite. Fish wrapped in Ti Leaves. Seaweed salad. Taro. Fish smoked with guava and mango wood. Lilikoi Mahi with Hawaiian sweet potato and ginger lime coconut sauce. And an Open-faced Smoked Chicken Salad Sandwich on house-made bread with a locally grown sprout salad.</p>
             		<p>Travaasa is all about the experience, a reminder that life is for living, and living well, and we always want you to leave happy. Dine with us and that philosophy is clear with every bite.</p>
             		<h2>Eating Well</h2>
-            		<p>The Islands are a land rich with nature&rsquo;s bounty. Whenever possible we select fresh, organic, locally-sourced produce, fish, meat and dairy. Premium foods that are in-season and in our area to bring you only the finest sustainable breakfast, lunch and dinner options. At Travaasa Hana we like to nourish, not only the spirit, but also the body. Because good food means good health.</p>]]>
+            		<p>The Islands are a land rich with nature&rsquo;s bounty. Whenever possible we select fresh, organic, locally-sourced produce, fish, meat and dairy. Premium foods that are in-season and in our area to bring you only the finest sustainable breakfast, lunch and dinner options. At Travaasa Hana we like to nourish, not only the spirit, but also the body. Because good food means good health.</p>
+                    </div>]]>
                 </copy>
                 <thumbImg>images/site/hana-dining-overview-t.jpg</thumbImg>
                 <thumbCaption>Dining Overview</thumbCaption>
@@ -2252,9 +2056,15 @@
                     <keywords><![CDATA[Travaasa, Hana, Maui, dining, restaurant, Kauiki, Paniolo Lounge, organic food, sustainable, libations, beer, wine, cocktails]]></keywords>
                 </meta>
                 <h1>Libations</h1>
-                <copy><![CDATA[<p><strong>Wine</strong> We offer a distinctive and varied wine list that mirrors our environmental values by featuring organic, biodynamic and sustainable wines made by boutique producers. The practice of biodynamics in winemaking has been gaining in popularity and biodynamic wines have stronger, clearer, more vibrant tastes, as well as wines that remain drinkable longer.</p>
-            		<p><strong>Beer</strong> Sticking with our locally-sourced credo, we offer handcrafted lagers and ales from the Maui Brewing Company. Their Bikini Blonde lager, Big Swell IPA and Coconut Porter are brewed from the finest natural and local ingredients. We also stock an exceptional selection of imported beers.</p>
-            		<p><strong>Cocktails</strong> When in Hawai&rsquo;i do as the Hawaiians do. Try a Hana Mai Tai made with fresh juices and other Hana favorites like the pineapple mojito and the Hana Highway Delight.</p>]]>
+                <copy><![CDATA[
+                <div class="gray-box">
+                    <h2>Wine</h2> 
+                    <p>We offer a distinctive and varied wine list that mirrors our environmental values by featuring organic, biodynamic and sustainable wines made by boutique producers. The practice of biodynamics in winemaking has been gaining in popularity and biodynamic wines have stronger, clearer, more vibrant tastes, as well as wines that remain drinkable longer.</p>
+            		<h2>Beer</h2>
+                    <p>Sticking with our locally-sourced credo, we offer handcrafted lagers and ales from the Maui Brewing Company. Their Bikini Blonde lager, Big Swell IPA and Coconut Porter are brewed from the finest natural and local ingredients. We also stock an exceptional selection of imported beers.</p>
+            		<h2>Cocktails</h2>
+                    <p>When in Hawai&rsquo;i do as the Hawaiians do. Try a Hana Mai Tai made with fresh juices and other Hana favorites like the pineapple mojito and the Hana Highway Delight.</p>
+                </div>]]>
                 </copy>
                 <thumbImg>images/site/hana-libations-t.jpg</thumbImg>
                 <thumbCaption>Libations</thumbCaption>
