@@ -167,6 +167,9 @@ foreach ($xml->hana->secondaryPages->page as $page) {
     <link rel="stylesheet" href="/fancybox/source/helpers/jquery.fancybox-buttons.css?v=2.0.4" type="text/css" media="screen" />
 	<!--[if IE]><link rel="stylesheet" href="/css/ie.css" type="text/css" /> <![endif]-->
 	<?php echo $ipadStyle; ?>
+	<!-- begin fonts.com code -->
+    <script type="text/javascript" src="http://fast.fonts.com/jsapi/855e233c-3953-43b0-abfe-6551b0031c94.js"></script>
+    <!-- end fonts.com code -->
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.livequery.js"></script>

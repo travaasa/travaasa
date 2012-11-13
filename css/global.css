@@ -167,7 +167,7 @@ body{background-color: #fff; font-family: Verdana, Arial, sans-serif;margin:0;pa
 	
                 #book-hana a:hover, #book-austin a:hover {
                     background: #FFF;
-                    color:  #D11241 !important;
+                    color:  #D7385E !important;
                     -webkit-transition: background-color .4s;
                     -moz-transition: background-color .4s;
                     transition: background-color .4s;
@@ -176,7 +176,7 @@ body{background-color: #fff; font-family: Verdana, Arial, sans-serif;margin:0;pa
 
                  #getonthelist a:hover {
                         background: #FFF;
-                        color:  #D11241;
+                        color:  #D7385E;
                         -webkit-transition: background-color .4s;
                         -moz-transition: background-color .4s;
                         transition: background-color .4s;
@@ -245,78 +245,98 @@ body{background-color: #fff; font-family: Verdana, Arial, sans-serif;margin:0;pa
                 }
                 #giftcards-wrapper {
                     margin: 20px;
-                    border: 3px solid #D11241;
+                    border: 3px solid #D7385E;
+                }
                     
 /*
 NEW GIFTCARD BUTTON COLOR
 ------------------------------------------
 */                 
-                }
-                #book-gift a:hover {
-                    background: #FFFFFF;
-                    border-top: 1px solid #fafafa;
-                    color:  #D11241 !important;
-                    -webkit-transition: background-color .4s !important;
-                    -moz-transition: background-color .4s !important;
-                    transition: background-color .4s !important;
-                    text-decoration:none !important;
-                 }
 
-                #book-gift a {
-                    display: block;
-                    width: 100px !important;
-                    font-size: 13px;
-                    border-top: 1px solid #93b5bd;
-                    background: #6f9ba6;
-                    background: -webkit-gradient(linear, left top, left bottom, from(#a4c1c9), to(#6f9ba6));
-                    background: -webkit-linear-gradient(top, #a4c1c9, #6f9ba6);
-                    background: -moz-linear-gradient(top, #a4c1c9, #6f9ba6);
-                    background: -ms-linear-gradient(top, #a4c1c9, #6f9ba6);
-                    background: -o-linear-gradient(top, #a4c1c9, #6f9ba6);
-                    text-align: center;
-                    text-decoration:none !important;
-                    heightREMOVED: 18px;
-                    padding: 4px 0 5px 0;
-                    border-radius: 2px;
-                    -webkit-border-radius: 2px;
-                    -moz-border-radius: 2px;
-                    -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.297);
-				    -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.297);
-				    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.297);
-                    text-shadow: rgba(0,0,0,.4) 0 1px 0;
-                    text-decoration: none;
-                    color: #FFFFFF !important;
-                    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-                    behavior: url(/css/pie/PIE.htc);
+#book-gift a:hover {
+    background: #D7385E;
+    color: #FFFFFF !important;
+    -webkit-transition: background-color .1s !important;
+    -moz-transition: background-color .1s !important;
+    transition: background-color .1s !important;
+    text-decoration: none !important;
+ }
+
+#book-gift a {
+
+    display:block;
+    color: #FFFFFF !important;
+    background:#EA5965;
+    padding: 7px 0px 6px 0px;
+    margin: 5px 0px 5px 20px;
+    font-size:80%;
+    line-height: 110%;
+    font-weight: bold;
+    text-transform: lowercase;
+    font-style: italic;
+    font-family: "Gill Sans Std", "Gill Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    behavior:url(/css/pie/PIE.htc);
+    position:relative;
+    width:100px !important;
+    text-decoration: none !important;
+    text-align: center;
+    }
+
+#book-gift aOLD {
+    display: block;
+    width: 100px !important;
+    font-size: 13px;
+    border-top: 1px solid #93b5bd;
+    background: #6f9ba6;
+    background: -webkit-gradient(linear, left top, left bottom, from(#a4c1c9), to(#6f9ba6));
+    background: -webkit-linear-gradient(top, #a4c1c9, #6f9ba6);
+    background: -moz-linear-gradient(top, #a4c1c9, #6f9ba6);
+    background: -ms-linear-gradient(top, #a4c1c9, #6f9ba6);
+    background: -o-linear-gradient(top, #a4c1c9, #6f9ba6);
+    text-align: center;
+    text-decoration:none !important;
+    heightREMOVED: 18px;
+    padding: 4px 0 5px 0;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.297);
+    -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.297);
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.297);
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    text-decoration: none;
+    color: #FFFFFF !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    behavior: url(/css/pie/PIE.htc);
 /*                    -pie-background: #A4C1C9;*/
-                    z-index: 0;
-                    position: relative;
-                    margin: 5px 0px 8px 20px;
-                }               
-                
-                .copied from new rates style {
-                   border-top: 1px solid #93b5bd;
-                   background: #6f9ba6;
-                   background: -webkit-gradient(linear, left top, left bottom, from(#a4c1c9), to(#6f9ba6));
-                   background: -webkit-linear-gradient(top, #a4c1c9, #6f9ba6);
-                   background: -moz-linear-gradient(top, #a4c1c9, #6f9ba6);
-                   background: -ms-linear-gradient(top, #a4c1c9, #6f9ba6);
-                   background: -o-linear-gradient(top, #a4c1c9, #6f9ba6);
-                   padding: 6.5px 12px;
-                   -webkit-border-radius: 2px;
-                   -moz-border-radius: 2px;
-                   border-radius: 2px;
-                   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
-				    -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
-				    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
-                   text-shadow: rgba(0,0,0,.4) 0 1px 0;
-                   color: white;
-                   font-size: 13px;
-                   font-family: Helvetica, Arial, Sans-Serif;
-                   text-decoration: none;
-                   vertical-align: middle;
-                   text-align: center;
-                   }               
+    z-index: 0;
+    position: relative;
+    margin: 5px 0px 8px 20px;
+}               
+
+.copied from new rates style {
+   border-top: 1px solid #93b5bd;
+   background: #6f9ba6;
+   background: -webkit-gradient(linear, left top, left bottom, from(#a4c1c9), to(#6f9ba6));
+   background: -webkit-linear-gradient(top, #a4c1c9, #6f9ba6);
+   background: -moz-linear-gradient(top, #a4c1c9, #6f9ba6);
+   background: -ms-linear-gradient(top, #a4c1c9, #6f9ba6);
+   background: -o-linear-gradient(top, #a4c1c9, #6f9ba6);
+   padding: 6.5px 12px;
+   -webkit-border-radius: 2px;
+   -moz-border-radius: 2px;
+   border-radius: 2px;
+   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
+    -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 13px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   text-align: center;
+   }               
                 
 #footer_frame{font-size:10px; color:#000; text-transform:uppercase; position:relative; min-width:960px; width:100%; bottom:0px;}
 
@@ -361,24 +381,40 @@ NEW GIFTCARD BUTTON COLOR
 5.0 HEADINGS
 ------------------------------------------
 */
-h1 {font-size:20px; color:#d11241; padding:16px 20px 7px 20px; font-weight:normal; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;}
+h1 {font-size:20px; color:#D7385E; padding:16px 20px 7px 20px; font-weight:normal; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;}
 .austin .main_content_content h1, .experiences .main_content_content h1{font-weight:normal; padding-top:15px; padding-bottom:5px; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;}
-h2 {font-size:17px; color:#fff; font-weight:normal;}
-.about_us h2{color:#D11241;}
-.main_content_content h2{font-size:18px; color:#111111; padding:5px 20px 0px; font-weight:normal; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;
+
+h2 {
+    font-size:0.75em;
+    line-height: 1.3em;
+    color:#D7385E;
+    font-weight:bold;
+    text-transform: uppercase;
+    font-family: 'Gill Sans W04 Bold', 'Gill Sans Std', 'Gill Sans MT', 'Helvetica Neue', Helvetica, Arial, Sans-Serif;
+}
+
+.about_us h2{color:#D7385E;}
+.main_content_content h2 {
+    font-size:0.75em;
+    line-height: 1.3em;
+    color:#D7385E;
+    padding:5px 20px 0px;
+    font-weight:bold;
+    text-transform: uppercase;
+    font-family: 'Gill Sans W04 Bold', 'Gill Sans Std', 'Gill Sans MT', 'Helvetica Neue', Helvetica, Arial, Sans-Serif;
 }
 h3 {font-size:24px; color:#fff; font-weight:normal;}
 h4 {}
 
 .contact_us .box_610_content_content h2{color:#000; padding-top:8px;} /* CHANGED H2 TO H1 ON CONTACT US PAGE, ADDED SPACING. */
-.contact_us .box_610_content_content h1{color:#D11241; padding-top:16px;}
+.contact_us .box_610_content_content h1{color:#D7385E; padding-top:16px;}
 
 /*
 6.0 LINKS
 ------------------------------------------
 */
 a.learn_more{color:#111111; font-size:10px; text-transform:uppercase; text-decoration:none;}
-a.learn_more:hover{color:#f05033; font-size:10px; text-transform:uppercase; text-decoration:none;}
+a.learn_more:hover{color:#D7385E; font-size:10px; text-transform:uppercase; text-decoration:none;}
 .about_us a.learn_more{text-transform:none;}
 /*
 7.0 PARAGRAPHS
@@ -462,7 +498,7 @@ input{display:block;}
 	.download_pdf{margin-top:10px;}
 	.download_pdf p{}
 	.download_pdf a{font-size:10px; color:#44a6be; height: 31px; width: 135px; display:block; background: url(../images/download-pdf_bg.png) 0 0 no-repeat; padding:8px 5px 0 75px; font-family: sans-serif !important; line-height: 13px !important; }
-	.download_pdf a:hover{ color:#F05033; }
+	.download_pdf a:hover{ color:#D7385E; }
 	.download_pdf a img{margin-left:5px; }
 
 #home_promoRowof3{position:relative; height:130px; width:928px; margin:auto;}
@@ -486,7 +522,7 @@ input{display:block;}
 #main_content p.home_content{padding-bottom:0px;}
 #main_content .main_content_container{width:522px; float:left;}
 #main_content .main_content_container a{position:static; color:#111111; text-decoration:underline;}
-#main_content .main_content_container a:hover{position:static; color:#F05033; text-decoration:underline;}
+#main_content .main_content_container a:hover{position:static; color:#D7385E; text-decoration:underline;}
 	#main_content .main_content_container h1{font-size:20px; font-weight:normal; margin-top: 19px; margin-left: 15px; margin-bottom: 3px;
 	}
 	#main_content .main_content_container p{width:90%; font-size:14px; color:#111111; line-height: 18px; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif; margin-left:15px;
@@ -494,11 +530,11 @@ input{display:block;}
 	#main_content .main_content_container p a{position:static;}
 	
 /*#main_content .promo_container{padding-top:16px;}*/
-/*	#main_content .promo_container h3{font-size:15px; color:#d11241; margin-bottom:8px; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;}*/
+/*	#main_content .promo_container h3{font-size:15px; color:#D7385E; margin-bottom:8px; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;}*/
 	#main_content .promo_container p{font-size:14px; color:#111111; width:auto; line-height: 18px; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;
 	}
 	#main_content .promo_container a{ color:#111111; text-decoration:underline;}
-	#main_content .promo_container a:hover{color:#F05033; text-decoration:underline;}
+	#main_content .promo_container a:hover{color:#D7385E; text-decoration:underline;}
 	#main_content .promo_container img{float:left; margin-right:10px; margin-top:0px;}
 
 /**used on experiences**/
@@ -518,7 +554,7 @@ input{display:block;}
 #main_content_frame .main_content_content p{padding:5px 20px 5px 20px; font-size: 14px; line-height: 18px; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;
 }
 #main_content_frame .main_content_content a{position:static; color:#111111; text-decoration:underline; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;}
-#main_content_frame .main_content_content a:hover{position:static; color:#F05033; text-decoration:underline;}
+#main_content_frame .main_content_content a:hover{position:static; color:#D7385E; text-decoration:underline;}
 .austin #main_content_frame .main_content_content p, .experiences #main_content_frame .main_content_content p{padding-bottom:7px; padding-top:7px;}
 
 
@@ -532,13 +568,13 @@ input{display:block;}
 	ul.secondary_nav li a{font-size:12px; color:#fff; background: url(../images/nav/secondary-bg.png) 0 0 repeat-x; width:195px; height:30px; display:block; padding-left:20px; line-height:30px; text-decoration:none;}
 	ul.secondary_nav li.top a{background: url(../images/nav/secondary-bg-top-left.png) 0 0 no-repeat; }
 	ul.secondary_nav li a img{display:none;}
-	ul.secondary_nav li a.selected, ul.secondary_nav li a:hover{background: url(../images/nav/secondary-bg_over.png) repeat-x; color:#d11241;}
+	ul.secondary_nav li a.selected, ul.secondary_nav li a:hover{background: url(../images/nav/secondary-bg_over.png) repeat-x; color:#D7385E;}
 	ul.secondary_nav li a.selected img{display:inline; margin-left:7px;}
 	ul.secondary_nav li.top a.selected, ul.secondary_nav li.top a:hover{background: url(../images/nav/secondary-bg-top-left_over.png) no-repeat;}
 	
 	ul.secondary_nav li.childOfOne{}
 	ul.secondary_nav li.childOfOne a{background: url(../images/nav/secondary-bg_over.png) repeat-x; color:#19768d; padding-left:30px; width:185px;}
-	ul.secondary_nav li.childOfOne a.selected, ul.secondary_nav li.childOfOne a:hover{color:#d11241;}
+	ul.secondary_nav li.childOfOne a.selected, ul.secondary_nav li.childOfOne a:hover{color:#D7385E;}
 
 
 #slideshow_frame{height:375px; margin-bottom:-5px; position:relative; }
@@ -582,7 +618,7 @@ implement this with body class="page_name"
 			.box_610_content h2{padding:15px 0 8px 20px;}
 			.box_610_content p{padding:0 20px 8px 20px; text-decoration:none; color:#111111;}
 			.box_610_content a{text-decoration:underline; color:#111111;}
-			.box_610_content a:hover{text-decoration:none; color:#F05033; text-decoration:underline;}
+			.box_610_content a:hover{text-decoration:none; color:#D7385E; text-decoration:underline;}
 			
 		.box_610_image{position:absolute;}
 		.about_us .box_610_image{margin-top:13px;}
@@ -607,7 +643,7 @@ implement this with body class="page_name"
 	}
 	.contact_us .box_610_content_content{width:293px; margin-left:313px;}
 	 	.box_610_content_content a{text-decoration:none; color:#111111; text-decoration:underline;}
-		.box_610_content_content a:hover{text-decoration:none; color:#F05033; text-decoration:underline;
+		.box_610_content_content a:hover{text-decoration:none; color:#D7385E; text-decoration:underline;
 		}
 	.contact_us .right_610_box a.learn_more{font-size:16px; line-height:30px;}
 .right_304{width:304px; margin-left:15px; position:relative; float:left;}
@@ -622,7 +658,7 @@ implement this with body class="page_name"
 	.contact_us_form_container .submit_contact_form{position:absolute; right:13px; bottom:-34px; background: url(../images/btn_submit.png) 0 0 no-repeat; height:35px; width:104px; text-indent:-999em; cursor:pointer; border:none; margin:0px; color: transparent; text-transform: capitalize; }
 	.contact_us_form_container .submit_special_offer_sign_up{position:absolute; right:13px; top:80px; background: url(../images/btn_submit.png) 0 0 no-repeat; height:35px; width:104px; text-indent:-999em; cursor:pointer; border:none; margin:0px; color: transparent; text-transform: capitalize; }
 	.contact_us_form_container .error{float:left; margin-left:6px;}
-	.contact_us_form_container .error h4{font-size:12px; color:#d11241; padding:0px;}
+	.contact_us_form_container .error h4{font-size:12px; color:#D7385E; padding:0px;}
 	.contact_us_form_container h4{color:#fff; padding:50px 20px 20px;}
 	
 	#loading{ position:absolute; top:85px; left:229px; visibility:hidden;}
@@ -721,50 +757,37 @@ body.hana .main_content_content h2.landing_page{font-size:14px;}
 /**  TOOLKIT **/
 
 .button-toolkit a {
-   border-top: 1px solid #a4c1c9;
-   background: #658f99;
-   background: -webkit-gradient(linear, left top, left bottom, from(#a4c1c9), to(#658f99));
-   background: -webkit-linear-gradient(top, #a4c1c9, #658f99);
-   background: -moz-linear-gradient(top, #a4c1c9, #658f99);
-   background: -ms-linear-gradient(top, #a4c1c9, #658f99);
-   background: -o-linear-gradient(top, #a4c1c9, #658f99);
-   padding: 6.5px 13px;
-   -webkit-border-radius: 2px;
-   -moz-border-radius: 2px;
-   border-radius: 2px;
-   -webkit-box-shadow: rgba(0,0,0,0.4) 0 1px 0;
-   -moz-box-shadow: rgba(0,0,0,0.4) 0 1px 0;
-   box-shadow: rgba(0,0,0,0.4) 0 1px 0;
-   text-shadow: rgba(0,0,0,.3) 0 1px 0;
+   background: #EA5965;
+   padding: 7.5px 13px;
    color: white !important;
    font-size: 13px;
-   font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+   font-family: 'Gill Sans W04 Light', 'Gill Sans Std', 'Helvetica Neue', Helvetica, Arial, Sans-Serif;
+   behavior:url(/css/pie/PIE.htc);
    text-decoration: none !important;
    vertical-align: middle;
    text-align: center;
    float: left !important;
    margin: 0 20px 10px 0;
    display: inline !important;
-   -webkit-transition: background-color .4s !important;
-   -moz-transition: background-color .4s !important;
-   transition: background-color .4s !important;
+   -webkit-transition: background-color .2s !important;
+   -moz-transition: background-color .2s !important;
+   transition: background-color .2s !important;
    }
 .button-toolkit a:hover {
-   border-top-color: #ffffff;
-   background: #fffff;
-   color: #d11242 !important;
+   background: #D7385E;
+   color: #FFFFFF !important;
    text-decoration: none !important;
-   -webkit-transition: background-color .4s ease-in !important;
-   -moz-transition: background-color .4s ease-in !important;
-   transition: background-color .4s ease-in !important;
+   -webkit-transition: background-color .2s ease-in !important;
+   -moz-transition: background-color .2s ease-in !important;
+   transition: background-color .2s ease-in !important;
    -webkit-transition: color .1s ease-in !important;
    -moz-transition: color .1s ease-in !important;
    transition: color .1s ease-in !important;
    
    }
 .button-toolkit a:active {
-   border-top-color: #1b435e;
-   background: #1b435e;
+   border-top-color: #EA5965;
+   background: #D7385E;
    }
 
 /** RATES & PACKAGES **/
@@ -837,15 +860,7 @@ body.hana .main_content_content h2.landing_page{font-size:14px;}
    vertical-align: middle;
    text-align: center;
    }
-.button-toolkit a:hover {
-   border-top-color: #ffffff;
-   background: #ffffff;
-   color: #d11242;
-   }
-.button-toolkit a:active {
-   border-top-color: #1b435e;
-   background: #1b435e;
-   }
+
 
 .rates-table-room-type2 {
 	font-family: "Gill Sans", "Gill Sans MT", "Helvetica Neue", "Helvetica", Arial, sans-serif;
@@ -882,7 +897,7 @@ body.hana .main_content_content h2.landing_page{font-size:14px;}
 }
 
 a.pink-link {
-	color: #D11241 !important;
+	color: #D7385E !important;
 	text-decoration: none !important;
 }
 
@@ -918,12 +933,12 @@ a.large-link {
 }
 
 a.large-link:hover {
-	color: #D11241 !important;
+	color: #D7385E !important;
 	text-decoration: none !important;
 }
 
 .packages-table-check {
-	color: #D11241;
+	color: #D7385E;
 	text-align: center;
 	vertical-align:middle;
 }
@@ -932,7 +947,7 @@ a.large-link:hover {
 
 #book-rates a:hover {
     background: #FFF;
-    color:  #D11241 !important;
+    color:  #D7385E !important;
     -webkit-transition: background-color .4s;
     -moz-transition: background-color .4s;
     transition: background-color .4s;
@@ -985,6 +1000,135 @@ a.large-link:hover {
 	text-shadow: 1px 1px #FFF;
 }
  
+ /** RATES AND PACKAGES SIMPLER NOVEMBER 2012 **/
+
+ .compare-table-description-box {
+    font-family: 'Gill Sans W04 Light','proxima-nova', 'helvetica neue', helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 1.3em;
+    color: #666;
+    background-color: #FFFFFF;
+    padding: 13px 15px 8px 15px;
+    vertical-align: middle;
+    text-shadow: 1px 1px white;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.compare-table-check {
+    color: #D7385E;
+    text-align: center;
+    vertical-align:middle;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.compare-table-title {
+    font-family: 'Gill Sans W04 Bold', 'Gill Sans Std', 'Gill Sans', 'Helvetica Neue', 'Helvetica', arial, sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #666666;
+    height: 30px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 4px 10px 3px 10px;
+    vertical-align: middle;
+}
+
+.compare-table-availability-demo {
+    font-family: 'proxima-nova', 'Helvetica Neue', 'Helvetica', arial, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight:500;
+    color: #FFFFFF;
+    height: 30px;
+    background-color: #D7385E;
+    text-align: center;
+    padding: 6px 10px 5px 10px;
+    vertical-align: middle;
+    border-right: 3px solid white;
+    border-left: 3px solid white;
+}
+
+#compare-table-availability a:hover {
+    background: #D7385E;
+    color:  #FFFFFF !important;
+    -webkit-transition: background-color .2s;
+    -moz-transition: background-color .2s;
+    transition: background-color .2s;
+    text-decoration:none !important;
+ }
+ 
+#compare-table-availability a {
+    display: block;
+    color: #FFFFFF !important;
+    background: #EA5965;
+    text-align: center;
+    text-decoration:none !important;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    padding: 10px 0px 9px 0px;
+    border-right:2px solid white;
+    border-left:2px solid white;
+    text-decoration: none;
+    font-family: 'proxima-nova', 'Helvetica Neue', 'Helvetica', arial, sans-serif;
+    behavior: url(/css/pie/PIE.htc);
+    z-index: 0;
+    position: relative;
+}
+
+.compare-price {
+    font-family: 'proxima-nova', 'Helvetica Neue', 'Helvetica', arial, sans-serif;
+    font-size: 48px;
+    text-transform: uppercase;
+    font-weight:300;
+    color: #666666;
+    height: 90px;
+    background-color: #FFFFFF;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.gray-box {
+    background-color:#FFFFFF;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border-color:#f1f1f1;
+    border-width: 2px;
+    border-style:solid;
+    padding:20px 0px 20px 0px;
+    margin:5px 10px 0px 10px;
+    display:inline-block;
+}
+
+.months {
+    margin-left:20px;
+    display:inline-block;
+}
+
+.fine-print-box {
+    background-color:#FAFAFA;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    padding:20px 0px 20px 0px;
+    margin:15px 10px 0px 10px;
+    -webkit-box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.127);
+    box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.127)
+    moz-box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.127)
+}
+
+.price-is-right { 
+    color:#FFFFFF;
+    background-color: #EA5965;
+    font-family:'Gill Sans W04 Light';
+    text-transform:uppercase;
+    font-weight:bold;
+    margin-bottom:14px;
+} 
 
 /** KEVIN COOK HOME PAGE PROMO SLIDER **/
 
