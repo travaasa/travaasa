@@ -425,8 +425,9 @@ p, p.content {font-size:14px; color:#111111; line-height: 18px; font-family: "Gi
 } 
 p.sub_text {}
 .disclaimer p{}
-::-moz-selection { background: #EAA53C; color: #fff; text-shadow: none; }
-::selection { background: #EAA53C; color: #fff; text-shadow: none; }
+::-moz-selection { background: #fff198; color: #black; text-shadow: none; }
+::-webkit-selection { background: #fff198; color: #black; text-shadow: none; }
+::selection { background: #fff198; color: #black; text-shadow: none; }
 
 /*
 8.0 BLOCKQUOTES, CITATIONS, HR
@@ -1059,7 +1060,7 @@ a.large-link:hover {
     transition: background-color .2s;
     text-decoration:none !important;
  }
- 
+
 #compare-table-availability a {
     display: block;
     color: #FFFFFF !important;
