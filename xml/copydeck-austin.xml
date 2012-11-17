@@ -231,7 +231,7 @@
 					</meta>
 					<h1><![CDATA[Rates & Packages &#47; Staying at Travaasa Austin]]></h1>
 					<copy><![CDATA[
-					<p>Travaasa Resort & Spa provides you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <em>Travaasa Austin welcomes guests age 16 and up.</em></p>
+					<p>Travaasa Experiential Resorts provide you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <em>Travaasa Austin welcomes guests age 16 and up.</em></p>
 
 					<div class="gray-box">
 					
@@ -245,17 +245,27 @@
 					      <td width="23%" class="compare-table-title">&#193; LA CARTE<br /><span style="font-size: 11px;">Your Travaasa</span></td>
 					    </tr>
 					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box">Unlimited access to a <a href="austin/#/austinschedule">robust schedule</a> of programs & activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box">In-room complimentary bottled water & organic fair-trade coffee</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box">Welcome snack and refreshments upon arrival</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
 					      <td class="compare-table-description-box">Spacious, <a href="austin/#/accommodations">well-appointed accommodations</a></td>
 					      <td class="compare-table-check">&#10004;</td>
 					      <td class="compare-table-check">&#10004;</td>
 					    </tr>
 					    <tr class="compare-table-row">
 					      <td class="compare-table-description-box">Organic cotton linens</td>
-					      <td class="compare-table-check">&#10004;</td>
-					      <td class="compare-table-check">&#10004;</td>
-					    </tr>
-					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">In-room complimentary bottled water & organic fair-trade coffee</td>
 					      <td class="compare-table-check">&#10004;</td>
 					      <td class="compare-table-check">&#10004;</td>
 					    </tr>
@@ -269,11 +279,7 @@
 					      <td class="compare-table-check">&#10004;</td>
 					      <td class="compare-table-check">&#10004;</td>
 					    </tr>
-					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">Access to a <a href="austin/#/austinschedule">robust schedule</a> of programs & activities including yoga, fitness classes and an array of cultural activities and more</td>
-					      <td class="compare-table-check">&#10004;</td>
-					      <td class="compare-table-check">&#10004;</td>
-					    </tr>
+					    
 					    <tr class="compare-table-row">
 					      <td class="compare-table-description-box">Chef-prepared breakfast, lunch and dinner daily</td>
 					      <td class="compare-table-check">&#10004;</td>
@@ -288,6 +294,9 @@
 					      <td class="compare-table-description-box"><strong>$125</strong> resort credit per person per day, good toward <a href="austin/#/travaasa-spa-overview">spa treatments</a> and private classes.</td>
 					      <td class="compare-table-check">&#10004;</td>
 					      <td class="compare-table-check">&nbsp;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td colspan="3" class="compare-table-description-box-service-charge">Rates are displayed exclusive of applicable taxes and an <strong>18% daily service charge</strong>, which covers access to all regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, self parking and gratuities on all package components.</td>
 					    </tr>
 					    <tr>
 					      <td colspan="3">&nbsp;</td>
