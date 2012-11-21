@@ -35,28 +35,28 @@
                 <h1 position="1">Travaasa Hana: Maui's Last Truly Hawaiian Place</h1>
                 <copy position="1">
                     <![CDATA[
-                    <div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:5px 0 20px 0; margin:5px 25px 0px 25px; height:655px;">
-                    <p style="text-align:center;"><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="625" /></a></p>
-		
-					<div style="float:left; margin:0 0 0 20px; width:370px;">
+                    <!--<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:5px 0 20px 0; margin:5px 25px 0px 25px; height:655px;">
+                    <p style="text-align:center;"><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="625" /></a></p>-->
+		            <div class="gray-box">
+					<div style="float:left; margin:0 0 0 20px; width:363px;">
 					<a href="/hana/accommodations"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-rooms-t.jpg" width="150" height="95" alt="Rooms"></a>
 					<a href="/hana/hana-the-spa-at-travaasa-hana"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-spa-t.jpg" width="150" height="95" alt="Spa"></a>
 					<a href="/hana/hanaphotos"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-gallery-t.jpg" width="150" height="95" alt="Gallery"></a>
 					<a href="/hana/travaasa-hana-experiences"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-experiences-t.jpg" width="150" height="95" alt="Rates"></a>
 					</div>
 					<div style="float:left; margin-top:0">
-					<table width="270" cellpadding="8" cellspacing="8" style="background-color:#FFF; border: 1px solid #f1f1f1; -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);">
+					<table width="300" cellpadding="8" cellspacing="8" style="background-color:#FFF; border: 1px solid #f1f1f1; -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);">
 					 <tbody>
 					  <tr>
 					   <td width="50%" class="thin-title">Inclusive</td>
 					   <td width="50%" class="thin-title">&#192; la carte</td>
 					  </tr>
 					  <tr>
-					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>525<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
-					   <td class="thin-big-price"><span style="font-size:38px;">$</span>300<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
+					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>575<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
+					   <td class="thin-big-price"><span style="font-size:38px;">$</span>350<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
 					  </tr>
 					  <tr>
-					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 47px; float: none;'><a class="address_ajax" href="/hana/hana-rates-and-packages">See Rates and Packages</a></div></td>
+					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 62px; float: none;'><a class="address_ajax" href="/hana/hana-rates-and-packages">See Rates and Packages</a></div></td>
 					  </tr>
 					  <tr>
 					   <td class="rates-table-description-box" colspan="2">*<em>Starting rates are per person, per night based on a one night stay, double occupancy. Stay longer to save more...</em></td>
@@ -358,8 +358,8 @@
                         </tr>
                         <tr>
                           <td>&nbsp;</td>
-                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>525</td>
-                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>300</td>
+                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>575</td>
+                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>350</td>
                         </tr>  
                      </tbody>
                     </table>
