@@ -246,17 +246,37 @@
 					      <td width="23%" class="compare-table-title">&#193; LA CARTE<br /><span style="font-size: 11px;">Your Travaasa</span></td>
 					    </tr>
 					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">Unlimited access to a <a href="austin/#/austinschedule">robust schedule</a> of programs & activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
+					      <td class="compare-table-description-box-inc">Unlimited access to a <a class="pink-link" href="austin/#/austinschedule">robust schedule</a> of programs & activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
 					      <td class="compare-table-check">&#10004;</td>
 					      <td class="compare-table-check">&#10004;</td>
 					    </tr>
 					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">In-room complimentary bottled water & organic fair-trade coffee</td>
+					      <td class="compare-table-description-box-inc">In-room complimentary bottled water & organic fair-trade coffee</td>
 					      <td class="compare-table-check">&#10004;</td>
 					      <td class="compare-table-check">&#10004;</td>
 					    </tr>
 					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">Welcome snack and refreshments upon arrival</td>
+					      <td class="compare-table-description-box-inc">Welcome snack and refreshments upon arrival</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box-inc">Gratuities on all packages components</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box-inc">Organic cotton linens</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box-inc">Complete access to resort facilities</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box-inc">Wi-Fi</td>
 					      <td class="compare-table-check">&#10004;</td>
 					      <td class="compare-table-check">&#10004;</td>
 					    </tr>
@@ -265,22 +285,6 @@
 					      <td class="compare-table-check">&#10004;</td>
 					      <td class="compare-table-check">&#10004;</td>
 					    </tr>
-					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">Organic cotton linens</td>
-					      <td class="compare-table-check">&#10004;</td>
-					      <td class="compare-table-check">&#10004;</td>
-					    </tr>
-					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">Complete access to resort facilities</td>
-					      <td class="compare-table-check">&#10004;</td>
-					      <td class="compare-table-check">&#10004;</td>
-					    </tr>
-					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">Wi-Fi</td>
-					      <td class="compare-table-check">&#10004;</td>
-					      <td class="compare-table-check">&#10004;</td>
-					    </tr>
-					    
 					    <tr class="compare-table-row">
 					      <td class="compare-table-description-box">Chef-prepared breakfast, lunch and dinner daily</td>
 					      <td class="compare-table-check">&#10004;</td>
@@ -297,7 +301,7 @@
 					      <td class="compare-table-check">&nbsp;</td>
 					    </tr>
 					    <tr class="compare-table-row">
-					      <td colspan="3" class="compare-table-description-box-service-charge">Rates are displayed exclusive of applicable taxes and an <strong>18% daily service charge</strong>, which covers access to all regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, self parking and gratuities on all package components.</td>
+					      <td colspan="3" class="compare-table-description-box-service-charge"><strong>An 18% daily service charge</strong> covers highlighted items above, local phone calls, access to fitness center, resort facilities and self parking.</td>
 					    </tr>
 					    <tr>
 					      <td colspan="3">&nbsp;</td>
