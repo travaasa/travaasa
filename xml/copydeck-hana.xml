@@ -35,28 +35,28 @@
                 <h1 position="1">Travaasa Hana: Maui's Last Truly Hawaiian Place</h1>
                 <copy position="1">
                     <![CDATA[
-                    <div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:5px 0 20px 0; margin:5px 25px 0px 25px; height:655px;">
-                    <p style="text-align:center;"><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="625" /></a></p>
-		
-					<div style="float:left; margin:0 0 0 20px; width:370px;">
+                    <!--<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:5px 0 20px 0; margin:5px 25px 0px 25px; height:655px;">
+                    <p style="text-align:center;"><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="625" /></a></p>-->
+		            <div class="gray-box">
+					<div style="float:left; margin:0 0 0 20px; width:363px;">
 					<a href="/hana/accommodations"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-rooms-t.jpg" width="150" height="95" alt="Rooms"></a>
 					<a href="/hana/hana-the-spa-at-travaasa-hana"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-spa-t.jpg" width="150" height="95" alt="Spa"></a>
 					<a href="/hana/hanaphotos"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-gallery-t.jpg" width="150" height="95" alt="Gallery"></a>
 					<a href="/hana/travaasa-hana-experiences"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-experiences-t.jpg" width="150" height="95" alt="Rates"></a>
 					</div>
 					<div style="float:left; margin-top:0">
-					<table width="270" cellpadding="8" cellspacing="8" style="background-color:#FFF; border: 1px solid #f1f1f1; -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);">
+					<table width="300" cellpadding="8" cellspacing="8" style="background-color:#FFF; border: 1px solid #f1f1f1; -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);">
 					 <tbody>
 					  <tr>
 					   <td width="50%" class="thin-title">Inclusive</td>
 					   <td width="50%" class="thin-title">&#192; la carte</td>
 					  </tr>
 					  <tr>
-					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>525<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
-					   <td class="thin-big-price"><span style="font-size:38px;">$</span>300<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
+					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>575<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
+					   <td class="thin-big-price"><span style="font-size:38px;">$</span>350<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
 					  </tr>
 					  <tr>
-					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 47px; float: none;'><a class="address_ajax" href="/hana/hana-rates-and-packages">See Rates and Packages</a></div></td>
+					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 62px; float: none;'><a class="address_ajax" href="/hana/hana-rates-and-packages">See Rates and Packages</a></div></td>
 					  </tr>
 					  <tr>
 					   <td class="rates-table-description-box" colspan="2">*<em>Starting rates are per person, per night based on a one night stay, double occupancy. Stay longer to save more...</em></td>
@@ -291,7 +291,7 @@
                     <description><![CDATA[Travaasa Hana offers numerous room packages and seasonal specials. Learn more and book now.]]></description>
                     <keywords><![CDATA[Travaasa, Hana, Hāna, Maui, resort, boutique spa resorts, experiential hotel, guided activities, adventure, cultural travel, culinary, fitness, wellness, all-inclusive, yoga, spa vacations]]></keywords>
                 </meta>
-                <h1><![CDATA[Staying at Travaasa Hana: Rates &#38; Packages]]>
+                <h1><![CDATA[Rates &#38; Packages &#47; Staying at Travaasa Hana]]>
                 </h1>
                 <copy><![CDATA[
                 <p>Travaasa Resort & Spa provides you with different rate and package selections so that you can make the most of your time with us. These special offerings are designed to customize your journey.</p>
@@ -352,17 +352,14 @@
                           <td class="compare-table-check">&nbsp;</td>
                         </tr>
                         <tr>
-                          <td colspan="3">&nbsp;</td>
-                        </tr>
-                        <tr>
                           <td class="compare-table-title">&nbsp;</td>
                           <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
                           <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&template=HNMHM&shell=HNMHM2&adult=2']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
                         </tr>
                         <tr>
                           <td>&nbsp;</td>
-                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>525</td>
-                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>300</td>
+                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>575</td>
+                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>350</td>
                         </tr>  
                      </tbody>
                     </table>
@@ -389,7 +386,8 @@
 
                         <ul style="color:#707070; text-shadow: 1px 1px #FFF;">
                           <li>The <a class="address_ajax" href="/hana/hana-accommodations-sea-ranch-cottages">Sea Ranch Cottages</a> and <strong>Total Travaasa</strong> packages are limited to adults <strong>16 and over</strong>.</li>
-                          <li>Children are welcome on the Garden View Suite side of the property during family friendly periods of March 11–24, July 25–August 8, and December 22–January 5, 2013.</li>
+                          <li>Children are welcome on the Sea Ranch Cottage side of the property during family friendly periods of March 11–24, July 25–August 8, and December 22–January 5, 2013.</li>
+                          <li>Children are welcome on the Garden View Suite side of the property throughout the year.</li>
                         </ul>
 
                         <h1>Stay Longer, Save More</h1>

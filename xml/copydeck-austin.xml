@@ -30,27 +30,28 @@
 					</meta>
 					<h1>The Newest Experiential Resort and Spa in Texas</h1>
 					<copy><![CDATA[
-					<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:15px 0 20px 0; margin:5px 25px 0px 25px; height:390px;">	
-		
-					<div style="float:left; margin:0 0 0 20px; width:370px;">
+					<!--<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:15px 0 20px 0; margin:5px 25px 0px 25px; height:390px;">-->
+					
+					<div class="gray-box">	
+					<div style="float:left; margin:0 0 0 20px; width:363px; display:inline-block;">
 					<a href="/austin/accommodations"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-rooms-t.jpg" width="150" height="95" alt="Rooms"></a>
 					<a href="/austin/travaasa-spa-overview"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-spa-t.jpg" width="150" height="95" alt="Spa"></a>
 					<a href="/austin/austinphotos"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-gallery-t.jpg" width="150" height="95" alt="Gallery"></a>
 					<a href="/austin/fitness-overview"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-experiences-t.jpg" width="150" height="95" alt="Rates"></a>
 					</div>
-					<div style="float:left; margin-top:0">
-					<table width="270" cellpadding="8" cellspacing="8" style="background-color:#FFF; border: 1px solid #f1f1f1; -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);">
+					<div style="float:left; margin-top:0;, margin-bottom: 50px;">
+					<table width="300" cellpadding="8" cellspacing="8" style="background-color:#FFF; border: 1px solid #f1f1f1; -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);">
 					 <tbody>
 					  <tr>
 					   <td width="50%" class="thin-title">Inclusive</td>
 					   <td width="50%" class="thin-title">&#192; la carte</td>
 					  </tr>
 					  <tr>
-					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>325<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
-					   <td class="thin-big-price"><span style="font-size:38px;">$</span>175<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
+					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>375<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
+					   <td class="thin-big-price"><span style="font-size:38px;">$</span>225<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
 					  </tr>
 					  <tr>
-					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 47px; float: none;'><a class="address_ajax" href="/austin/rates-and-packages">See Rates and Packages</a></div></td>
+					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 62px; float: none;'><a class="address_ajax" href="/austin/rates-and-packages">See Rates and Packages</a></div></td>
 					  </tr>
 					  <tr>
 					   <td class="rates-table-description-box" colspan="2">*<em>Starting rates are single occupancy, per night based on a one night stay.  Stay longer to save more…</em></td>
@@ -58,7 +59,7 @@
 					 </tbody>
 					</table>
 					</div>
-					<p style="clear:both;">The location of Travaasa Austin alone will inspire you. Surrounded by the ancient live oaks and undulating hills of the Balcones Canyonlands Preserve, our resort embraces nature … and is embraced by nature in return.</p>
+					<p style="clear:both; margin-top: 10px;">The location of Travaasa Austin alone will inspire you. Surrounded by the ancient live oaks and undulating hills of the Balcones Canyonlands Preserve, our resort embraces nature … and is embraced by nature in return.</p>
 
 					<p><strong>But this isn’t just another resort.</strong></p>
 
@@ -231,7 +232,7 @@
 					</meta>
 					<h1><![CDATA[Rates & Packages &#47; Staying at Travaasa Austin]]></h1>
 					<copy><![CDATA[
-					<p>Travaasa Resort & Spa provides you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <em>Travaasa Austin welcomes guests age 16 and up.</em></p>
+					<p>Travaasa Experiential Resorts provide you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <em>Travaasa Austin welcomes guests age 16 and up.</em></p>
 
 					<div class="gray-box">
 					
@@ -245,32 +246,42 @@
 					      <td width="23%" class="compare-table-title">&#193; LA CARTE<br /><span style="font-size: 11px;">Your Travaasa</span></td>
 					    </tr>
 					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box-inc">Unlimited access to a <a class="pink-link" href="austin/#/austinschedule">robust schedule</a> of programs & activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box-inc">In-room complimentary bottled water & organic fair-trade coffee</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box-inc">Welcome snack and refreshments upon arrival</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box-inc">Gratuities on all packages components</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box-inc">Organic cotton linens</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box-inc">Complete access to resort facilities</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
+					      <td class="compare-table-description-box-inc">Wi-Fi</td>
+					      <td class="compare-table-check">&#10004;</td>
+					      <td class="compare-table-check">&#10004;</td>
+					    </tr>
+					    <tr class="compare-table-row">
 					      <td class="compare-table-description-box">Spacious, <a href="austin/#/accommodations">well-appointed accommodations</a></td>
-					      <td class="compare-table-check">&#10004;</td>
-					      <td class="compare-table-check">&#10004;</td>
-					    </tr>
-					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">Organic cotton linens</td>
-					      <td class="compare-table-check">&#10004;</td>
-					      <td class="compare-table-check">&#10004;</td>
-					    </tr>
-					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">In-room complimentary bottled water & organic fair-trade coffee</td>
-					      <td class="compare-table-check">&#10004;</td>
-					      <td class="compare-table-check">&#10004;</td>
-					    </tr>
-					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">Complete access to resort facilities</td>
-					      <td class="compare-table-check">&#10004;</td>
-					      <td class="compare-table-check">&#10004;</td>
-					    </tr>
-					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">Wi-Fi</td>
-					      <td class="compare-table-check">&#10004;</td>
-					      <td class="compare-table-check">&#10004;</td>
-					    </tr>
-					    <tr class="compare-table-row">
-					      <td class="compare-table-description-box">Access to a <a href="austin/#/austinschedule">robust schedule</a> of programs & activities including yoga, fitness classes and an array of cultural activities and more</td>
 					      <td class="compare-table-check">&#10004;</td>
 					      <td class="compare-table-check">&#10004;</td>
 					    </tr>
@@ -289,6 +300,9 @@
 					      <td class="compare-table-check">&#10004;</td>
 					      <td class="compare-table-check">&nbsp;</td>
 					    </tr>
+					    <tr class="compare-table-row">
+					      <td colspan="3" class="compare-table-description-box-service-charge"><strong>An 18% daily service charge</strong> covers highlighted items above, local phone calls, access to fitness center, resort facilities and self parking.</td>
+					    </tr>
 					    <tr>
 					      <td colspan="3">&nbsp;</td>
 					    </tr>
@@ -299,8 +313,8 @@
 					    </tr>
 					    <tr>
 					      <td>&nbsp;</td>
-					      <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>325</td>
-					      <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>175</td>
+					      <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>375</td>
+					      <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>225</td>
 					    </tr>  
 					 </tbody>
 					</table>
