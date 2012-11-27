@@ -35,28 +35,28 @@
                 <h1 position="1">Travaasa Hana: Maui's Last Truly Hawaiian Place</h1>
                 <copy position="1">
                     <![CDATA[
-                    <div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:5px 0 20px 0; margin:5px 25px 0px 25px; height:655px;">
-                    <p style="text-align:center;"><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="625" /></a></p>
-		
-					<div style="float:left; margin:0 0 0 20px; width:370px;">
+                    <!--<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:5px 0 20px 0; margin:5px 25px 0px 25px; height:655px;">
+                    <p style="text-align:center;"><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="625" /></a></p>-->
+		            <div class="gray-box">
+					<div style="float:left; margin:0 0 0 20px; width:363px;">
 					<a href="/hana/accommodations"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-rooms-t.jpg" width="150" height="95" alt="Rooms"></a>
 					<a href="/hana/hana-the-spa-at-travaasa-hana"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-spa-t.jpg" width="150" height="95" alt="Spa"></a>
 					<a href="/hana/hanaphotos"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-gallery-t.jpg" width="150" height="95" alt="Gallery"></a>
 					<a href="/hana/travaasa-hana-experiences"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-experiences-t.jpg" width="150" height="95" alt="Rates"></a>
 					</div>
 					<div style="float:left; margin-top:0">
-					<table width="270" cellpadding="8" cellspacing="8" style="background-color:#FFF; border: 1px solid #f1f1f1; -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);">
+					<table width="300" cellpadding="8" cellspacing="8" style="background-color:#FFF; border: 1px solid #f1f1f1; -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);">
 					 <tbody>
 					  <tr>
 					   <td width="50%" class="thin-title">Inclusive</td>
 					   <td width="50%" class="thin-title">&#192; la carte</td>
 					  </tr>
 					  <tr>
-					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>525<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
-					   <td class="thin-big-price"><span style="font-size:38px;">$</span>300<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
+					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>575<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
+					   <td class="thin-big-price"><span style="font-size:38px;">$</span>350<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
 					  </tr>
 					  <tr>
-					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 47px; float: none;'><a class="address_ajax" href="/hana/hana-rates-and-packages">See Rates and Packages</a></div></td>
+					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 62px; float: none;'><a class="address_ajax" href="/hana/hana-rates-and-packages">See Rates and Packages</a></div></td>
 					  </tr>
 					  <tr>
 					   <td class="rates-table-description-box" colspan="2">*<em>Starting rates are per person, per night based on a one night stay, double occupancy. Stay longer to save more...</em></td>
@@ -291,14 +291,17 @@
                     <description><![CDATA[Travaasa Hana offers numerous room packages and seasonal specials. Learn more and book now.]]></description>
                     <keywords><![CDATA[Travaasa, Hana, Hāna, Maui, resort, boutique spa resorts, experiential hotel, guided activities, adventure, cultural travel, culinary, fitness, wellness, all-inclusive, yoga, spa vacations]]></keywords>
                 </meta>
-                <h1><![CDATA[Staying at Travaasa Hana: Rates &#38; Packages]]>
+                <h1><![CDATA[Rates &#38; Packages &#47; Staying at Travaasa Hana]]>
                 </h1>
                 <copy><![CDATA[
                 <p>Travaasa Resort & Spa provides you with different rate and package selections so that you can make the most of your time with us. These special offerings are designed to customize your journey.</p>
+                
                 <div class="gray-box">
-                    
-                    <!--<a href='/lightbox/travaasa-man-month-june.html' class='fancyajax'><img class='frame-left' style='margin-left:20px;' src='http://placekitten.com/659/100' /></a>-->
-                    
+                    <a href='/lightbox/fly-to-hana.html' class='fancyajax'><img style='margin: 0px 20px 0px 20px;' width="667" height="100" src='/images/site/fly-to-hana-banner-667x200.jpg' /></a>
+                </div>
+                
+                <div class="gray-box">
+
                     <table width="100%" id="table" cellpadding="10" cellspacing="5">  
                       <tbody>
                         <tr>
@@ -307,32 +310,42 @@
                           <td width="23%" class="compare-table-title">&#193; LA CARTE<br /><span style="font-size: 11px;">Your Travaasa</span></td>
                         </tr>
                         <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Unlimited access to a <a href="hana/#/hanaschedule">robust schedule</a> of programs & activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">In-room complimentary bottled water & organic fair-trade coffee</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Welcome snack and refreshments upon arrival</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Gratuities on all packages components</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Organic cotton linens</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Complete access to resort facilities</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Wi-Fi</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
                           <td class="compare-table-description-box">Spacious, <a href="hana/#/accommodations">well-appointed accommodations</a></td>
-                          <td class="compare-table-check">&#10004;</td>
-                          <td class="compare-table-check">&#10004;</td>
-                        </tr>
-                        <tr class="compare-table-row">
-                          <td class="compare-table-description-box">Organic cotton linens</td>
-                          <td class="compare-table-check">&#10004;</td>
-                          <td class="compare-table-check">&#10004;</td>
-                        </tr>
-                        <tr class="compare-table-row">
-                          <td class="compare-table-description-box">In-room complimentary bottled water & organic fair-trade coffee</td>
-                          <td class="compare-table-check">&#10004;</td>
-                          <td class="compare-table-check">&#10004;</td>
-                        </tr>
-                        <tr class="compare-table-row">
-                          <td class="compare-table-description-box">Complete access to resort facilities</td>
-                          <td class="compare-table-check">&#10004;</td>
-                          <td class="compare-table-check">&#10004;</td>
-                        </tr>
-                        <tr class="compare-table-row">
-                          <td class="compare-table-description-box">Wi-Fi</td>
-                          <td class="compare-table-check">&#10004;</td>
-                          <td class="compare-table-check">&#10004;</td>
-                        </tr>
-                        <tr class="compare-table-row">
-                          <td class="compare-table-description-box">Access to our <a href="hana/#/hanaschedule">schedule</a> of programs & activities including yoga, fitness classes and an array of cultural activities and more</td>
                           <td class="compare-table-check">&#10004;</td>
                           <td class="compare-table-check">&#10004;</td>
                         </tr>
@@ -351,6 +364,9 @@
                           <td class="compare-table-check">&#10004;</td>
                           <td class="compare-table-check">&nbsp;</td>
                         </tr>
+                        <tr class="compare-table-row">
+                          <td colspan="3" class="compare-table-description-box-service-charge"><strong>An 18% daily service charge</strong> covers highlighted items above, local phone calls, access to fitness center, resort facilities and self parking.</td>
+                        </tr>
                         <tr>
                           <td colspan="3">&nbsp;</td>
                         </tr>
@@ -361,8 +377,8 @@
                         </tr>
                         <tr>
                           <td>&nbsp;</td>
-                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>525</td>
-                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>300</td>
+                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>575</td>
+                          <td class="compare-price"><span style="font-size:14px">Starting at</span><br /><span style="font-size:24px; vertical-align:14px;">$</span>350</td>
                         </tr>  
                      </tbody>
                     </table>
@@ -389,7 +405,8 @@
 
                         <ul style="color:#707070; text-shadow: 1px 1px #FFF;">
                           <li>The <a class="address_ajax" href="/hana/hana-accommodations-sea-ranch-cottages">Sea Ranch Cottages</a> and <strong>Total Travaasa</strong> packages are limited to adults <strong>16 and over</strong>.</li>
-                          <li>Children are welcome on the Garden View Suite side of the property during family friendly periods of March 11–24, July 25–August 8, and December 22–January 5, 2013.</li>
+                          <li>Children are welcome on the Sea Ranch Cottage side of the property during family friendly periods of March 11–24, July 25–August 8, and December 22–January 5, 2013.</li>
+                          <li>Children are welcome on the Garden View Suite side of the property throughout the year.</li>
                         </ul>
 
                         <h1>Stay Longer, Save More</h1>
@@ -531,7 +548,7 @@
                     <description><![CDATA[See Maui from the Sky in a powered glider with a veteran pilot.]]></description>
                     <keywords><![CDATA[Maui, Glider, Hana, Hawaii, travaasa, hotel, guided activities, adventure, plane, pilot]]></keywords>
                 </meta>
-                <h1>Glider Aventure</h1>
+                <h1>Glider Adventure</h1>
                 <copy><![CDATA[
                 <div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:20px 0px 15px 22px; margin:5px 25px 0px 25px;">
                 <img class="frame-left" width="220" src="/images/site/glider-adventure-plane.jpg"/> <p>Experience Maui's beauty from the sky with an unforgettable flight.  A veteran pilot (Hans has been gliding since he was 14) takes you up over Hana Bay, along the coast and, if you choose, up and over the Volcano alongside the Haeakala Observatory and eventually back down safely to the Hana Airport.  Bring your camera along to record this thrilling and awe-inspiring journey.</p>

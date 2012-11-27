@@ -58,7 +58,12 @@ html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockqu
 */
 html{height:auto !important; overflow: auto !important; height:100%;}
 
-body{background-color: #fff; font-family: Verdana, Arial, sans-serif;margin:0;padding:0;}
+body{background-color: #fff;
+    font-family: Verdana, Arial, sans-serif;
+    margin:0;
+    padding:0;
+    behavior:url(/css/csshover3.htc);
+}
 
 .content_wrapper{margin:0 auto; width:960px; position:relative;}
 /*
@@ -425,8 +430,9 @@ p, p.content {font-size:14px; color:#111111; line-height: 18px; font-family: "Gi
 } 
 p.sub_text {}
 .disclaimer p{}
-::-moz-selection { background: #EAA53C; color: #fff; text-shadow: none; }
-::selection { background: #EAA53C; color: #fff; text-shadow: none; }
+::-moz-selection { background: #fff198; color: #black; text-shadow: none; }
+::-webkit-selection { background: #fff198; color: #black; text-shadow: none; }
+::selection { background: #fff198; color: #black; text-shadow: none; }
 
 /*
 8.0 BLOCKQUOTES, CITATIONS, HR
@@ -1002,7 +1008,7 @@ a.large-link:hover {
  
  /** RATES AND PACKAGES SIMPLER NOVEMBER 2012 **/
 
- .compare-table-description-box {
+.compare-table-description-box {
     font-family: 'Gill Sans W04 Light','proxima-nova', 'helvetica neue', helvetica, sans-serif;
     font-weight: 300;
     font-size: 0.9em;
@@ -1013,6 +1019,33 @@ a.large-link:hover {
     vertical-align: middle;
     text-shadow: 1px 1px white;
     border-bottom: 1px solid #f1f1f1;
+}
+
+.compare-table-description-box-inc {
+    font-family: 'Gill Sans W04 Light','proxima-nova', 'helvetica neue', helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 1.3em;
+    color: #666;
+    background-color: #FFFFFF;
+    padding: 13px 15px 8px 15px;
+    vertical-align: middle;
+    text-shadow: 1px 1px white;
+    border-bottom: 1px solid #f1f1f1;
+    border-left:8px solid #FBDBDD;
+}
+
+.compare-table-description-box-service-charge {
+    font-family: 'Gill Sans W04 Light','proxima-nova', 'helvetica neue', helvetica, sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    text-align: left-justify;
+    font-size: 0.8em;
+    line-height: 1.3em;
+    color: #EA5965;
+    background-color: #FDEDEE;
+    padding: 13px 15px 13px 15px;
+    vertical-align: middle;
 }
 
 .compare-table-check {
@@ -1059,7 +1092,7 @@ a.large-link:hover {
     transition: background-color .2s;
     text-decoration:none !important;
  }
- 
+
 #compare-table-availability a {
     display: block;
     color: #FFFFFF !important;
