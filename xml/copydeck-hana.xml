@@ -295,10 +295,13 @@
                 </h1>
                 <copy><![CDATA[
                 <p>Travaasa Resort & Spa provides you with different rate and package selections so that you can make the most of your time with us. These special offerings are designed to customize your journey.</p>
+                
                 <div class="gray-box">
-                    
-                    <!--<a href='/lightbox/travaasa-man-month-june.html' class='fancyajax'><img class='frame-left' style='margin-left:20px;' src='http://placekitten.com/659/100' /></a>-->
-                    
+                    <a href='/lightbox/fly-to-hana.html' class='fancyajax'><img style='margin: 0px 20px 0px 20px;' width="667" height="100" src='/images/site/fly-to-hana-banner-667x200.jpg' /></a>
+                </div>
+                
+                <div class="gray-box">
+
                     <table width="100%" id="table" cellpadding="10" cellspacing="5">  
                       <tbody>
                         <tr>
@@ -307,32 +310,42 @@
                           <td width="23%" class="compare-table-title">&#193; LA CARTE<br /><span style="font-size: 11px;">Your Travaasa</span></td>
                         </tr>
                         <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Unlimited access to a <a href="hana/#/hanaschedule">robust schedule</a> of programs & activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">In-room complimentary bottled water & organic fair-trade coffee</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Welcome snack and refreshments upon arrival</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Gratuities on all packages components</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Organic cotton linens</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Complete access to resort facilities</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td class="compare-table-description-box-inc">Wi-Fi</td>
+                          <td class="compare-table-check">&#10004;</td>
+                          <td class="compare-table-check">&#10004;</td>
+                        </tr>
+                        <tr class="compare-table-row">
                           <td class="compare-table-description-box">Spacious, <a href="hana/#/accommodations">well-appointed accommodations</a></td>
-                          <td class="compare-table-check">&#10004;</td>
-                          <td class="compare-table-check">&#10004;</td>
-                        </tr>
-                        <tr class="compare-table-row">
-                          <td class="compare-table-description-box">Organic cotton linens</td>
-                          <td class="compare-table-check">&#10004;</td>
-                          <td class="compare-table-check">&#10004;</td>
-                        </tr>
-                        <tr class="compare-table-row">
-                          <td class="compare-table-description-box">In-room complimentary bottled water & organic fair-trade coffee</td>
-                          <td class="compare-table-check">&#10004;</td>
-                          <td class="compare-table-check">&#10004;</td>
-                        </tr>
-                        <tr class="compare-table-row">
-                          <td class="compare-table-description-box">Complete access to resort facilities</td>
-                          <td class="compare-table-check">&#10004;</td>
-                          <td class="compare-table-check">&#10004;</td>
-                        </tr>
-                        <tr class="compare-table-row">
-                          <td class="compare-table-description-box">Wi-Fi</td>
-                          <td class="compare-table-check">&#10004;</td>
-                          <td class="compare-table-check">&#10004;</td>
-                        </tr>
-                        <tr class="compare-table-row">
-                          <td class="compare-table-description-box">Access to our <a href="hana/#/hanaschedule">schedule</a> of programs & activities including yoga, fitness classes and an array of cultural activities and more</td>
                           <td class="compare-table-check">&#10004;</td>
                           <td class="compare-table-check">&#10004;</td>
                         </tr>
@@ -350,6 +363,12 @@
                           <td class="compare-table-description-box"><strong>$125</strong> resort credit per person per day, good toward <a href="hana/#/hana-massage-therapy">spa treatments</a> and private classes.</td>
                           <td class="compare-table-check">&#10004;</td>
                           <td class="compare-table-check">&nbsp;</td>
+                        </tr>
+                        <tr class="compare-table-row">
+                          <td colspan="3" class="compare-table-description-box-service-charge"><strong>An 18% daily service charge</strong> covers highlighted items above, local phone calls, access to fitness center, resort facilities and self parking.</td>
+                        </tr>
+                        <tr>
+                          <td colspan="3">&nbsp;</td>
                         </tr>
                         <tr>
                           <td class="compare-table-title">&nbsp;</td>
