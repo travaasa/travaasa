@@ -58,7 +58,12 @@ html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockqu
 */
 html{height:auto !important; overflow: auto !important; height:100%;}
 
-body{background-color: #fff; font-family: Verdana, Arial, sans-serif;margin:0;padding:0;}
+body{background-color: #fff;
+    font-family: Verdana, Arial, sans-serif;
+    margin:0;
+    padding:0;
+    behavior:url(/css/csshover3.htc);
+}
 
 .content_wrapper{margin:0 auto; width:960px; position:relative;}
 /*
@@ -383,9 +388,25 @@ NEW GIFTCARD BUTTON COLOR
 */
 h1 {font-size:20px; color:#D7385E; padding:16px 20px 7px 20px; font-weight:normal; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;}
 .austin .main_content_content h1, .experiences .main_content_content h1{font-weight:normal; padding-top:15px; padding-bottom:5px; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;}
-h2 {font-size:17px; color:#fff; font-weight:normal;}
+
+h2 {
+    font-size:0.75em;
+    line-height: 1.3em;
+    color:#D7385E;
+    font-weight:bold;
+    text-transform: uppercase;
+    font-family: 'Gill Sans W04 Bold', 'Gill Sans Std', 'Gill Sans MT', 'Helvetica Neue', Helvetica, Arial, Sans-Serif;
+}
+
 .about_us h2{color:#D7385E;}
-.main_content_content h2{font-size:18px; color:#111111; padding:5px 20px 0px; font-weight:normal; font-family: "Gill Sans", "Gill Sans Std", "Gill Sans MT", Arial, sans-serif;
+.main_content_content h2 {
+    font-size:0.75em;
+    line-height: 1.3em;
+    color:#D7385E;
+    padding:5px 20px 0px;
+    font-weight:bold;
+    text-transform: uppercase;
+    font-family: 'Gill Sans W04 Bold', 'Gill Sans Std', 'Gill Sans MT', 'Helvetica Neue', Helvetica, Arial, Sans-Serif;
 }
 h3 {font-size:24px; color:#fff; font-weight:normal;}
 h4 {}
@@ -409,8 +430,9 @@ p, p.content {font-size:14px; color:#111111; line-height: 18px; font-family: "Gi
 } 
 p.sub_text {}
 .disclaimer p{}
-::-moz-selection { background: #EAA53C; color: #fff; text-shadow: none; }
-::selection { background: #EAA53C; color: #fff; text-shadow: none; }
+::-moz-selection { background: #fff198; color: #black; text-shadow: none; }
+::-webkit-selection { background: #fff198; color: #black; text-shadow: none; }
+::selection { background: #fff198; color: #black; text-shadow: none; }
 
 /*
 8.0 BLOCKQUOTES, CITATIONS, HR
@@ -986,11 +1008,11 @@ a.large-link:hover {
  
  /** RATES AND PACKAGES SIMPLER NOVEMBER 2012 **/
 
- .compare-table-description-box {
-    font-family: "proxima-nova", "helvetica neue", helvetica, sans-serif;
+.compare-table-description-box {
+    font-family: 'Gill Sans W04 Light','proxima-nova', 'helvetica neue', helvetica, sans-serif;
     font-weight: 300;
-    font-size: 13px;
-    line-height: 21px;
+    font-size: 0.9em;
+    line-height: 1.3em;
     color: #666;
     background-color: #FFFFFF;
     padding: 13px 15px 8px 15px;
@@ -999,8 +1021,35 @@ a.large-link:hover {
     border-bottom: 1px solid #f1f1f1;
 }
 
+.compare-table-description-box-inc {
+    font-family: 'Gill Sans W04 Light','proxima-nova', 'helvetica neue', helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 1.3em;
+    color: #666;
+    background-color: #FFFFFF;
+    padding: 13px 15px 8px 15px;
+    vertical-align: middle;
+    text-shadow: 1px 1px white;
+    border-bottom: 1px solid #f1f1f1;
+    border-left:8px solid #FBDBDD;
+}
+
+.compare-table-description-box-service-charge {
+    font-family: 'Gill Sans W04 Light','proxima-nova', 'helvetica neue', helvetica, sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    text-align: left-justify;
+    font-size: 0.8em;
+    line-height: 1.3em;
+    color: #EA5965;
+    background-color: #FDEDEE;
+    padding: 13px 15px 13px 15px;
+    vertical-align: middle;
+}
+
 .compare-table-check {
-    color: #D11241;
+    color: #D7385E;
     text-align: center;
     vertical-align:middle;
     background-color: #FFFFFF;
@@ -1008,10 +1057,10 @@ a.large-link:hover {
 }
 
 .compare-table-title {
-    font-family: 'proxima-nova', 'Helvetica Neue', 'Helvetica', arial, sans-serif;
+    font-family: 'Gill Sans W04 Bold', 'Gill Sans Std', 'Gill Sans', 'Helvetica Neue', 'Helvetica', arial, sans-serif;
     font-size: 18px;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: bold;
     color: #666666;
     height: 30px;
     background-color: #FFFFFF;
@@ -1043,7 +1092,7 @@ a.large-link:hover {
     transition: background-color .2s;
     text-decoration:none !important;
  }
- 
+
 #compare-table-availability a {
     display: block;
     color: #FFFFFF !important;
