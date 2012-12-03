@@ -805,25 +805,21 @@ function listen_change_event_for_address(event, fromAjax, hanaPage){
             pageInfo = get_idFromSlug(page_name, 'privatesale', data_feed);
             page_id = pageInfo[0];
         }
-
         if (austinsurvey){
             data_feed = get_xml_data("austinsurvey")
             pageInfo = get_idFromSlug(page_name, 'austinsurvey', data_feed);
             page_id = pageInfo[0];
         }
-
         if (hanasurvey){
             data_feed = get_xml_data("hanasurvey")
             pageInfo = get_idFromSlug(page_name, 'hanasurvey', data_feed);
             page_id = pageInfo[0];
         }
-
         if (texasmonthly){
             data_feed = get_xml_data("texasmonthly")
             pageInfo = get_idFromSlug(page_name, 'texasmonthly', data_feed);
             page_id = pageInfo[0];
         }
-
         if (elopement){
             data_feed = get_xml_data("elopement")
             pageInfo = get_idFromSlug(page_name, 'elopement', data_feed);
@@ -870,10 +866,23 @@ function listen_change_event_for_address(event, fromAjax, hanaPage){
             thumbNailsHtml = get_thumbNails(page_id, 'privatesale', data_feed);
             pageContent = get_pageContent(page_id, 'privatesale', data_feed);
         }
-		
-	
-		
-	
+        if(austinsurvey){
+            thumbNailsHtml = get_thumbNails(page_id, 'austinsurvey', data_feed);
+            pageContent = get_pageContent(page_id, 'austinsurvey', data_feed);
+        }
+        if(hanasurvey){
+            thumbNailsHtml = get_thumbNails(page_id, 'hanasurvey', data_feed);
+            pageContent = get_pageContent(page_id, 'hanasurvey', data_feed);
+        }
+        if(texasmonthly){
+            thumbNailsHtml = get_thumbNails(page_id, 'texasmonthly', data_feed);
+            pageContent = get_pageContent(page_id, 'texasmonthly', data_feed);
+        }
+        if(elopement){
+            thumbNailsHtml = get_thumbNails(page_id, 'elopement', data_feed);
+            pageContent = get_pageContent(page_id, 'elopement', data_feed);
+        }
+
 	
         $('ul.gallery').unbind();
         //just before we fade out, we set the min-height on the full wrapper so that we don't get the footer bouncing up to the top for a second.
