@@ -757,6 +757,10 @@ function listen_change_event_for_address(event, fromAjax, hanaPage){
     var austin = $('body.austin').size();
     var hana = $('body.hana').size();
     var privatesale = $('body.privatesale').size();
+    var austinsurvey = $('body.austinsurvey').size();
+    var hanasurvey = $('body.hanasurvey').size();
+    var texasmonthly = $('body.texasmonthly').size();
+    var elopement = $('body.elopement').size();
     //console.log("event.value = " + event.value);
     var parentId = 0;
     var page_name = event.value;
@@ -799,6 +803,30 @@ function listen_change_event_for_address(event, fromAjax, hanaPage){
         if (privatesale){
             data_feed = get_xml_data("privatesale")
             pageInfo = get_idFromSlug(page_name, 'privatesale', data_feed);
+            page_id = pageInfo[0];
+        }
+
+        if (austinsurvey){
+            data_feed = get_xml_data("austinsurvey")
+            pageInfo = get_idFromSlug(page_name, 'austinsurvey', data_feed);
+            page_id = pageInfo[0];
+        }
+
+        if (hanasurvey){
+            data_feed = get_xml_data("hanasurvey")
+            pageInfo = get_idFromSlug(page_name, 'hanasurvey', data_feed);
+            page_id = pageInfo[0];
+        }
+
+        if (texasmonthly){
+            data_feed = get_xml_data("texasmonthly")
+            pageInfo = get_idFromSlug(page_name, 'texasmonthly', data_feed);
+            page_id = pageInfo[0];
+        }
+
+        if (elopement){
+            data_feed = get_xml_data("elopement")
+            pageInfo = get_idFromSlug(page_name, 'elopement', data_feed);
             page_id = pageInfo[0];
         }
         
