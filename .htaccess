@@ -28,6 +28,9 @@ RewriteRule ^giftcards/(.+)?$ /giftcards.php?page=$1 [L]
 RewriteRule ^privatesale$ /privatesale.php [L]
 RewriteRule ^privatesale/(.+)?$ /privatesale.php?page=$1 [L]
 
+RewriteRule ^austinsurvey$ /austinsurvey.php [L]
+RewriteRule ^austinsurvey/(.+)?$ /austinsurvey.php?page=$1 [L]
+
 #RewriteRule ^hana$ /hana/ [L]
 #RewriteRule ^hana/$ /hana.php [L]
 
