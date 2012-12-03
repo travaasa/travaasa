@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone='yes' ?>
+	<pages>	
+		<backgroundImages>
+				<image>
+					<src>images/site/backgrounds/hana-background-2.jpg</src>
+					<caption><![CDATA[<p>Something happens when you meditate outside by the ocean.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/hana-background-4.jpg</src>
+					<caption><![CDATA[<p>Sunrise Yoga with stunning ocean views and warm breezes.</p>]]></caption>
+				</image>
+
+		</backgroundImages>
+		<privatesale>
+			<secondaryPages>
+				<page section="0" parentId="0" secondaryNav="true" id="0" position="1"  sitemapId="3.0" sitemapTitle="TEXAS MONTHLY">
+					<title>Travaasa Austin &#43; Texas Monthly</title>
+					<meta>
+						<slug>texasmonthly</slug>
+						<pageTitle>Travaasa Austin &#43; Texas Monthly</pageTitle>
+						<description>Texas Monthly &#38; Travaasa Austin</description>
+						<keywords>travaasa, texas monthly, magazine, texas, austin, hotel, resort, spa</keywords>
+					</meta>
+					<h1><![CDATA[Texas Monthly &#43; Travaasa Austin]]></h1>
+					<copy><![CDATA[
+					
+					<div class="gray-box">
+						<p>Content TBD</p>
+					</div>
+					]]></copy>
+					<thumbImg>images/site/natural-beauty-crisman-t.jpg</thumbImg>
+					<thumbCaption>Texas Monthly &#38; Travaasa Austin</thumbCaption>
+					<mainImg>images/site/travaasa-experiences-crisman.jpg</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title></title>
+							<url></url>
+						</pdf>
+					</pdf_downloads>
+				</page>				
+			</secondaryPages>
+		</privatesale>
+	</pages>

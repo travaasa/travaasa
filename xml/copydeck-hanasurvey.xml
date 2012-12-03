@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone='yes' ?>
+	<pages>	
+		<backgroundImages>
+				<image>
+					<src>images/site/backgrounds/hana-background-2.jpg</src>
+					<caption><![CDATA[<p>Something happens when you meditate outside by the ocean.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/hana-background-4.jpg</src>
+					<caption><![CDATA[<p>Sunrise Yoga with stunning ocean views and warm breezes.</p>]]></caption>
+				</image>
+
+		</backgroundImages>
+		<privatesale>
+			<secondaryPages>
+				<page section="0" parentId="0" secondaryNav="true" id="0" position="1"  sitemapId="3.0" sitemapTitle="HANA SURVEY">
+					<title>Travaasa Hana, Maui Pre-Arrival Survey</title>
+					<meta>
+						<slug>hanasurvey</slug>
+						<pageTitle>Travaasa Hana Pre-Arrival Survey</pageTitle>
+						<description>Travaasa Hana Pre-Arrival Survey</description>
+						<keywords>travaasa, hana, hawaii, maui, austin, hotel, resort, spa, survey, arrival</keywords>
+					</meta>
+					<h1><![CDATA[Travaasa Hana Pre-Arrival Survey]]></h1>
+					<copy><![CDATA[
+					
+					<div class="gray-box">
+						<p style="padding-bottom:40px;"><iframe height="1361" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://travaasa.wufoo.com/embed/p7x1p5/"><a href="http://travaasa.wufoo.com/forms/p7x1p5/">Fill out my Wufoo form!</a></iframe></p>
+					</div>
+					]]></copy>
+					<thumbImg>images/site/natural-beauty-crisman-t.jpg</thumbImg>
+					<thumbCaption>Travaasa Hana Pre-Arrival Survey</thumbCaption>
+					<mainImg>images/site/hana-promo-729-aerial.jpg</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title></title>
+							<url></url>
+						</pdf>
+					</pdf_downloads>
+				</page>				
+			</secondaryPages>
+		</privatesale>
+	</pages>

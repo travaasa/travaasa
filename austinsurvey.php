@@ -185,7 +185,7 @@ foreach ($xml->austinsurvey->secondaryPages->page as $page) {
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     <!-- end Typekit -->
 	</head>
-	<body class="austin">
+	<body class="austinsurvey">
 	<script type="text/javascript">
 	document.write(unescape('%3Cscript src="' + document.location.protocol + '//d1ivexoxmp59q7.cloudfront.net/imi/live.js" type="text/javascript"%3E%3C/script%3E'));
 	</script>
@@ -209,7 +209,7 @@ foreach ($xml->austinsurvey->secondaryPages->page as $page) {
 				<div id="main_nav">
 					<ul>
                         <!--						<li class="nav0"><a href="/home/">Home</a></li>-->
-                        <li class="nav1"><a class="selected" href="/austin">Travaasa Austin</a></li>
+                        <li class="nav1"><a href="/austin">Travaasa Austin</a></li>
                         <li class="nav2"><a href="/hana">Travaasa H&#257;na</a></li>
                         <li class="nav3"><a href="/experiences">Experiences</a></li>
                         <li class="nav4"><a href="/about-us">About Travaasa</a></li>
@@ -253,14 +253,6 @@ foreach ($xml->austinsurvey->secondaryPages->page as $page) {
 							<?php endif; ?>
 						</div><!-- #main_image -->
 						<div class="clear"></div>
-						<div id="slideshow_frame2">
-							<div id="slideshow">
-								<ul class="gallery">
-							
-								</ul>
-							</div><!-- #slideshow -->
-						</div><!-- #slideshow_frame2 -->
-						
 						<div class="clear"></div>
 						<div class="main_content_top"></div>
 						<div class="main_content_content">
