@@ -11,7 +11,7 @@
 				</image>
 
 		</backgroundImages>
-		<privatesale>
+		<austinsurvey>
 			<secondaryPages>
 				<page section="0" parentId="0" secondaryNav="true" id="0" position="1"  sitemapId="3.0" sitemapTitle="AUSTIN SURVEY">
 					<title>Austin Pre-Arrival Survey</title>
@@ -41,5 +41,5 @@
 					</pdf_downloads>
 				</page>				
 			</secondaryPages>
-		</privatesale>
+		</austinsurvey>
 	</pages>

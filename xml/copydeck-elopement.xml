@@ -11,17 +11,17 @@
 				</image>
 
 		</backgroundImages>
-		<privatesale>
+		<elopement>
 			<secondaryPages>
 				<page section="0" parentId="0" secondaryNav="true" id="0" position="1"  sitemapId="3.0" sitemapTitle="Elopement">
-					<title>Travaasa Hana Elopement Package</title>
+					<title>Hana Elopement Package</title>
 					<meta>
 						<slug>elopement</slug>
-						<pageTitle>Travaasa Hana Elopement Package</pageTitle>
+						<pageTitle>Hana Elopement Package</pageTitle>
 						<description>Travaasa Hana Elopement Package</description>
 						<keywords>travaasa, elopement, package, magazine, hawaii, Hana, hotel, resort, maui, weddin</keywords>
 					</meta>
-					<h1><![CDATA[Travaasa Hana Elopement Package]]></h1>
+					<h1><![CDATA[Hana Elopement Package]]></h1>
 					<copy><![CDATA[
 					
 					<div class="gray-box">
@@ -96,5 +96,5 @@
 					</pdf_downloads>
 				</page>				
 			</secondaryPages>
-		</privatesale>
+		</elopement>
 	</pages>
