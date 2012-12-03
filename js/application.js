@@ -151,6 +151,7 @@ function create_pageContent(html, fromAjax, pagePosition, page_id){
     }//html[4]
     //	$("#main_image img").imagesLoaded(function(){	$(this).show(); });
     if(page_id==0 && html[6].length>0){
+      
         $('#main_content_frame, ul.gallery, #slideshow, #slideshow li a img, #slideshow li a, .pdf_downloads_html_wrapper, #main_image_caption, ul.pg_paging li').fadeIn(1100);
         $('#main_image img.mainimg').hide();
         var slideshow = '<ul>';
@@ -755,6 +756,7 @@ function listen_change_event_for_address(event, fromAjax, hanaPage){
     var experiences = $('body.experiences').size();
     var austin = $('body.austin').size();
     var hana = $('body.hana').size();
+    var privatesale = $('body.privatesale').size();
     //console.log("event.value = " + event.value);
     var parentId = 0;
     var page_name = event.value;
@@ -794,6 +796,12 @@ function listen_change_event_for_address(event, fromAjax, hanaPage){
             page_id = pageInfo[0]
 			
         }
+        if (privatesale){
+            data_feed = get_xml_data("privatesale")
+            pageInfo = get_idFromSlug(page_name, 'privatesale', data_feed);
+            page_id = pageInfo[0];
+        }
+        
         $(".secondary_nav li a").removeClass("selected");
         $("ul.secondary_nav a").each(function(){
             if ($(this).attr("id") == pageInfo[2]){  //find the right sec nav 
@@ -829,6 +837,10 @@ function listen_change_event_for_address(event, fromAjax, hanaPage){
         if(hana){
             thumbNailsHtml = get_thumbNails(page_id, 'hana', data_feed);
             pageContent = get_pageContent(page_id, 'hana', data_feed);
+        }
+        if(privatesale){
+            thumbNailsHtml = get_thumbNails(page_id, 'privatesale', data_feed);
+            pageContent = get_pageContent(page_id, 'privatesale', data_feed);
         }
 		
 	
