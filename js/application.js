@@ -151,7 +151,7 @@ function create_pageContent(html, fromAjax, pagePosition, page_id){
     }//html[4]
     //	$("#main_image img").imagesLoaded(function(){	$(this).show(); });
     if(page_id==0 && html[6].length>0){
-        console.log(html[6]);
+      
         $('#main_content_frame, ul.gallery, #slideshow, #slideshow li a img, #slideshow li a, .pdf_downloads_html_wrapper, #main_image_caption, ul.pg_paging li').fadeIn(1100);
         $('#main_image img.mainimg').hide();
         var slideshow = '<ul>';
