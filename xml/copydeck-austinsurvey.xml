@@ -2,12 +2,12 @@
 	<pages>	
 		<backgroundImages>
 				<image>
-					<src>images/site/backgrounds/hana-background-2.jpg</src>
-					<caption><![CDATA[<p>Something happens when you meditate outside by the ocean.</p>]]></caption>
+					<src>images/site/backgrounds/bg_option7.jpg</src>
+					<caption><![CDATA[<p>Relax and reconnect at Travaasa Austin.</p>]]></caption>
 				</image>
 				<image>
-					<src>images/site/backgrounds/hana-background-4.jpg</src>
-					<caption><![CDATA[<p>Sunrise Yoga with stunning ocean views and warm breezes.</p>]]></caption>
+					<src>images/site/backgrounds/austin-background-3.jpg</src>
+					<caption><![CDATA[<p>An experience that recaptures the magic of travel.</p>]]></caption>
 				</image>
 
 		</backgroundImages>
