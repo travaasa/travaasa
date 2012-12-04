@@ -81,7 +81,7 @@
                     <slide>images/site/hana-promo-729-aerial.jpg</slide>
                     <slide url='/lightbox/fly-to-hana.html' fancybox="true">images/site/hana-promo-729-fly-to-hana.jpg</slide>
                     <slide>images/site/hana-promo-729-hamoa-beach.jpg</slide>
-                    <slide>images/site/hana-promo-729-protected-east-coast.jpg</slide>
+                    <!--<slide>images/site/hana-promo-729-protected-east-coast.jpg</slide>-->
                 </slides>
                 <imageCaption></imageCaption>
                 <Storybook></Storybook>
