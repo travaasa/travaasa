@@ -2,14 +2,13 @@
 	<pages>	
 		<backgroundImages>
 				<image>
-					<src>images/site/backgrounds/bg_option7.jpg</src>
-					<caption><![CDATA[<p>Relax and reconnect at Travaasa Austin.</p>]]></caption>
-				</image>
-				<image>
 					<src>images/site/backgrounds/austin-background-3.jpg</src>
 					<caption><![CDATA[<p>An experience that recaptures the magic of travel.</p>]]></caption>
 				</image>
-
+				<image>
+					<src>images/site/backgrounds/bg_option7.jpg</src>
+					<caption><![CDATA[<p>Relax and reconnect at Travaasa Austin.</p>]]></caption>
+				</image>
 		</backgroundImages>
 		<austinsurvey>
 			<secondaryPages>
