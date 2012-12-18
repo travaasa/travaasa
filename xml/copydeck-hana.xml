@@ -35,8 +35,9 @@
                 <h1 position="1">Travaasa Hana: Maui's Last Truly Hawaiian Place</h1>
                 <copy position="1">
                     <![CDATA[
-                    <!--<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:5px 0 20px 0; margin:5px 25px 0px 25px; height:655px;">
-                    <p style="text-align:center;"><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="625" /></a></p>-->
+                    <div class="gray-promo-box">
+                    <a href='http://giftcards.travaasa.com' target="_blank"><img style='margin: 0px 20px 0px 20px;' width="667" height="100" src='/images/site/gift-card-promo-banner.png' /></a>
+                    </div>
 		            <div class="gray-box">
 					<div style="float:left; margin:0 0 0 20px; width:363px;">
 					<a href="/hana/accommodations"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-rooms-t.jpg" width="150" height="95" alt="Rooms"></a>
@@ -107,8 +108,8 @@
             				<h1>Travaasa Hana Photo Gallery</h1>
             				<copy><![CDATA[
             				
-            				<div style="background-color:#FFFFFF; border-color:#F1F1F1; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-width: 2px; border-style:solid; padding:4px 10px 4px 10px; margin:10px 25px 10px 25px;">
-			                <p><a href='/lightbox/fly-to-hana.html' class='fancyajax'><img src="/images/site/hana-by-air-611r.jpg" width="611" /></a></p>
+            				<div style="background-color:#FFFFFF; border-color:#F1F1F1; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-width: 2px; border-style:solid; padding:12px 15px 12px 15px; margin:10px 25px 10px 25px;">
+			                <a href='/lightbox/fly-to-hana.html' class='fancyajax'><img style='margin: 0px 5px 0px 5px;' width="636" height="100" src='/images/site/fly-to-hana-banner-667x200.jpg' /></a>
 			                </div>
             				
             				<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:20px 0px 254px 22px; margin:5px 25px 0px 25px; height:999px;">
@@ -296,7 +297,7 @@
                 <copy><![CDATA[
                 <p>Travaasa Resort & Spa provides you with different rate and package selections so that you can make the most of your time with us. These special offerings are designed to customize your journey.</p>
                 
-                <div class="gray-box">
+                <div class="gray-promo-box">
                     <a href='/lightbox/fly-to-hana.html' class='fancyajax'><img style='margin: 0px 20px 0px 20px;' width="667" height="100" src='/images/site/fly-to-hana-banner-667x200.jpg' /></a>
                 </div>
                 
