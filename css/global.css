@@ -1176,6 +1176,67 @@ a.large-link:hover {
     margin-bottom:14px;
 } 
 
+/** MENU POP-UP STYLE **/
+
+.menu-box {
+    background-color:#FFFFFF;
+    width:450px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    border-color:#f1f1f1;
+    border-width: 1px;
+    border-style:solid;
+    padding:20px 75px 20px 75px;
+    margin:5px 10px 0px 10px;
+    -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.29688);
+    -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.29688);
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.29688);
+    display:inline-block;
+}
+
+.menu-title {
+    color:#DC241F;
+    font-size: 24px !important;
+    text-align: center;
+    margin:15px 0px 7px 0px;
+}
+
+.champagne-title {
+    color:#707070;
+    font-size: 11px;
+    font-style: italic;
+    font-family: "Adobe Caslon Pro", "Georgia", serif;
+    text-align: center;
+    margin:0px 0px 0px 0px !important;
+}
+
+.course-title {
+    color:#DC241F !important;
+    font-size: 24px !important;
+    text-align: center;
+    font-weight: 300 !important;
+    text-transform: none !important;
+    margin:7px 0px 0px 0px;
+
+}
+
+.menu-item {
+    color:#303030;
+    font-size:13px;
+    text-transform: uppercase;
+    text-align: center;
+    margin:10px 0px 0px 0px !important;
+}
+
+.menu-description {
+    color:#303030;
+    font-size: 11px;
+    text-transform: lowercase;
+    text-align: center;
+    margin:7px 0px 0px 0px !important;
+}
+
 /** KEVIN COOK HOME PAGE PROMO SLIDER **/
 
 #next {
