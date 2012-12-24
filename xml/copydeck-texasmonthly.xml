@@ -2,19 +2,19 @@
 	<pages>	
 		<backgroundImages>
 				<image>
-					<src>images/site/backgrounds/hana-background-2.jpg</src>
-					<caption><![CDATA[<p>Something happens when you meditate outside by the ocean.</p>]]></caption>
+					<src>images/site/backgrounds/bg_option7.jpg</src>
+					<caption><![CDATA[<p>The infinity pool deck at Travaasa Austin</p>]]></caption>
 				</image>
 				<image>
-					<src>images/site/backgrounds/hana-background-4.jpg</src>
-					<caption><![CDATA[<p>Sunrise Yoga with stunning ocean views and warm breezes.</p>]]></caption>
+					<src>images/site/backgrounds/austin-background-2.jpg</src>
+					<caption><![CDATA[<p>An invigorating morning nature hike at Travaasa Austin</p>]]></caption>
 				</image>
 
 		</backgroundImages>
 		<texasmonthly>
 			<secondaryPages>
 				<page section="0" parentId="0" secondaryNav="true" id="0" position="1"  sitemapId="3.0" sitemapTitle="TEXAS MONTHLY">
-					<title>Travaasa Austin &#43; Texas Monthly</title>
+					<title>Travaasa &#43; Texas Monthly</title>
 					<meta>
 						<slug>texasmonthly</slug>
 						<pageTitle>Travaasa Austin &#43; Texas Monthly</pageTitle>
@@ -24,13 +24,40 @@
 					<h1><![CDATA[Texas Monthly &#43; Travaasa Austin]]></h1>
 					<copy><![CDATA[
 					
-					<div class="gray-box">
-						<p>Content TBD</p>
+					<div class="gray-promo-box">
+                    <a href='http://giftcards.travaasa.com' target="_blank"><img style='margin: 0px 20px 0px 20px;' width="667" height="100" src='/images/site/gift-card-promo-banner.png' /></a>
+                	</div>
+                	<div class="gray-box">	
+					<div style="float:left; margin:0 0 0 20px; width:363px; display:inline-block;">
+					<a href="/austin/accommodations"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-rooms-t.jpg" width="150" height="95" alt="Rooms"></a>
+					<a href="/austin/travaasa-spa-overview"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-spa-t.jpg" width="150" height="95" alt="Spa"></a>
+					<a href="/austin/austinphotos"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-gallery-t.jpg" width="150" height="95" alt="Gallery"></a>
+					<a href="/austin/fitness-overview"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-experiences-t.jpg" width="150" height="95" alt="Rates"></a>
+					</div>
+					<div style="float:left; margin-top:0;, margin-bottom: 50px;">
+					<table width="300" cellpadding="8" cellspacing="8" style="background-color:#FFF; border: 1px solid #f1f1f1; -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);">
+					 <tbody>
+					  <tr>
+					   <td width="50%" class="thin-title">Inclusive</td>
+					   <td width="50%" class="thin-title">&#192; la carte</td>
+					  </tr>
+					  <tr>
+					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>375<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
+					   <td class="thin-big-price"><span style="font-size:38px;">$</span>225<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
+					  </tr>
+					  <tr>
+					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 62px; float: none;'><a class="address_ajax" href="/austin/rates-and-packages">See Rates and Packages</a></div></td>
+					  </tr>
+					  <tr>
+					   <td class="rates-table-description-box" colspan="2">*<em>Starting rates are single occupancy, per night based on a one night stay.  Stay longer to save more…</em></td>
+					  </tr>
+					 </tbody>
+					</table>
 					</div>
 					]]></copy>
-					<thumbImg>images/site/natural-beauty-crisman-t.jpg</thumbImg>
+					<thumbImg>images/site/729-canyon-windows-t.jpg</thumbImg>
 					<thumbCaption>Texas Monthly &#38; Travaasa Austin</thumbCaption>
-					<mainImg>images/site/travaasa-experiences-crisman.jpg</mainImg>
+					<mainImg>images/site/729-canyon-windows.jpg</mainImg>
 					<imageCaption></imageCaption>
 					<Storybook></Storybook>
 					<pdf_downloads>
