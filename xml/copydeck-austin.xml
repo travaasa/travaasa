@@ -32,7 +32,7 @@
 					<copy><![CDATA[
 					
 					<div class="gray-promo-box">
-                    <a href='http://giftcards.travaasa.com' target="_blank"><img style='margin: 0px 20px 0px 20px;' width="667" height="100" src='/images/site/gift-card-promo-banner.png' /></a>
+                    <a class="fancyajax" href='/lightbox/nye-promo.html' target="_blank"><img style='margin: 0px 20px 0px 20px;' width="667" height="100" src='/images/site/nye-promo-banner.jpg' /></a>
                 	</div>
 					<!--<div style="background-color:#fafafa; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; border-color:#f1f1f1; border-width: 2px; border-style:solid; padding:15px 0 20px 0; margin:5px 25px 0px 25px; height:390px;">-->
 					
@@ -239,7 +239,7 @@
 					<p>Travaasa Experiential Resorts provide you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <em>Travaasa Austin welcomes guests age 16 and up.</em></p>
 
 					<div class="gray-promo-box">
-                    <a href='http://giftcards.travaasa.com' target="_blank"><img style='margin: 0px 20px 0px 20px;' width="667" height="100" src='/images/site/gift-card-promo-banner.png' /></a>
+                    <a class="fancyajax" href='/lightbox/nye-promo.html' target="_blank"><img style='margin: 0px 20px 0px 20px;' width="667" height="100" src='/images/site/nye-promo-banner.jpg' /></a>
                 	</div>
 
 					<div class="gray-box">
@@ -1494,7 +1494,7 @@
 					<p>Luxuriate in a warm wrap of sumptuous avocado body butter blended with essential oils of lavender, pine, orange and lemon to balance, purify and tone. Finish with a stimulating scalp massage and full-body mineral mist to invigorate, revitalize and illuminate you from head to toe.<br />50 minutes - <strong>$130</strong></p>
 					
 					<h2>Nurturing Scalp Treatment</h2>
-					<p>This relaxing treatment begins with an aromatic hot-towel compress over the scalp and hair to calm and soothe. A moisture-rich elixir of pure essential oils are then gently massaged into your head and neck. You are welcome to leave the oils in for a few hours, or shower off after your treatment. Your hair, scalp and neck will thank you.<br />25 minutes - <strong>$45</strong></p>
+					<p>This relaxing treatment begins with an aromatic hot-towel compress over the scalp and hair to calm and soothe. A moisture-rich elixir of pure essential oils are then gently massaged into your head and neck. You are welcome to leave the oils in for a few hours, or shower off after your treatment. Your hair, scalp and neck will thank you. Choose a blend that suits you – <em>Stimulating</em>, a stimulating blend of rosemary and lavender or <em>Soothing</em>, a soothing blend of sandalwood and lavender.<br />25 minutes - <strong>$50</strong></p>
 					</div>
 					]]>
 					</copy>
