@@ -35,8 +35,11 @@
                 <h1 position="1">Travaasa Hana: Maui's Last Truly Hawaiian Place</h1>
                 <copy position="1">
                     <![CDATA[
-                    <div class="gray-promo-box">
+                    <!--<div class="gray-promo-box">
                     <a href='http://giftcards.travaasa.com' target="_blank"><img style='margin: 0px 20px 0px 20px;' width="667" height="100" src='/images/site/gift-card-promo-banner.png' /></a>
+                    </div>-->
+                    <div class="gray-promo-box">
+                    <a href='/lightbox/fly-to-hana.html' class='fancyajax'><img style='margin: 0px 20px 0px 20px;' width="667" height="100" src='/images/site/fly-to-hana-banner-667x200.jpg' /></a>
                     </div>
 		            <div class="gray-box">
 					<div style="float:left; margin:0 0 0 20px; width:363px;">
