@@ -9,7 +9,6 @@
 					<src>images/site/backgrounds/hana-background-4.jpg</src>
 					<caption><![CDATA[<p>Sunrise Yoga with stunning ocean views and warm breezes.</p>]]></caption>
 				</image>
-
 		</backgroundImages>
 		<hanasurvey>
 			<secondaryPages>
@@ -23,9 +22,9 @@
 					</meta>
 					<h1><![CDATA[]]></h1>
 					<copy><![CDATA[
-					
-					<iframe height="1600" allowTransparency="true" frameborder="0" scrolling="no" style="width:691px; border:none; padding: 20px 20px 20px 20px;"  src="http://travaasa.wufoo.com/embed/p7x1p5/"><a href="http://travaasa.wufoo.com/forms/p7x1p5/">Fill out my Wufoo form!</a></iframe>
-					
+					<div class="gray-box">
+					<iframe height="1800" allowTransparency="true" frameborder="0" scrolling="no" style="width:666px; border:none; padding: 20px 20px 20px 20px;"  src="http://travaasa.wufoo.com/embed/p7x1p5/"><a href="http://travaasa.wufoo.com/forms/p7x1p5/">Fill out my Wufoo form!</a></iframe>
+					</div>
 					]]></copy>
 					<thumbImg>images/site/natural-beauty-crisman-t.jpg</thumbImg>
 					<thumbCaption>Travaasa Hana Pre-Arrival Survey</thumbCaption>
