@@ -2,14 +2,13 @@
 	<pages>	
 		<backgroundImages>
 				<image>
-					<src>images/site/backgrounds/bg_option7.jpg</src>
-					<caption><![CDATA[<p>The infinity pool deck at Travaasa Austin</p>]]></caption>
+					<src>images/site/backgrounds/hana-background-4.jpg</src>
+					<caption><![CDATA[<p>Sunrise Yoga with stunning ocean views and warm breezes.</p>]]></caption>
 				</image>
 				<image>
-					<src>images/site/backgrounds/austin-background-2.jpg</src>
-					<caption><![CDATA[<p>An invigorating morning nature hike at Travaasa Austin</p>]]></caption>
-				</image>
-
+					<src>images/site/backgrounds/hana-background-2.jpg</src>
+					<caption><![CDATA[<p>Something happens when you meditate outside by the ocean.</p>]]></caption>
+				</image>	
 		</backgroundImages>
 		<texasmonthly>
 			<secondaryPages>
@@ -17,22 +16,22 @@
 					<title>Travaasa &#43; Texas Monthly</title>
 					<meta>
 						<slug>texasmonthly</slug>
-						<pageTitle>Travaasa Austin &#43; Texas Monthly</pageTitle>
-						<description>Texas Monthly &#38; Travaasa Austin</description>
-						<keywords>travaasa, texas monthly, magazine, texas, austin, hotel, resort, spa</keywords>
+						<pageTitle>Travaasa Hana &#43; Texas Monthly</pageTitle>
+						<description>Travaasa Hana &#38; Texas Monthly</description>
+						<keywords>travaasa, texas monthly, magazine, texas, hana, maui, hotel, resort, spa</keywords>
 					</meta>
-					<h1><![CDATA[Texas Monthly &#43; Travaasa Austin]]></h1>
+					<h1><![CDATA[Travaasa Hana &#43; Texas Monthly]]></h1>
 					<copy><![CDATA[
 					
-					<div class="gray-promo-box">
+					<!--<div class="gray-promo-box">
                     <img style='margin: 0px 20px 0px 20px;' width="667" src='/images/site/texas-monthly-credits-promo.png' />
-                	</div>
+                	</div>-->
                 	<div class="gray-promo-box">	
 					<div style="float:left; margin:0 0 0 20px; width:363px; display:inline-block;">
-					<a href="/austin/accommodations"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-rooms-t.jpg" width="150" height="95" alt="Rooms"></a>
-					<a href="/austin/travaasa-spa-overview"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-spa-t.jpg" width="150" height="95" alt="Spa"></a>
-					<a href="/austin/austinphotos"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-gallery-t.jpg" width="150" height="95" alt="Gallery"></a>
-					<a href="/austin/fitness-overview"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/austin-landing-experiences-t.jpg" width="150" height="95" alt="Rates"></a>
+					<a href="/hana/accommodations"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-rooms-t.jpg" width="150" height="95" alt="Rooms"></a>
+					<a href="/hana/hana-the-spa-at-travaasa-hana"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-spa-t.jpg" width="150" height="95" alt="Spa"></a>
+					<a href="/hana/hanaphotos"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-gallery-t.jpg" width="150" height="95" alt="Gallery"></a>
+					<a href="/hana/travaasa-hana-experiences"><img class="frame-left" style="float:left;" src="http://travaasa.com/images/site/hana-landing-experiences-t.jpg" width="150" height="95" alt="Rates"></a>
 					</div>
 					<div style="float:left; margin: 0px 20px 0px 0px;">
 					<table width="300" cellpadding="8" cellspacing="8" style="background-color:#FFF; border: 1px solid #f1f1f1; -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);">
@@ -42,14 +41,14 @@
 					   <td width="50%" class="thin-title">&#192; la carte</td>
 					  </tr>
 					  <tr>
-					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>375<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
-					   <td class="thin-big-price"><span style="font-size:38px;">$</span>225<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
+					   <td class="thin-big-price" style="border-right: 2px solid #a1c4c9;"><span style="font-size:38px;">$</span>575<span style="font-size:35px; vertical-align:top;">&#42;&nbsp;</span></td>
+					   <td class="thin-big-price"><span style="font-size:38px;">$</span>350<span style="font-size:35px; vertical-align:top;">&#42;</span></td>
 					  </tr>
 					  <tr>
-					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 62px; float: none;'><a class="address_ajax" href="/austin/rates-and-packages">See Rates and Packages</a></div></td>
+					   <td colspan='2' align="center" style='text-align:center;'><div class='button-toolkit' style='padding: 8px 0 0 62px; float: none;'><a class="address_ajax" href="/hana/hana-rates-and-packages">See Rates and Packages</a></div></td>
 					  </tr>
 					  <tr>
-					   <td class="rates-table-description-box" colspan="2">*<em>Starting rates are single occupancy, per night based on a one night stay.  Stay longer to save more…</em></td>
+					   <td class="rates-table-description-box" colspan="2">*<em>Starting rates are per person, per night based on a one night stay, double occupancy. Stay longer to save more...</em></td>
 					  </tr>
 					 </tbody>
 					</table>
@@ -57,8 +56,8 @@
 					<p>&nbsp;</p>
 					]]></copy>
 					<thumbImg>images/site/729-canyon-windows-t.jpg</thumbImg>
-					<thumbCaption>Texas Monthly &#38; Travaasa Austin</thumbCaption>
-					<mainImg>images/site/729-canyon-windows.jpg</mainImg>
+					<thumbCaption>Texas Monthly &#38; Travaasa Hana</thumbCaption>
+					<mainImg>images/site/hana-promo-729-fly-to-hana.jpg</mainImg>
 					<imageCaption></imageCaption>
 					<Storybook></Storybook>
 					<pdf_downloads>
