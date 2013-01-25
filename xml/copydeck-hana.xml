@@ -80,7 +80,7 @@
 				
                 <thumbImg></thumbImg>
                 <thumbCaption></thumbCaption>
-                <mainImg>images/site/hana-main.jpg</mainImg>
+                <mainImg>images/site/hana-promo-729-aerial.jpg</mainImg>
                 <slides>
                     <slide>/images/site/hana-promo-729-aerial.jpg</slide>
                     <slide url='/lightbox/fly-to-hana.html' fancybox="true">/images/site/hana-promo-729-fly-to-hana.jpg</slide>
@@ -397,7 +397,7 @@
                             <a class="fancyajax frame-left" href="/lightbox/feb-2012.html">
                                 <img src="/images/site/feb-heart-gray.png" height="141" alt="February is Heart Month" /></a>
 
-                            <a class="fancy frame-left" href="/images/site/coming-soon.png">
+                            <a class="fancyajax frame-left" href="/lightbox/mar-2013.html">
                                 <img src="/images/site/mar-go-gray.png" height="141" alt="March is Go Month" /></a>
 
                             <a class="fancy frame-left" href="/images/site/coming-soon.png">

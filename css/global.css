@@ -1150,6 +1150,20 @@ a.large-link:hover {
     display:inline-block;
 }
 
+.videobox {
+padding: 14px;
+margin:10px 0 0 20px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+-webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+background-color: #fafafa;
+border: 1px solid #f1f1f1;
+display:inline-block;
+}
+
 .months {
     margin-left:20px;
     display:inline-block;
@@ -1347,8 +1361,8 @@ a.large-link:hover {
 	only screen and (-o-min-device-pixel-ratio: 3/2),
 	only screen and (min--moz-device-pixel-ratio: 1.5),
 	only screen and (min-device-pixel-ratio: 1.5) {
-		#nav a, #promo_nav a {background: url(../images/inactive-square-dot@2x.png);}
-		#nav a.activeSlide, #promo_nav a.activeSlide{background: url(../images/active-square-dot@2x.png);}
+		#nav a, #promo_nav a {background: url(../images/inactive-square-dot@2x.png); background-size: 11px 11px;}
+		#nav a.activeSlide, #promo_nav a.activeSlide{background: url(../images/active-square-dot@2x.png); background-size: 11px 11px;}
 }
 #nav a:focus,
 #nav a:active {

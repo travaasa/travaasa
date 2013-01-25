@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone='yes' ?>
+	<pages>	
+		<backgroundImages>
+				<image>
+					<src>images/site/backgrounds/hana-background-2.jpg</src>
+					<caption><![CDATA[<p>Something happens when you meditate outside by the ocean.</p>]]></caption>
+				</image>
+				<image>
+					<src>images/site/backgrounds/hana-background-4.jpg</src>
+					<caption><![CDATA[<p>Sunrise Yoga with stunning ocean views and warm breezes.</p>]]></caption>
+				</image>
+
+		</backgroundImages>
+		<kamaaina>
+			<secondaryPages>
+				<page section="0" parentId="0" secondaryNav="true" id="0" position="1"  sitemapId="3.0" sitemapTitle="Elopement">
+					<title>Kamaaina at Travaasa Hana</title>
+					<meta>
+						<slug>kamaaina</slug>
+						<pageTitle>Kamaaina at Travaasa Hana</pageTitle>
+						<description>Kamaaina Rates at Travaasa Hana</description>
+						<keywords>travaasa, kamaaina, package, local, locals, hawaii, Hana, hotel, resort, maui</keywords>
+					</meta>
+					<h1><![CDATA[Exclusive Kamaaina Rates for Hawaii Residents]]></h1>
+					<copy><![CDATA[
+					
+					<div class="gray-box">
+
+						<p>Unwind, unplug, and enjoy a romantic weekend escape to Travaasa Hana, Maui. Located at the end of the Road to Hana on Maui’s secluded eastern shore, Travaasa Hana is offering Hawaii residents incredible savings for stays two nights and longer. The newly created kamaaina offers highlight <a href="http://mokuleleairlines.com/" target="_blank">Mokulele Airlines'</a> twice-daily air service between Kahului and Hana.</p>
+
+						<p>Barefoot elegance, unspoiled natural beauty, and a Hawaiian sense of place await those who wish to retreat to a slower pace of life in heavenly Hana. Local residents may choose from two offers:</p>
+						<br />
+
+						<h2>Garden Suite Getaway Package <br /><span style="color:#505050">$295/night</span></h2> 
+
+						<ul>
+						<li>Accommodations in a low-rise bungalow Garden Suite</li>
+						<li>Roundtrip air from Kahului Airport (OGG) to Hana Airport (HNM) for two (valued at $240)</li>
+						<li>Ground transportation to and from the Hana Airport</li>
+						<li>$25 per person spa credit</li>
+						<li>$25 per person private activity credit</li>
+						<li>$50 total food &#38; beverage credit</li>
+						</ul>
+
+						<p><em>Based on double occupancy; excluding taxes and service charges. Two-night minimum stay required. Certain restrictions and blackout dates apply. Flights on Mokulele Airlines only. Proof of Hawaii residency is required at check-in.</em></p>
+
+						<br />
+
+						<h2>Sea Ranch Romance Package <br /><span style="color:#505050">$395/night</span></h2>
+
+						<ul>
+						<li>Accommodations in a plantation-style, ocean view Sea Ranch Cottage with private lanai</li>
+						<li>Roundtrip air from Kahului Airport (OGG) to Hana Airport (HNM) for two (valued at $240)</li>
+						<li>Ground transportation to and from the Hana Airport</li>
+						<li>$25 per person spa credit</li>
+						<li>$25 per person private activity credit</li>
+						<li>$50 total food &#38; beverage credit</li>
+						</ul>
+
+						<p><em>Based on double occupancy; excluding taxes and service charges. Two-night minimum stay required. Must be 16 years or older to stay in Sea Ranch Cottage. Certain restrictions and blackout dates apply. Flights on Mokulele Airlines only. Proof of Hawaii residency is required at check-in.</em></p>
+
+					</div>
+					]]></copy>
+					<thumbImg>images/site/natural-beauty-crisman-t.jpg</thumbImg>
+					<thumbCaption>Travaasa Hana Kamaaina Rates</thumbCaption>
+					<mainImg>images/site/hana-libations.jpg</mainImg>
+					<imageCaption></imageCaption>
+					<Storybook></Storybook>
+					<pdf_downloads>
+						<pdf>
+							<title></title>
+							<url></url>
+						</pdf>
+					</pdf_downloads>
+				</page>				
+			</secondaryPages>
+		</kamaaina>
+	</pages>

@@ -266,7 +266,7 @@
 
 
 
-                      <img src="/<?php echo $imgSrc; ?>" class="mainimg" />
+                      <img src="/<?php echo $imgSrc; ?>" class="mainimg" width="729" />
                       <?php if($imageCaption != ""):?>
                       <div id="main_image_caption">
                         <p><?php echo $imageCaption; ?></p>

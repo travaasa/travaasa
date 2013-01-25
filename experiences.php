@@ -239,7 +239,7 @@ foreach ($xml->experiences->secondaryPages->page as $page) {
 						<div id="main_image">
 						
 						
-							<img src="/<?php echo $imgSrc; ?>" />
+							<img src="/<?php echo $imgSrc; ?>" width="729" />
 							<?php if($imageCaption != ""):?>
 							<div id="main_image_caption">
 								<p><?php echo $imageCaption; ?></p>
