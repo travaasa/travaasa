@@ -1361,8 +1361,8 @@ display:inline-block;
 	only screen and (-o-min-device-pixel-ratio: 3/2),
 	only screen and (min--moz-device-pixel-ratio: 1.5),
 	only screen and (min-device-pixel-ratio: 1.5) {
-		#nav a, #promo_nav a {background: url(../images/inactive-square-dot@2x.png);}
-		#nav a.activeSlide, #promo_nav a.activeSlide{background: url(../images/active-square-dot@2x.png);}
+		#nav a, #promo_nav a {background: url(../images/inactive-square-dot@2x.png); background-size: 11px 11px;}
+		#nav a.activeSlide, #promo_nav a.activeSlide{background: url(../images/active-square-dot@2x.png); background-size: 11px 11px;}
 }
 #nav a:focus,
 #nav a:active {
