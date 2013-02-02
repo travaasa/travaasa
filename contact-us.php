@@ -10,7 +10,7 @@ $error_question = "";
 $error_name = "";
 if(isset($_POST['submit'])) {
 	$error_count = 0;
-	$to_email = "signup@travaasa.com";
+	$to_email = "reservations@travaasa.com";
 	$subject = "Question from Web Site.";
 	$from_email = $_POST ['email_address'];
         $reply_email = $_POST['email_address'];
