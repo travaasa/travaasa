@@ -48,7 +48,11 @@ $xml = simplexml_load_file('xml/copydeck.xml');
 	<img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=213436&amp;ns=1"/>
 	</noscript>
 	<!-- end Adserving Tag-->
-        </head>
+	<!-- start NAVIS Code -->
+    <script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=8558687282"></script>
+    <script type="text/javascript">ProcessNavisNCKeyword();</script>
+    <!-- end NAVIS Code -->
+    </head>
 	<body class="index">
     <!-- start IMI -->
 		<script type="text/javascript">
