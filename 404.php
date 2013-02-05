@@ -81,7 +81,7 @@ $xml = simplexml_load_file('xml/copydeck.xml');
             <a href="/home/"><img src="/images/global/logo_main.png" height="157" /></a>
           </div><!-- #logo -->
           <div id="reservation_cta">
-            <p class="reservation_title">1-855-TO-TRAVAASA  (1-855-868-7282)</p>
+            <p class="reservation_title"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-855-868-7282</noscript></p>
             <div id="book-buttons">
               <div id="book-hana"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&shell=HNMHM2&adult=2']); return false;">Book Hana</a></div>
               <div id="book-austin"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">Book Austin</a></div>
