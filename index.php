@@ -43,7 +43,11 @@ $xml = simplexml_load_file('xml/copydeck.xml');
     <script type="text/javascript" src="http://use.typekit.com/ypk4oxw.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     <!-- end Typekit -->
-        </head>
+    <!-- start NAVIS Code -->
+    <script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=8558687282"></script>
+    <script type="text/javascript">ProcessNavisNCKeyword();</script>
+    <!-- end NAVIS Code -->
+    </head>
 	<body class="intro">
 	<script type="text/javascript">
 	document.write(unescape('%3Cscript src="' + document.location.protocol + '//d1ivexoxmp59q7.cloudfront.net/imi/live.js" type="text/javascript"%3E%3C/script%3E'));

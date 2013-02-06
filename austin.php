@@ -193,6 +193,10 @@
 		<img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=213439&amp;ns=1"/>
 		</noscript>
 		<!-- end Austin Conversion -->
+    <!-- start NAVIS Code -->
+    <script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=8558687282"></script>
+    <script type="text/javascript">ProcessNavisNCKeyword();</script>
+    <!-- end NAVIS Code -->
     </head>
     <body class="austin">
 	    <!-- start IMI -->
@@ -220,7 +224,7 @@
                         <a href="/home/"><img src="/images/global/logo_austin.png" height="157" /></a>
                     </div><!-- #logo -->
                     <div id="reservation_cta">
-                        <p class="reservation_title">1-855-TO-TRAVAASA  (1-855-868-7282)</p>
+                        <p class="reservation_title">CALL TO BOOK: <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-855-868-7282</noscript></p>
                         <div id="book-buttons">
                             <div id="book-hana"><a href="https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&shell=HNMHM2&adult=2" target="_blank" onclick="_gaq.push(['_link', 'https://gc.synxis.com/rez.aspx?Hotel=26987&Chain=10237&shell=HNMHM2&adult=2']); return false;">Book Hana</a></div>
                             <div id="book-austin"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">Book Austin</a></div>
