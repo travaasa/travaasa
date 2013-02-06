@@ -135,7 +135,7 @@ body{background-color: #fff;
 	#logo a img{}
 	
 	#reservation_cta{ height:104px; width:400px; position:absolute; right:-8px; top:19px;}
-	#reservation_cta p, #reservation_cta label{font-size:12px; color:#111111; font-weight:bold; font-family: arial !important;
+	#reservation_cta p, #reservation_cta label{font-size:14px; color:#111111; font-weight:bold; font-family: arial !important;
 	}
 		.reservation_title{text-align:right; padding-right:23px;margin-bottom:10px;}
 	#reservation_cta label{display:block;  position:absolute;}
