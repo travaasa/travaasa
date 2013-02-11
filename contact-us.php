@@ -166,7 +166,7 @@ if(isset($_POST['submit'])) {
 							<div class="box_610_content_top"></div>
 							<div class="box_610_content">
 								<h1>Contact Us</h1>
-								<p  class="content">Are you ready to Travaasa? Start your journey today and get ready to experience the world in a completely different way. Call 855-TO-TRAVAASA (855-868-7282) to book your stay.</p>
+								<p  class="content">Are you ready to Travaasa? Start your journey today and get ready to experience the world in a completely different way. Call <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-855-868-7282</noscript> to book your stay.</p>
 								<p>Interested in a career with Travaasa?  Visit our <a href="http://theapplicantmanager.com/php/careers.php?co=tv" target="_blank">careers page</a>.</p>
 							</div><!-- .box_610_content -->
 							<div class="box_610_content_bottom"></div><!--box_610_content_bottom-->
@@ -178,7 +178,7 @@ if(isset($_POST['submit'])) {
 								<div class="box_610_content_content">
 									<h1>Travaasa Austin</h1>
 									<p class="content"><a href="http://maps.google.com/maps?hl=en&q=travaasa+austin&safe=off&ie=UTF8&sqi=2&hq=travaasa&hnear=Austin,+Travis,+Texas&t=m&vpsrc=6&ll=30.45844,-97.835999&spn=0.12326,0.221786&z=13&iwloc=A&cid=5151063792531704065" target="_blank">13500 Farm to Market Road 2769<br>Austin, TX 78726</a></p>
-									<p class="content">Reservations &amp; Spa:<br/> 855-TO-TRAVAASA (855-868-7282)<br><a href="mailto:austin@travaasa.com" onClick="_gaq.push(['_trackEvent', 'Contact Us', 'Exit Link', 'Email Austin Reservations']);">austin@travaasa.com</a><br><br>Main:&nbsp;512-258-7243<br />Fax:&nbsp;512-506-9737<br /><br>Group Sales:&nbsp;512-334-4649<br><a href="mailto:austinsales@travaasa.com" onClick="_gaq.push(['_trackEvent', 'Contact Us', 'Exit Link', 'Email Austin Sales']);">austinsales@travaasa.com</a><br /></p>
+									<p class="content"><br>Email: <a href="mailto:austin@travaasa.com" onClick="_gaq.push(['_trackEvent', 'Contact Us', 'Exit Link', 'Email Austin Reservations']);">austin@travaasa.com</a><br>Main:&nbsp;512-364-0061<br />Fax:&nbsp;512-506-9737<br /><br>Group Sales:&nbsp;512-334-4649<br><a href="mailto:austinsales@travaasa.com" onClick="_gaq.push(['_trackEvent', 'Contact Us', 'Exit Link', 'Email Austin Sales']);">austinsales@travaasa.com</a><br /></p>
 								</div><!-- .box_610_content_content -->
 								<div class="clear"></div>
 							</div><!-- .box_610_content -->
@@ -193,7 +193,7 @@ if(isset($_POST['submit'])) {
 								<div class="box_610_content_content">
 									<h1>Travaasa Hana</h1>
 									<p class="content"><a href="http://maps.google.com/maps?hl=en&q=5031+Hana+Highway+Hana,+HI+96713&gs_upl=3125l8296l0l9305l5l5l0l0l0l1l203l724l1.3.1l5l0&bav=on.2,or.r_gc.r_pw.,cf.osb&biw=638&bih=933&um=1&ie=UTF-8&hq=&hnear=0x7954ac25effd1793:0x535647e82e0e776,5031+Hana+Hwy,+Hana,+HI+96713&gl=us&ei=Hh4GT_KFB4nE2wX9zIn5CQ&sa=X&oi=geocode_result&ct=title&resnum=1&ved=0CB0Q8gEwAA5" target="_blank">5031 Hana Hwy<br>Hana, Hi 96713</a></p>
-									<p class="content">Reservations &amp; Spa:<br/> 855-TO-TRAVAASA (855-868-7282)<br><a href="mailto:hana@travaasa.com" onClick="_gaq.push(['_trackEvent', 'Contact Us', 'Exit Link', 'Email Hana Reservations']);">hana@travaasa.com</a><br><br>Main:&nbsp;808-248-8211<br />Fax:&nbsp;808-248-7202<br /><br/>Group Sales: 808-248-8211<br><a href="mailto:hanasales@travaasa.com" onClick="_gaq.push(['_trackEvent', 'Contact Us', 'Exit Link', 'Email Hana Sales']);">hanasales@travaasa.com</a><br /></p>									
+									<p class="content"><br>Email: <a href="mailto:hana@travaasa.com" onClick="_gaq.push(['_trackEvent', 'Contact Us', 'Exit Link', 'Email Hana Reservations']);">hana@travaasa.com</a><br>Main:&nbsp;808-359-2401<br />Fax:&nbsp;808-248-7202<br /><br/>Group Sales: 808-248-8211<br><a href="mailto:hanasales@travaasa.com" onClick="_gaq.push(['_trackEvent', 'Contact Us', 'Exit Link', 'Email Hana Sales']);">hanasales@travaasa.com</a><br /></p>									
 							</div><!-- .box_610_content_content -->
 								<div class="clear"></div>
 								
