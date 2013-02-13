@@ -2601,12 +2601,8 @@ A portion of the proceeds from this treatment will be donated to the Texas Beeke
 					<Storybook></Storybook>
 						<pdf_downloads>
 							<pdf>
-								<title>Meeting Planners Guide</title>
-								<url>/pdf/Travaasa_Austin_Meeting_Planners_Guide_web.pdf</url>
-							</pdf>
-							<pdf>
-								<title>Group Activities</title>
-								<url>/pdf/Travaasa-Austin-Group-Activities.pdf</url>
+								<title></title>
+								<url></url>
 							</pdf>
 						</pdf_downloads>
 				</page>
