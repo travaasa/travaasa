@@ -337,7 +337,6 @@
                             });
         </script>
         <script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
-        <script type="text/javascript" AppendNavisKeywordToLink("lnkBookingEngine1");</script>
         <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
