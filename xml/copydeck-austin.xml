@@ -326,10 +326,20 @@
 					    <tr>
 					      <td colspan="3">&nbsp;</td>
 					    </tr>
-					    <tr>
+					    <!--<tr>
 					      <td class="compare-table-title">&nbsp;</td>
 					      <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
 					      <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+					    </tr>-->
+					    <!--TEST BUTTONS-->
+					    <tr>
+							<td class="compare-table-title">&nbsp;</td>
+						    <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'>
+						    <a class="address_ajax" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;">CHECK RATES & AVAILABILITY</a>
+						    </div></td>
+						    <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'>
+						    <a class="address_ajax" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;">CHECK RATES & AVAILABILITY</a>
+						    </div></td>
 					    </tr>
 					    <tr>
 					      <td>&nbsp;</td>
