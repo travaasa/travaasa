@@ -76,9 +76,7 @@ $xml = simplexml_load_file('xml/copydeck.xml');
 		</div><!-- #background -->
 		
 		<?php include("php/footer_social.include.php"); ?>
-		
-		
-		
+		<script type="text/javascript">AppendNavisKeywordToLink("lnkBookingEngine1");</script>
 	</body>
 
 </html>

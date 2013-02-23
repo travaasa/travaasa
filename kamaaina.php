@@ -304,5 +304,6 @@ foreach ($xml->kamaaina->secondaryPages->page as $page) {
 				<?endif?>
 			});
 		</script>
+		<script type="text/javascript">AppendNavisKeywordToLink("lnkBookingEngine1");</script>
 		</body>
 	</html>
