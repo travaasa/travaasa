@@ -326,10 +326,20 @@
 					    <tr>
 					      <td colspan="3">&nbsp;</td>
 					    </tr>
-					    <tr>
+					    <!--<tr>
 					      <td class="compare-table-title">&nbsp;</td>
-					      <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
-					      <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+					      <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+					      <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'><a class="address_ajax" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;">CHECK RATES & AVAILABILITY</a></div></td>
+					    </tr>-->
+					    <!--TEST BUTTONS-->
+					    <tr>
+							<td class="compare-table-title">&nbsp;</td>
+						    <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'>
+						    <a class="address_ajax" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;">CHECK RATES & AVAILABILITY</a>
+						    </div></td>
+						    <td><div id="compare-table-availability" style='font-size: 13px; margin:0 7px 0 7px; float:none;'>
+						    <a class="address_ajax" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;">CHECK RATES & AVAILABILITY</a>
+						    </div></td>
 					    </tr>
 					    <tr>
 					      <td>&nbsp;</td>
@@ -2080,7 +2090,7 @@ A portion of the proceeds from this treatment will be donated to the Texas Beeke
 					  <p>Rates at Travaasa Austin are dependent upon length of stay and room type. The longer you stay to savor the experience, the lower the nightly rate.</p>
 					   <div id="book-gift" style="float: left;"><a href="/austin/rates-and-packages">Rates</a></div>
 					   
-					  <div id="book-gift" style="float: left;"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">Book Now</a></div>
+					  <div id="book-gift" style="float: left;"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;">Book Now</a></div>
 					  
 					  <p>&nbsp;</p>
 					  ]]>
@@ -2142,7 +2152,7 @@ A portion of the proceeds from this treatment will be donated to the Texas Beeke
 					  <h1>Trail Room Rates</h1>
 					  <p>As with the room rates for the Canyon Rooms at Travaasa Austin, rates for the Trail Rooms are dependent upon length of stay and room type. The longer you stay to savor the experience, the lower the nightly rate.</p>
 					  <div id="book-gift" style="float: left;"><a href="/austin/rates-and-packages">Rates</a></div>
-					  <div id="book-gift" style="float: left;"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">Book Now</a></div>
+					  <div id="book-gift" style="float: left;"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;">Book Now</a></div>
 					  <p>&nbsp;</p>]]>
 					</copy>
 					<thumbImg>images/site/trail-rooms-t.jpg</thumbImg>
