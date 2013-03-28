@@ -1,0 +1,666 @@
+<!DOCTYPE HTML>
+<!--[if IE 7 ]>    <html class="ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9 no-js" lang="en"> <![endif]--> 
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+    <title>Flare - Lightbox Usage Examples - by Pixelentity</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <!-- CSS styles -->
+    <link href="css/prettify.css" rel="stylesheet" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/bootstrap-responsive.css" rel="stylesheet" />
+	<link href="css/style.css" rel="stylesheet"/>
+
+	<!-- http://remysharp.com/2009/01/07/html5-enabling-script/ -->
+	<!--[if lt IE 9]>
+		<script type="text/javascript">/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark meter nav output progress section summary subline time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+	<![endif]-->
+	<script type="text/javascript">(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+
+	<!-- jquery -->
+    <script type="text/javascript" src="js/jquery.js"></script>
+
+	<!-- example page needed scripts -->
+    <script type="text/javascript" src="js/prettify/prettify.js"></script>
+	<script type="text/javascript" src="js/bootstrap/bootstrap.min.js"></script>
+
+	<!-- include plugin -->
+	<link href="js/pe.flare/jquery.pixelentity.flare.min.css" rel="stylesheet"/>
+    <script type="text/javascript" src="js/pe.flare/jquery.pixelentity.flare.min.js"></script>
+
+    <!-- favicon & iSO touch icons -->
+    <link rel="shortcut icon" href="favicon.jpg" />
+  </head>
+
+  <body onload="prettyPrint()">
+	  
+	  <script type="text/javascript">
+		  jQuery(function($){
+              $('a[data-target="flare"]').peFlareLightbox();
+          });
+	  </script>
+    
+    <!--header and menu-->
+    <header id="top">
+        <div class="container">
+          <div class="row-fluid">
+			<div class="span3">
+			  <!--logo-->
+			  <a class="brand" href="index.html" title="Home">
+				<img src="img/content/logo.png" alt="mentor" />
+			  </a>
+			</div>
+			
+			<!--tagline-->
+			<div class="span7 tagline">
+			  <h2>a responsive mobile-friendly lightbox jquery plugin.</h2>
+			</div>
+			
+			<div class="span2 headIcons">
+
+			  <a href="http://goo.gl/icfpQ" class="btn btn-danger">BUY NOW $10</a>
+			  
+            </div>
+			
+		  </div>
+
+        </div>
+	</header>
+    
+    
+    <!--main content-->
+    <section class="mainContentWrap">
+      <div class="container mainContent">
+        
+		<!--row 1-->
+		<div class="row-fluid previewRow">
+		  <div class="span12">
+			<!--row 1 demo-->
+			<div class="row-fluid">
+					  
+					  <!--main content-->
+					  <div class="span3">
+			  <h3>01. Single Images</h3>
+			  <p>Single unconnected images. Choose from fit / fill / fitmax / fillmax image scale modes. The fitmax/fillmax options are the same as the fit / fill options excpet that upscaling of the images is permitted.</p>
+			  </div>
+			  
+					  <div class="span9">
+			  
+			  <!--thumbs-->
+			  <div class="row-fluid">
+				
+				<!--thumb 1-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/si01lb.jpg"
+						data-target="flare"
+						data-flare-scale="fit"
+						>
+					  <img src="img/content/port24.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fit</h5>
+				</div>
+				
+				<!--thumb 2-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/si02lb.jpg"
+						data-target="flare"
+						data-flare-scale="fitmax"
+						>
+					  <img src="img/content/port23.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fitmax</h5>
+				</div>
+				
+				<!--thumb 3-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/si03lb.jpg"
+						data-target="flare"
+						data-flare-scale="fill"
+						>
+					  <img src="img/content/port22.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fill</h5>
+				</div>
+				
+				<!--thumb 4-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/si04lb.jpg"
+						data-target="flare"
+						data-flare-scale="fillmax"
+						>
+					  <img src="img/content/port21.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fillmax</h5>
+				</div>
+			  </div>
+			  <!--end thumbs-->
+			  
+			  </div>
+						
+			</div>
+			<!--end row 1 demo-->
+			
+			
+			<!--row 1 markup-->
+			<div class="row-fluid markup">
+			  <div class="span3">
+				<div class="alert alert-block alert-info">
+				  <h4>The Markup</h4>
+				  <br />
+				  <ul>
+					<li><strong>Super Simple Setup</strong></li>
+					<li><strong>Fit / Fill Scaling</strong></li>
+					<li><strong>Mobile Optimized</strong></li>
+				  </ul>
+				</div>
+				
+			  </div>
+			  <div class="span9">
+				<pre class="prettyprint linenums lang-html">
+&lt;!-- Single Image --&gt;
+&lt;a
+  data-target=&quot;flare&quot;
+  href=&quot;large_image.jpg&quot;
+  data-flare-scale=&quot;fit&quot;
+  &gt; 
+  &lt;img src=&quot;small_image.jpg&quot; alt=&quot;small image&quot; /&gt;
+&lt;/a&gt;</pre>
+				
+			  </div>
+			</div>
+			<!--end row 1 markup-->
+			
+			
+		  </div>
+		</div>
+		
+		<!--end row 1-->
+		
+		
+		
+		
+		
+		
+		
+		
+		<!--row 2-->
+		<div class="row-fluid previewRow">
+		  <div class="span12">
+			<!--row 2 demo-->
+			<div class="row-fluid">
+					  
+					  <!--main content-->
+					  <div class="span3">
+			  <h3>02. Videos</h3>
+			  <p>Flare allows fullscreen playback of the 4 video types shown opposite. For online videos the cover image is automatically fetched, but local video this needs to be specified. Mobile & tablet video playback is also supported. </p>
+			  </div>
+			  
+					  <div class="span9">
+			  
+			  <!--thumbs-->
+			  <div class="row-fluid">
+				
+				<!--thumb 1-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="http://www.youtube.com/watch?v=d9NF2edxy-M"
+						data-target="flare"
+						>
+					  <img src="img/content/port20.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>YouTube Video</h5>
+				</div>
+				
+				<!--thumb 2-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="http://vimeo.com/30364356"
+						data-target="flare"
+						>
+					  <img src="img/content/port19.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Vimeo Video</h5>
+				</div>
+				
+				<!--thumb 3-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="http://vid.ly/5u4h3e"
+						data-target="flare"
+						>
+					  <img src="img/content/port18.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Vid.ly Video</h5>
+				</div>
+				
+				<!--thumb 4-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="http://pixelentity.com/previews/assets/video/video.mp4"
+						data-flare-videoposter="img/content/localvideocover.jpg" 
+						data-flare-videoformats="webm,ogv"
+						data-target="flare"
+						>
+					  <img src="img/content/port17.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Local Video</h5>
+				</div>
+			  </div>
+			  <!--end thumbs-->
+			  
+			  </div>
+						
+			</div>
+			<!--end row 2 demo-->
+			
+			
+			<!--row 2 markup-->
+			<div class="row-fluid markup">
+			  <div class="span3">
+				<div class="alert alert-block alert-info">
+				  <h4>Featuring</h4>
+				  <br />
+				  <ul>
+					<li><strong>Fullscreen Video</strong></li>
+					<li><strong>Auto Cover Image</strong></li>
+					<li><strong>Mobile Optimized</strong></li>
+					<li><strong>Local Video Support</strong></li>
+				  </ul>
+				</div>
+				
+				
+			  </div>
+			  <div class="span9">
+				<pre class="prettyprint linenums lang-html">
+&lt;!-- YouTube --&gt;
+&lt;a data-target=&quot;flare&quot; href=&quot;http://www.youtube.com/watch?v=AFA-rOls8YA&quot;&gt;Youtube&lt;/a&gt;
+
+&lt;!-- Vimeo --&gt;
+&lt;a data-target=&quot;flare&quot; href=&quot;http://vimeo.com/39251390&quot;&gt;Vimeo&lt;/a&gt;
+
+&lt;!-- Vid.ly --&gt;
+&lt;a data-target=&quot;flare&quot; href=&quot;http://vid.ly/5u4h3e&quot;&gt;Vid.ly&lt;/a&gt;
+				
+&lt;!-- Local Video --&gt;
+&lt;a 
+  data-target=&quot;flare&quot; 
+  data-flare-videoposter=&quot;video/poster.jpg&quot; 
+  data-flare-videoformats=&quot;webm,ogv&quot; 
+  href=&quot;video/video.mp4&quot;
+  &gt;
+  Local Video&lt;/a&gt;</pre>
+				
+			  </div>
+			</div>
+			<!--end row 2 markup-->
+			
+			
+		  </div>
+		</div>
+		
+		<!--end row 2-->
+		
+		
+		
+		
+		
+		<!--row 3-->
+		<div class="row-fluid previewRow">
+		  <div class="span12">
+			<!--row 3 demo-->
+			<div class="row-fluid">
+					  
+					  <!--main content-->
+					  <div class="span3">
+			  <h3>03. Gallery Type A</h3>
+			  <p>Gallery Type A contains a mix of images and videos with a mix of scale modes. Image navigation features smooth hardware accellerated animated CSS3 transitions. The gallery supports touch gestures for mobile and teblet devices and thumbs are optional.</p>
+			  </div>
+			  
+					  <div class="span9">
+			  
+			  <!--thumbs-->
+			  <div class="row-fluid">
+				
+				<!--thumb 1-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/ga01lb.jpg"
+						data-flare-video="http://vimeo.com/6206789"
+						data-target="flare"
+						data-flare-gallery="gallery1"
+						data-flare-thumb="img/content/ga01t.jpg"
+						>
+					  <img src="img/content/port16.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fit & Vimeo Vid</h5>
+				</div>
+				
+				<!--thumb 2-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/ga02lb.jpg"
+						data-target="flare"
+						data-flare-scale="fillmax"
+						data-flare-gallery="gallery1"
+						data-flare-thumb="img/content/ga02t.jpg"
+						>
+					  <img src="img/content/port15.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fillmax</h5>
+				</div>
+				
+				<!--thumb 3-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/ga03lb.jpg"
+						data-target="flare"
+						data-flare-scale="fit"
+						data-flare-gallery="gallery1"
+						data-flare-thumb="img/content/ga03t.jpg"
+						>
+					  <img src="img/content/port14.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fit</h5>
+				</div>
+				
+				<!--thumb 4-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/ga04lb.jpg"
+						data-target="flare"
+						data-flare-scale="fillmax"
+						data-flare-gallery="gallery1"
+						data-flare-thumb="img/content/ga04t.jpg"
+						>
+					  <img src="img/content/port13.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fillmax</h5>
+				</div>
+			  </div>
+			  <!--end thumbs-->
+			  
+			  </div>
+						
+			</div>
+			<!--end row 3 demo-->
+			
+			
+			<!--row 3 markup-->
+			<div class="row-fluid markup">
+			  <div class="span3">
+				<div class="alert alert-block alert-info">
+				  <h4>Featuring</h4>
+				  <br />
+				  <ul>
+					<li><strong>Animated Transitions</strong></li>
+					<li><strong>Fit / Fill Scaling</strong></li>
+					<li><strong>Optional Thumbs</strong></li>
+					<li><strong>Touch Enabled</strong></li>
+					<li><strong>Keyboard Navigation</strong></li>
+					<li><strong>Mouse Wheel Nav.</strong></li>
+					<li><strong>Hardware Accelleration</strong></li>
+				  </ul>
+				</div>
+				
+			  </div>
+			  <div class="span9">
+				<pre class="prettyprint linenums lang-html">
+&lt;!-- Gallery With Thumbanils --&gt;
+
+&lt;a
+  data-target=&quot;flare&quot;
+  data-flare-gallery=&quot;gallery1&quot;
+  data-flare-thumb=&quot;thumb_01.jpg&quot;
+  href=&quot;large_image_01.jpg&quot;&gt;
+  Image 1
+&lt;/a&gt;
+
+&lt;a
+  data-target=&quot;flare&quot;
+  data-flare-gallery=&quot;gallery1&quot;
+  data-flare-thumb=&quot;thumb_02.jpg&quot;
+  href=&quot;large_image_02.jpg&quot;&gt;
+  Image 2
+&lt;/a&gt;
+
+&lt;a
+  data-target=&quot;flare&quot;
+  data-flare-gallery=&quot;gallery1&quot;
+  data-flare-thumb=&quot;thumb_03.jpg&quot;
+  href=&quot;large_image_03.jpg&quot;&gt;
+  Image 3
+&lt;/a&gt;</pre>
+				
+			  </div>
+			</div>
+			<!--end row 3 markup-->
+			
+			
+		  </div>
+		</div>
+		
+		<!--end row 3-->
+		
+		
+		
+		
+		
+		
+		
+		<!--row 4-->
+		<div class="row-fluid">
+		  <div class="span12">
+			<!--row 4 demo-->
+			<div class="row-fluid">
+					  
+			  <!--main content-->
+			  <div class="span3">
+				<h3>04. Gallery Type B</h3>
+				<p>Gallery type B features a black & white zoom transition effect. Again media can be a mix of images & videos, plus a mix of image scale modes. Thumbs are also optional and as above, full mobile and tablet touch navigation is supported.</p>
+				
+				</div>
+			  
+			  <div class="span9">
+			  
+			  <!--thumbs-->
+			  <div class="row-fluid">
+				
+				<!--thumb 1-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/gb01lb.jpg"
+						data-target="flare"
+						data-flare-scale="fillmax"
+						data-flare-gallery="gallery2"
+						data-flare-plugin="shutter"
+						data-flare-thumb="img/content/gb01t.jpg"
+						data-flare-bw="img/content/gb01bw.jpg"
+						>
+					  <img src="img/content/port12.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fillmax</h5>
+				</div>
+				
+				<!--thumb 2-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/gb02lb.jpg"
+						data-target="flare"
+						data-flare-scale="fillmax"
+						data-flare-gallery="gallery2"
+						data-flare-plugin="shutter"
+						
+						data-flare-thumb="img/content/gb02t.jpg"
+						data-flare-bw="img/content/gb02bw.jpg"
+						>
+					  <img src="img/content/port11.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fillmax</h5>
+				</div>
+				
+				<!--thumb 3-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/gb03lb.jpg"
+						data-target="flare"
+						data-flare-scale="fillmax"
+						data-flare-gallery="gallery2"
+						data-flare-plugin="shutter"
+						data-flare-video="http://vimeo.com/13969174"
+						data-flare-thumb="img/content/gb03t.jpg"
+						data-flare-bw="img/content/gb03bw.jpg"
+						>
+					  <img src="img/content/port10.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fillmax &amp; Vimeo Vid</h5>
+				</div>
+				
+				<!--thumb 4-->
+				<div class="span3">
+				  <div class="portfolioItem">
+					<a
+						href="img/content/gb04lb.jpg"
+						data-target="flare"
+						data-flare-scale="fillmax"
+						data-flare-gallery="gallery2"
+						data-flare-plugin="shutter"
+						data-flare-thumb="img/content/gb04t.jpg"
+						data-flare-bw="img/content/gb04bw.jpg"
+						>
+					  <img src="img/content/port09.jpg" alt="project" />
+					</a>
+				  </div>
+				  <h5>Image Fillmax</h5>
+				</div>
+			  </div>
+			  <!--end thumbs-->
+			  
+			  </div>
+						
+			</div>
+			<!--end row 4 demo-->
+			
+			
+			<!--row 4 markup-->
+			<div class="row-fluid markup">
+			  <div class="span3">
+				<div class="alert alert-block alert-info">
+				  <h4>Featuring</h4>
+				  <br />
+				  <ul>
+					<li><strong>Zoom Transitions</strong></li>
+					<li><strong>Fit/Fill Scaling</strong></li>
+					<li><strong>Optional Thumbs</strong></li>
+					<li><strong>Touch Enabled</strong></li>
+					<li><strong>Keyboard Navigation</strong></li>
+					<li><strong>Mouse Wheel Nav.</strong></li>
+					<li><strong>Hardware Accelleration</strong></li>
+				  </ul>
+				</div>
+			  </div>
+			  <div class="span9">
+				<pre class="prettyprint linenums lang-html">
+&lt;!-- Gallery With Shutter Transition Effect --&gt;
+&lt;a
+  data-target=&quot;flare&quot;
+  data-flare-plugin=&quot;shutter&quot;
+  data-flare-gallery=&quot;newGalleryName&quot;
+  data-flare-scale=&quot;fillmax&quot;
+  data-flare-thumb=&quot;img/content/small/01.jpg&quot;
+  data-flare-bw=&quot;img/content/big/01bw.jpg&quot;
+  href=&quot;img/content/big/01.jpg&quot;&gt;
+  Fullscreen Shutter Gallery With Thumbs - Image 1
+&lt;/a&gt;
+	
+&lt;a
+  data-target=&quot;flare&quot;
+  data-flare-plugin=&quot;shutter&quot;
+  data-flare-gallery=&quot;newGalleryName&quot;
+  data-flare-scale=&quot;fillmax&quot;
+  data-flare-thumb=&quot;img/content/small/02.jpg&quot;
+  data-flare-bw=&quot;img/content/big/02bw.jpg&quot;
+  href=&quot;img/content/big/02.jpg&quot;&gt;
+  Fullscreen Shutter Gallery With Thumbs - Image 2
+&lt;/a&gt;</pre>
+				
+			  </div>
+			</div>
+			<!--end row 4 markup-->
+			
+			
+		  </div>
+		</div>
+		
+		<!--end row 4-->
+
+      </div>
+    </section>
+    
+    <!--footer-->
+    <footer>
+      <!--footer lower-->
+      <section class="footerLower">
+        <div class="container">
+          <div class="row-fluid">
+            
+			<div class="span3 copyright">
+			  <p>&copy; 2012+ Pixelentity</p>
+			</div> <!--end copyright-->
+            
+            <div class="span3 footIcons">
+              <a href="http://pixelentity.com/signup-for-pixelentity-email-updates/" data-rel="tooltip" title="Email Updates" class="icon-envelope icon-white"></a> 
+              <a href="http://codecanyon.net/user/pixelentity/portfolio?ref=pixelentity" data-rel="tooltip" title="See Our Portfolio"  class="icon-th-list  icon-white"></a>
+              <a href="http://pixelentity.com" data-rel="tooltip" title="Visit Pixelentity.com"  class="icon-home  icon-white"></a>
+              <a href="http://codecanyon.net/user/pixelentity?ref=pixelentity" data-rel="tooltip" title="Ask a Pre-sales Question"  class="icon-question-sign  icon-white"></a>
+            </div> <!--end foot icons-->
+			
+			<div class="span6">
+			  
+			  
+			</div>
+			
+          </div>
+        </div>
+      </section> <!--end foot lower-->
+    </footer>
+  </body>
+</html>

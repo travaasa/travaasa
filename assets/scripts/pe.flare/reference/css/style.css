@@ -1,0 +1,309 @@
+
+/*–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+    Main Style Sheet
+    Theme Name: Flare
+    Description: A Responsive Mobile-Friendly Lightbox Jquery Plugin 
+    Author: Pixelentity
+    Email: helpdesk@pixelentity.com
+    Website: http://pixelentity.com/
+    Stock: http://themeforest.net/user/pixelentity
+    Version: 1.0
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+
+    body
+    { 
+        background: #fcfcfc;
+        font-family:helvetica, arial, verdana, sans-serif;
+        color:#888;
+        font-size:12px;
+    }
+    
+	
+	h2{
+		font-family: Helvetica,Arial,sans-serif;
+		font-family:Georgia, Constantia, Lucida, serif;
+	}
+	
+    
+    h3
+    {
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        color:#2f2f2f;
+        font-size:18px;
+        margin-bottom:20px;
+        line-height:24px;
+    }
+    
+    
+    p
+    {
+       font-family:helvetica, arial, verdana, sans-serif;
+       margin-bottom:20px;
+       color:#919191;
+       font-size:12px;
+    }
+    
+    footer p{
+        color:#777;
+    }
+    
+    a
+    {
+        text-decoration:none;  
+    }
+    
+    a:hover
+    {
+        text-decoration:none;
+    }
+    
+    .relative{
+        position:relative;
+    }
+    
+    /*outlines*/
+    *:focus {
+        outline: none;
+    }
+    
+    a:focus,
+    a:active,
+    input:focus,
+    input:active,
+    input[type=submit]:active,
+    input[type=radio]:active{
+        outline: 0px;
+        -moz-outline-style: none;
+    }
+    
+    img{
+        max-width:100%;
+    }
+    
+    .divider {
+        clear: both;
+        position: relative;
+        text-align: right;
+        margin-top: 30px;
+        
+    }
+    
+    .divider span {
+        height: 1px;
+        display: block;
+        border-top: 1px solid #eee;
+        margin-bottom: 20px;
+    }
+    
+    .divider.dotted span{
+        border-top: 1px dotted #eee;
+    }
+    
+    .close{
+        background:transparent;
+        border:none;
+        box-shadow:none;
+    }
+    
+    .alert h4{
+        margin-bottom:0px;
+    }
+    
+    .alert p{
+        color:#666;
+    }
+    
+    pre.prettyprint {
+        margin-bottom: 20px;
+    }
+    
+    .row-spacing{
+        margin-top:20px;
+    }
+    
+	header{
+		background-color:#333;
+	}
+	
+    .tagline{
+        padding-top:65px;
+    }
+    
+    .tagline h2{
+        margin-bottom:30px;
+		font-size:18px;
+		color:#aaa;
+		font-style:italic;
+		font-weight:normal;
+		line-height:25px;
+    }
+    
+    .tagline .action{
+        position:relative;
+        margin-top:20px;
+        overflow:hidden;
+    }
+    
+    .btn:hover {
+        background-position: 0 -36px !important;
+    }
+  
+    /*main content*/
+     
+    .mainContent{
+        padding-top:60px;
+        border-top:2px solid #ffffff;
+    }
+    
+    .previewRow{
+		margin-bottom:40px;
+		padding-bottom:30px;
+		border-bottom:1px dotted #ddd;
+	}
+    
+    .markup{
+		margin-top:30px;
+	}
+    
+    .portfolioItem{
+        background-color:#fff;
+        border:1px solid #cfcfcf;
+        box-shadow: 0px 1px 2px #cfcfcf;
+        -mox-box-shadow: 0px 2px 1px #ccc;
+        position:relative;
+        margin-bottom:30px;
+    }
+    
+    .portfolioItem > a {
+        position:relative;
+        display:block;
+    }
+    
+    .portfolioItem img{
+        display:block;
+    }
+    
+    /*footer*/
+	
+    footer{
+        margin-top:60px;
+        border-top:none;
+        background:#333;
+    }
+    
+    footer .footerMain{
+        padding-top:55px;
+        border-top:2px solid #9aae4c;
+    }
+    
+    footer .footerLower{
+        padding-top:30px;
+        padding-bottom:30px;
+        border-top:1px solid #efefef;
+    }
+    
+    .footerLower .copyright{
+        margin-top:4px;
+    }
+    
+    .copyright p{
+        color:#bbb;
+    }
+    
+    footer .footerLower p{
+        margin-bottom:0;
+    }
+	
+	.footIcons{
+		margin-top:3px;
+	}
+	
+	.headIcons{
+		margin-top:65px;
+	}
+	
+	.headIcons a{
+		font-weight:bold;
+		font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+		float:right;
+		/*display:none;*/
+	}
+	
+	.footIcons a{
+		margin-right:10px;
+		opacity:0.6;
+	}
+	
+	.footIcons a:hover{
+		opacity:1;
+	}
+    
+    
+    /*iphone landscape*/
+    /*----------------------------------------------------------------------*/
+    @media (max-width: 767px) {
+        
+        /*cancel body padding on mobile*/
+        body {
+            padding-left: 0;
+            padding-right: 0;
+        }
+        
+		/*add to containers instead*/
+        
+        .container{
+            width: 420px;
+            margin-left:auto;
+            margin-right:auto;
+        }
+        
+        /*tagline*/
+        
+        .tagline h2{
+            text-align:center;
+			text-align:left;
+        }
+		
+		.headIcons{
+			float:left !important;
+		}
+		
+		.btn{
+			margin-bottom:30px;
+			float:left;
+		}
+		
+		.mainContent h5{
+			margin-bottom:40px;
+		}
+        
+		.portfolioItem{
+			margin-bottom:15px;
+		}
+        
+        /*back to top btn*/
+        .btt{
+            bottom:35px;
+        }
+        
+		.tagline{
+			padding-top:0px;
+		}
+        
+    }
+    
+    
+    /*iPhone portrait width*/
+    /*----------------------------------------------------------------------*/
+    @media (max-width: 480px) {
+        
+        .container,
+          .navbar-fixed-top .container,
+          .navbar-fixed-bottom .container {
+            width: 280px;
+            margin-left:auto;
+            margin-right:auto;
+        }
+
+    }
+    

@@ -1,0 +1,14 @@
+/* HOMEPAGE TEMPLATE */
+#location-selector * { font-size:13px; line-height:20px; font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; margin-bottom:0; padding-bottom:0;  }
+#location-selector h1 { display:inline-block; padding-right:18px; border-right:1px solid #EDEDED; color:#666666; }
+#location-selector ul { display:inline-block; margin:0; padding:0; }
+#location-selector li { display:inline-block; padding-left:18px; }
+#location-selector li a { display:block; }
+.col_reservation { text-align:right; }
+
+@media only screen and (max-width: 479px) {
+#location-selector h1 { display:block; border-right:none; }
+#location-selector ul { display:block; padding:0; margin:4px 0 20px; }
+#location-selector li { display:block; padding:0; margin:4px 0; }
+.col_reservation { text-align:left; }
+}

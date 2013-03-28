@@ -1,0 +1,202 @@
+
+/*–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+    Examples Style Sheet
+    Theme Name: Flare
+    Description: A Responsive Mobile-Friendly Lightbox Jquery Plugin 
+    Author: Pixelentity
+    Email: helpdesk@pixelentity.com
+    Website: http://pixelentity.com/
+    Stock: http://themeforest.net/user/pixelentity
+    Version: 1.0
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+    
+    /*skin primary color: #9aae4c;*/
+    /*skin secondary color: #D2D9B5;*/
+
+    /* Generic Styles */
+
+    body
+    { 
+        background: #fcfcfc;
+        font-family:helvetica, arial, verdana, sans-serif;
+        color:#888;
+        font-size:12px;
+    }
+    
+	h1{
+		color:black;
+	}
+	
+	h2{
+		font-family:Georgia, Constantia, Lucida, serif;
+	}
+	
+    
+    h3
+    {
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        color:#2f2f2f;
+        font-size:18px;
+        margin-bottom:20px;
+        line-height:24px;
+    }
+    
+    
+    p
+    {
+       font-family:helvetica, arial, verdana, sans-serif;
+       margin-bottom:20px;
+       color:#919191;
+       font-size:12px;
+    }
+    
+    .footer p{
+        color:#777;
+    }
+    
+    a
+    {
+        text-decoration:none; 
+    }
+    
+    a:hover
+    {
+        text-decoration:none;
+    }
+    
+    img{
+        max-width:100%;
+    }
+    
+    .divider {
+        clear: both;
+        position: relative;
+        text-align: right;
+        margin-top: 30px;
+        
+    }
+    
+    .divider span {
+        height: 1px;
+        display: block;
+        border-top: 1px solid #eee;
+        margin-bottom: 20px;
+    }
+    
+    .divider.dotted span{
+        border-top: 1px dotted #eee;
+    }
+	
+    .row-spacing{
+        margin-top:20px;
+    }
+    
+    /*main content*/
+     
+    .mainContent{
+        padding-top:60px;
+        border-top:2px solid #ffffff;
+    }
+    
+    
+	/*thumbs row*/
+    
+    .previewRow{
+		margin-bottom:40px;
+		padding-bottom:30px;
+		border-bottom:1px dotted #ddd;
+	}
+    
+    .markup{
+		margin-top:30px;
+	}
+    
+    
+    .portfolioItem{
+        position:relative;
+        margin-bottom:30px;
+    }
+    
+    .portfolioItem > a {
+        position:relative;
+        display:block;
+    }
+    
+    .portfolioItem img{
+        display:block;
+    }
+    
+    /*footer*/
+    .footer{
+        margin-top:60px;
+        border-top:none;
+        background:transparent;
+    }
+    
+    
+    /*footer main section*/
+    
+    .footer .footerMain{
+        padding-top:55px;
+        border-top:2px solid #9aae4c;
+    }
+
+    /*footer lower section*/
+    
+    .footer .footerLower{
+        padding-top:30px;
+        padding-bottom:30px;
+        border-top:1px solid #efefef;
+    }
+    
+    .footerLower .copyright{
+        margin-top:4px;
+    }
+    
+    .copyright p{
+        color:#bbb;
+    }
+    
+    .footer .footerLower p{
+        margin-bottom:0;
+    }
+	
+    
+    /*iphone landscape*/
+    /*----------------------------------------------------------------------*/
+    @media (max-width: 767px) {
+        
+        /*cancel body padding on mobile*/
+        body {
+            padding-left: 0;
+            padding-right: 0;
+        }
+        
+        /*add to containers instead*/
+        
+        .container,
+          .navbar-fixed-top .container,
+          .navbar-fixed-bottom .container {
+            width: 420px;
+            margin-left:auto;
+            margin-right:auto;
+        }
+        
+    }
+    
+    
+    /*iPhone portrait width*/
+    /*----------------------------------------------------------------------*/
+    @media (max-width: 480px) {
+        
+        .container,
+          .navbar-fixed-top .container,
+          .navbar-fixed-bottom .container {
+            width: 280px;
+            margin-left:auto;
+            margin-right:auto;
+        }
+        
+    }
+    
+    

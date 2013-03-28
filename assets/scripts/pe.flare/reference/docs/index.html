@@ -1,0 +1,384 @@
+<!DOCTYPE HTML>
+
+    <head>      
+		<meta charset="utf-8">
+		<title>Flare - A Responsive Mobile-Friendly Lightbox Jquery Plugin Documentation - pixelentity</title>
+		<link rel="stylesheet" href="css/reset.css" />
+		<link rel="stylesheet" href="css/syntax.css" />
+		<link rel="stylesheet" href="css/docs_style.css" />
+	</head>
+	
+    <body>
+	
+		<!--header section-->
+		<div class="header">
+			
+			<!--logo-->
+			<a href="http://pixelentity.com" class="logo"><img src="img/logo.png" alt="logo" /></a>
+			
+			<!--introduction text-->
+			<div class="intro">				
+				<p>Hi there and thank you for buying a premium digital product from Pixelentity. In order to get the most out of your purchase, please make sure to carefully read all of the information contained in this page. Use the table of contents at the top of this page to jump to a relevant section.</p>
+			</div>
+			<!--end introduction text-->
+			
+			<span class="title">Flare - A Responsive Mobile-Friendly Lightbox Jquery Plugin</span>
+			
+		</div>
+		
+		<!--end header section-->
+		<div class="toc" id="toc">
+			<h1>TABLE OF CONTENTS</h1>
+			<!-- toc -->
+<a class="section" href="#sec1_0"><span>1</span> Getting Started</a><a class="subsection" href="#sec1_1"><span>1.1</span>Download Package Contents</a><a class="subsection" href="#sec1_2"><span>1.2</span>Setting Up The Plugin</a><a class="subsection" href="#sec1_3"><span>1.3</span>Activate the plugin</a><a class="section" href="#sec2_0"><span>2</span> The Responsive Lightbox Usage Examples</a><a class="subsection" href="#sec2_1"><span>2.1</span>Single image</a><a class="subsection" href="#sec2_2"><span>2.2</span>Single Online Video</a><a class="subsection" href="#sec2_3"><span>2.3</span>Single Local Video</a><a class="subsection" href="#sec2_4"><span>2.4</span>Gallery</a><a class="subsection" href="#sec2_5"><span>2.5</span>Gallery with thumbnails</a><a class="subsection" href="#sec2_6"><span>2.6</span>Gallery with videos</a><a class="subsection" href="#sec2_7"><span>2.7</span>Alternate Gallery - Shutter Effect</a><a class="subsection" href="#sec2_8"><span>2.8</span>Gallery From Hidden Items</a><a class="section" href="#sec3_0"><span>3</span> CSS Stylesheets - Organisation</a><a class="subsection" href="#sec3_1"><span>3.1</span>Stylesheets</a><a class="subsection" href="#sec3_2"><span>3.2</span>Basic Styling 1 - Controls</a><a class="subsection" href="#sec3_3"><span>3.3</span>Basic Styling 2 - Frames</a><a class="subsection" href="#sec3_4"><span>3.4</span>Basic Styling 3 - Where To Make CSS Edits</a><a class="section" href="#sec4_0"><span>4</span> iOS &amp; iDevices</a><a class="subsection" href="#sec4_1"><span>4.1</span>iDevice CSS</a><a class="subsection" href="#sec4_2"><span>4.2</span>Rollover Effects on iDevices</a><a class="subsection" href="#sec4_3"><span>4.3</span>Flare and Android</a>		</div>
+		
+		<!-- docs -->		
+<div class="bbcode-body">
+<br/>
+<h1><a name="sec1_0">1</a> Getting Started<a class="top" href="#toc">top</a></h1>
+<h2><a name="sec1_1">1.1</a> Download Package Contents</h2>
+<br/>
+Once you have downloaded and unzipped the Flare package you will be faced with a list of files and folders. An explanation of these is as follows. Any item not mentioned here should be ignored for the moment.<br/>
+<br>
+<b>Folders</b>
+<br/>
+<table><tr><td class="option">docs</td><td class="value">This is the help documentation. To view simply open <i>index.html</i> found inside this folder<td></tr><tr><td class="option">img</td><td class="value">The images used in the examples contained in the download package can be found here.<td></tr><tr><td class="option">js</td><td class="value">This folder holds all javascript sources for the plugin. The plugin folder is inside this folder and is called <b>pe.flare</b><td></tr><tr><td class="option">psd</td><td class="value">The folder containes psd files required to change an image based element of the plugin&#39;s ui<td></tr></table><b>Files</b>
+<br/>
+<table><tr><td class="option">examples.html</td><td class="value">This file contains the same usage examples of the lightbox as shown in the online demo on CodeCanyon.net. Open this file in a code editor and study the required markup, plugin import statements and activation. This file contains all the info you will need to set the lightbox plugin up on your own page.<td></tr><tr><td class="option">favicon.jpg</td><td class="value">This is the little 16x16px boookmark icon. Replace with your own<td></tr></table>
+<h2><a name="sec1_2">1.2</a> Setting Up The Plugin</h2>
+<br/>
+Copy or upload the <b>js/pe.flare</b> folder somewhere onto your server, for example into the top level <i>js</i> folder. To save space, you can remove the <i>src</i> sub folder which is only needed if you wish to modify the javascript source code.<br/>
+<br>
+Include the following javascript and css code into <i>HEAD</i> section of the page<div class="highlight"><pre><span class="c">&lt;!-- jQuery (only needed if your page doesn&#39;t already load it ) --&gt;</span>
+<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">&quot;text/javascript&quot;</span> <span class="na">src=</span><span class="s">&quot;js/jquery.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span>
+<br>
+<span class="c">&lt;!-- flare lightbox css --&gt;</span>
+<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;js/pe.flare/jquery.pixelentity.flare.min.css&quot;</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span><span class="nt">/&gt;</span>
+<span class="c">&lt;!-- flare lightbox javascript --&gt;</span>
+<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">&quot;text/javascript&quot;</span> <span class="na">src=</span><span class="s">&quot;js/pe.flare/jquery.pixelentity.flare.min.js&quot;</span><span class="nt">&gt;&lt;/script&gt;</span>
+</pre></div>
+Next see the following section for how to activate the plugin and attach it to your page elements.<br/>
+<br>
+<br/>
+<div class="note">Make sure when uploading the files to your server that the inner folder structure of the above folder is maintained, otherwise the plugin will not function as expected.</div>
+<br/>
+<br>
+<br/>
+<h2><a name="sec1_3">1.3</a> Activate the plugin</h2>
+Flare can be activated by placing the following code anywhere in your page <b>BODY</b> section:<div class="highlight"><pre><span class="nt">&lt;script </span><span class="na">type=</span><span class="s">&quot;text/javascript&quot;</span><span class="nt">&gt;</span>
+        <span class="nx">jQuery</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">$</span><span class="p">){</span>
+                <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;a[data-target=&quot;flare&quot;]&#39;</span><span class="p">).</span><span class="nx">peFlareLightbox</span><span class="p">();</span>
+        <span class="p">});</span>
+<span class="nt">&lt;/script&gt;</span>
+</pre></div>
+The above code searches for all <b>&lt;a&gt;</b> tags which have a <b>data-target</b> attribute set to &quot;<b>flare</b>&quot; and once found, it activates the lightbox plugin for those links.<br/>
+<h1><a name="sec2_0">2</a> The Responsive Lightbox Usage Examples<a class="top" href="#toc">top</a></h1>Flare is a custom responsive, touch enabled, mobile optimized lightbox which can be used to display single images/videos or entire galleries. Items can be browsed using buttons, swipe gestures on mobile and mousewheel/keyboard on desktops. It uses hardware accelerated css transforms and fallbacks to standard jquery animation with in older browsers. It supports youtube, vimeo, vid.ly and local videos playback. In this section you will find examples of how to take full advantage of all of its features.<div class="note">For simplicity and readability sake, text links are used in the following examples as the &quot;triggering&quot; element. Meaning the lightbox would be launched once the hyperlink is clicked. These can be changed to images/thumbnails easily by including an <i>&lt;img&gt;</i> tag inside the parent <i>&lt;a&gt; tag with the data-target=&quot;flare&quot; attribute. For examples of using thumbnails instead of text links, see the <b>examples.html</b> file included in the download package.</i></div>
+<h2><a name="sec2_1">2.1</a> Single image</h2><div class="highlight"><pre><span class="nt">&lt;a</span>
+     <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span>
+     <span class="na">href=</span><span class="s">&quot;image.jpg&quot;</span>
+     <span class="na">data-flare-scale=</span><span class="s">&quot;fit&quot;</span>
+     <span class="nt">&gt;</span>
+<br>
+    Single Image<span class="nt">&lt;/a&gt;</span>
+</pre></div>
+<table><tr><td class="option">data-target</td><td class="value">When sets to &quot;flare&quot;, activates the lightbox when user clicks on the item<td></tr><tr><td class="option">data-flare-scale</td><td class="value">Controls the image scaling, possible values are<br/>
+<br>
+&quot;fit&quot; - Fits the window: no cropping, always show entire image (default mode)<br/>
+&quot;fill&quot; - Fills the window: horizontal/vertical cropping may occur when image and window aspect ratios are different (almost always)<br/>
+&quot;fitmax&quot; - Same as &quot;fit&quot; but upscales the image if smaller than window<br/>
+&quot;fillmax&quot; - Same as &quot;fill&quot; but upscales the image if smaller than window<td></tr></table>
+<h2><a name="sec2_2">2.2</a> Single Online Video</h2><div class="highlight"><pre><span class="c">&lt;!-- YouTube --&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> <span class="na">href=</span><span class="s">&quot;http://www.youtube.com/watch?v=AFA-rOls8YA&quot;</span><span class="nt">&gt;</span>Youtube<span class="nt">&lt;/a&gt;</span>
+<span class="c">&lt;!-- Vimeo --&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> <span class="na">href=</span><span class="s">&quot;http://vimeo.com/39251390&quot;</span><span class="nt">&gt;</span>Vimeo<span class="nt">&lt;/a&gt;</span>
+<span class="c">&lt;!-- Vid.ly --&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> <span class="na">href=</span><span class="s">&quot;http://vid.ly/5u4h3e&quot;</span><span class="nt">&gt;</span>Vid.ly<span class="nt">&lt;/a&gt;</span>
+</pre></div>
+As you can see from the above markup, you only need to link the video location: the cover image will be fetched automatically from the appropriate source.<div class="note">The Video will be shown fullscreen</div>
+<h2><a name="sec2_3">2.3</a> Single Local Video</h2><div class="highlight"><pre><span class="c">&lt;!-- Local Video --&gt;</span>
+<span class="nt">&lt;a</span> 
+     <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> 
+     <span class="na">data-flare-videoposter=</span><span class="s">&quot;video/poster.jpg&quot;</span> 
+     <span class="na">data-flare-videoformats=</span><span class="s">&quot;webm,ogv&quot;</span> 
+     <span class="na">href=</span><span class="s">&quot;video/video.mp4&quot;</span>
+     <span class="nt">&gt;</span>
+    Local Video<span class="nt">&lt;/a&gt;</span>
+</pre></div>
+Unlike the previous case, local video playbacks requires a few extra settings.<br/>
+<br>
+<table><tr><td class="option">href</td><td class="value">
+is the url of a mp4 video hosted on your site (local video example)<td></tr><tr><td class="option">data-flare-videoposter</td><td class="value">is the video cover image<td></tr><tr><td class="option">data-flare-videoformats</td><td class="value">
+define the additional formats you need to encode your video in order to use html5 video playback in all browsers. This basically means you should have on your server:<br/>
+<br>
+video.mp4<br/>
+video.webm<br/>
+video.ogv<td></tr></table><div class="note">The Video will be shown fullscreen</div>
+<h2><a name="sec2_4">2.4</a> Gallery</h2>
+<br/>
+Multiple images can be grouped in a gallery: when one of them is being displayed, it will be possible to navigate all of them without closing the lightbox. Navigation can happens in multiple ways: prev/next buttons, swipe gestures, mousewheel and keyboard. To group images in galleries, just add the <i>data-flare-gallery</i> attribute to the markup:<div class="highlight"><pre><span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> <span class="na">data-flare-gallery=</span><span class="s">&quot;gallery1&quot;</span> <span class="na">href=</span><span class="s">&quot;01.jpg&quot;</span><span class="nt">&gt;</span>Image 1<span class="nt">&lt;/a&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> <span class="na">data-flare-gallery=</span><span class="s">&quot;gallery1&quot;</span> <span class="na">href=</span><span class="s">&quot;02.jpg&quot;</span><span class="nt">&gt;</span>Image 2<span class="nt">&lt;/a&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> <span class="na">data-flare-gallery=</span><span class="s">&quot;gallery1&quot;</span> <span class="na">href=</span><span class="s">&quot;03.jpg&quot;</span><span class="nt">&gt;</span>Image 3<span class="nt">&lt;/a&gt;</span>
+</pre></div>
+All the above images will be grouped in &quot;gallery1&quot;, you can have different galleries in the same page 
+<br/>
+Image navigation methods supported:<br/>
+<br>
+<ol style="list-style-type: decimal">
+	<li>Next / Previous UI Arrows<br/>
+	</li>
+	<li>Keyboard Left / Right Arrows<br/>
+	</li>
+	<li>Mouse Wheel Scroll<br/>
+	</li>
+	<li>Swipe Gestures (On Mobile &amp; Tablet Devices)</li>
+</ol>
+<br/>
+<h2><a name="sec2_5">2.5</a> Gallery with thumbnails</h2>
+<br/>
+Gallery mode can also display thumbnails of all images in the bottom lightbox area, to activate the thumbnails, use the <i>data-flare-thumb</i> attribute<div class="highlight"><pre><span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> <span class="na">data-flare-gallery=</span><span class="s">&quot;gallery1&quot;</span> <span class="na">data-flare-thumb=</span><span class="s">&quot;thumb01.jpg&quot;</span> <span class="na">href=</span><span class="s">&quot;01.jpg&quot;</span><span class="nt">&gt;</span>Image 1<span class="nt">&lt;/a&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> <span class="na">data-flare-gallery=</span><span class="s">&quot;gallery1&quot;</span> <span class="na">data-flare-thumb=</span><span class="s">&quot;thumb02.jpg&quot;</span> <span class="na">href=</span><span class="s">&quot;02.jpg&quot;</span><span class="nt">&gt;</span>Image 2<span class="nt">&lt;/a&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> <span class="na">data-flare-gallery=</span><span class="s">&quot;gallery1&quot;</span> <span class="na">data-flare-thumb=</span><span class="s">&quot;thumb03.jpg&quot;</span> <span class="na">href=</span><span class="s">&quot;03.jpg&quot;</span><span class="nt">&gt;</span>Image 3<span class="nt">&lt;/a&gt;</span>
+</pre></div>
+Image navigation methods supported:<br/>
+<br>
+<ol style="list-style-type: decimal">
+	<li>Next / Previous UI Arrows<br/>
+	</li>
+	<li>Selelect a Thumbnail<br/>
+	</li>
+	<li>Keyboard Left / Right Arrows<br/>
+	</li>
+	<li>Mouse Wheel Scroll<br/>
+	</li>
+	<li>Swipe Gestures (On Mobile &amp; Tablet Devices)</li>
+</ol>
+If thumbs are showing, swipe gestures will control the thumbnail scrolling. Close the thumbnails to use swipe gestures on the main images.<br/>
+<br>
+<br/>
+<br>
+<h2><a name="sec2_6">2.6</a> Gallery with videos</h2>
+<br/>
+Each image shown in a gallery can be related to a video: unlike the single video example we saw before, the video does not autoplay in this case. Instead, a large video play icon is shown above the image and playback only starts when user clicks on it.<div class="highlight"><pre><span class="nt">&lt;a</span> 
+     <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> 
+     <span class="na">data-flare-gallery=</span><span class="s">&quot;gallery1&quot;</span> 
+     <span class="na">data-flare-thumb=</span><span class="s">&quot;thumb01.jpg&quot;</span> 
+     <span class="na">href=</span><span class="s">&quot;01.jpg&quot;</span>
+     <span class="na">data-flare-video=</span><span class="s">&quot;http://www.youtube.com/watch?v=AFA-rOls8YA&quot;</span>
+     <span class="nt">&gt;</span>
+    Image 1 with Youtube video<br/>
+<span class="nt">&lt;/a&gt;</span>
+<span class="nt">&lt;a</span> 
+     <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> 
+     <span class="na">data-flare-gallery=</span><span class="s">&quot;gallery1&quot;</span> 
+     <span class="na">data-flare-thumb=</span><span class="s">&quot;thumb02.jpg&quot;</span> 
+     <span class="na">href=</span><span class="s">&quot;02.jpg&quot;</span>
+     <span class="na">data-flare-video=</span><span class="s">&quot;http://vimeo.com/39251390&quot;</span>
+     <span class="nt">&gt;</span>
+    Image 2 with Vimeo video<br/>
+<span class="nt">&lt;/a&gt;</span>
+<span class="nt">&lt;a</span> 
+     <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> 
+     <span class="na">data-flare-gallery=</span><span class="s">&quot;gallery1&quot;</span> 
+     <span class="na">data-flare-thumb=</span><span class="s">&quot;thumb03.jpg&quot;</span> 
+     <span class="na">href=</span><span class="s">&quot;03.jpg&quot;</span>
+     <span class="na">data-flare-video=</span><span class="s">&quot;http://vid.ly/5u4h3e&quot;</span>
+     <span class="nt">&gt;</span>
+    Image 3 with Vid.ly video<br/>
+<span class="nt">&lt;/a&gt;</span>
+<span class="nt">&lt;a</span> 
+     <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> 
+     <span class="na">data-flare-gallery=</span><span class="s">&quot;gallery1&quot;</span> 
+     <span class="na">data-flare-thumb=</span><span class="s">&quot;thumb04.jpg&quot;</span> 
+     <span class="na">href=</span><span class="s">&quot;04.jpg&quot;</span>
+     <span class="na">data-flare-video=</span><span class="s">&quot;video.mp4&quot;</span>
+     <span class="na">data-flare-videoposter=</span><span class="s">&quot;poster.jpg&quot;</span>
+     <span class="na">data-flare-videoformats=</span><span class="s">&quot;webm,ogv&quot;</span>
+     <span class="nt">&gt;</span>
+    Image 4 with Local video<br/>
+<span class="nt">&lt;/a&gt;</span>
+</pre></div>
+Since the <i>href</i> attribute is already used to reference the image, to link a video in this case we use <i>data-flare-video</i> attribute<br/>
+<br>
+<br/>
+<br>
+<br/>
+<h2><a name="sec2_7">2.7</a> Alternate Gallery - Shutter Effect</h2>
+<br/>
+Flare also includes an alternate gallery mode using a black and white/zooming image transition: this mode is called shutter and can be activated using the <i>data-flare-plugin</i> attribute<div class="highlight"><pre><span class="nt">&lt;a</span>
+     <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span>
+     <span class="na">data-flare-plugin=</span><span class="s">&quot;shutter&quot;</span>
+     <span class="na">data-flare-gallery=</span><span class="s">&quot;newGalleryName&quot;</span>
+     <span class="na">data-flare-scale=</span><span class="s">&quot;fillmax&quot;</span>
+     <span class="na">data-flare-thumb=</span><span class="s">&quot;img/content/small/01.jpg&quot;</span>
+     <span class="na">data-flare-bw=</span><span class="s">&quot;img/content/big/01bw.jpg&quot;</span>
+     <span class="na">href=</span><span class="s">&quot;img/content/big/01.jpg&quot;</span>
+     <span class="nt">&gt;</span>
+<br>
+    Fullscreen Shutter Gallery With Thumbs - Image 1<br/>
+<span class="nt">&lt;/a&gt;</span>
+<span class="nt">&lt;a</span>
+     <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span>
+     <span class="na">data-flare-plugin=</span><span class="s">&quot;shutter&quot;</span>
+     <span class="na">data-flare-gallery=</span><span class="s">&quot;newGalleryName&quot;</span>
+     <span class="na">data-flare-scale=</span><span class="s">&quot;fillmax&quot;</span>
+     <span class="na">data-flare-thumb=</span><span class="s">&quot;img/content/small/02.jpg&quot;</span>
+     <span class="na">data-flare-bw=</span><span class="s">&quot;img/content/big/02bw.jpg&quot;</span>
+     <span class="na">href=</span><span class="s">&quot;img/content/big/02.jpg&quot;</span>
+     <span class="nt">&gt;</span>
+<br>
+    Fullscreen Shutter Gallery With Thumbs - Image 2<br/>
+<span class="nt">&lt;/a&gt;</span>
+</pre></div>
+Since shutter mode requires a black and white version of the image to do the transition, we need the extra parameter <i>data-flare-bw</i> to define it. The bw image is not mandatory and can be omitted, obviously in this case, the transition would skip the black and white effect part.<div class="note">Black &amp; White version of the main image  and also the thumbnail image need to be prepared manually. this plugin does not automate this process.</div>
+<h2><a name="sec2_8">2.8</a> Gallery From Hidden Items</h2>
+<br/>
+You can include items in a gallery which are not displayed on the page. To do this simply make sure the initial item in the gallery is shown on the page as normal, then create a div in the page somewhere, add a class of <b>.hiddenLightboxContent</b> to this div element. This class will hide the content placed inside this div but provided you use the same <i>data-flare-gallery=&quot;galleryname&quot;</i> as the displayed item, they will be added to that gallery.<div class="highlight"><pre><span class="c">&lt;!--displayed item--&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span> 
+   <span class="na">data-flare-gallery=</span><span class="s">&quot;HiddenGallery&quot;</span> 
+   <span class="na">href=</span><span class="s">&quot;01.jpg&quot;</span><span class="nt">&gt;</span>
+Image 1<span class="nt">&lt;/a&gt;</span>
+<br/>
+<br>
+<span class="c">&lt;!--hidden items--&gt;</span>
+<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;hiddenLightboxContent&quot;</span><span class="nt">&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span>
+   <span class="na">data-flare-gallery=</span><span class="s">&quot;HiddenGallery&quot;</span> 
+   <span class="na">href=</span><span class="s">&quot;02.jpg&quot;</span><span class="nt">&gt;</span>
+Image 2<span class="nt">&lt;/a&gt;</span>
+<br/>
+<span class="nt">&lt;a</span> <span class="na">data-target=</span><span class="s">&quot;flare&quot;</span>
+   <span class="na">data-flare-gallery=</span><span class="s">&quot;HiddenGallery&quot;</span> 
+   <span class="na">href=</span><span class="s">&quot;03.jpg&quot;</span><span class="nt">&gt;</span>
+Image 3<span class="nt">&lt;/a&gt;</span>
+<br/>
+<span class="nt">&lt;/div&gt;</span>
+</pre></div>
+<br/>
+<h1><a name="sec3_0">3</a> CSS Stylesheets - Organisation<a class="top" href="#toc">top</a></h1>Because this component is a plugin and has been designed to use interchangable skins, the organisation of the css stylesheets is a little different than that of a normal website or template. This component uses one stylesheet to control it&#39;s layout, margins, padding, heirarchy and basically everything which is not to do with how the item looks on the surface. By this I mean, the colors, buttons, radius of rounded corners, border styles etc. These are all specified in a separate CSS stylesheet, because these are related to the component&#39;s skin. The benefits of this organisation is that the skin stylesheet can then be replaced with a new skin stylesheet and the whole look of the component can therefore be easily changed, without having to worry about upsetting the underlying CSS structure of the component.<br/>
+<br>
+<br/>
+<h2><a name="sec3_1">3.1</a> Stylesheets</h2>
+<br/>
+It is important that the folder structure of this component is maintained. All CSS information for the component is contained inside the &quot;themes&quot; folder. Inside the folder is the &quot;common.css&quot; file and then a subfolder for each skin. Each one of these subfolders contains a separate skin stylesheet and an &quot;img&quot; folder. This folder contains all the images which are specific to that skin.<br/>
+<br>
+<table><tr><td class="option">themes/common.css</td><td class="value">Controls all CSS layout structure, spacing, positioning for the component &amp; it&#39;s controls.<td></tr><tr><td class="option">themes/default/skin.css</td><td class="value">Controls the external look of the &quot;default&quot; theme or skin. This includes the buttons, background images, colors, patterns.<td></tr></table><div class="note">This plugin currently only contains one single skin, the default skin.</div>
+<h2><a name="sec3_2">3.2</a> Basic Styling 1 - Controls</h2>
+<br/>
+In the <i>themes/default/skin.css</i> you will find the CSS for the images used in the lightbox controls. To swap these images with your own versions you will need to change the following CSS:<div class="highlight"><pre><span class="c">/* Previous Icon */</span>
+<span class="nc">.peFlareLightbox</span> <span class="nc">.peFlareLightboxControls</span> <span class="nt">a</span><span class="nf">#peFlareLightboxControlPrev</span> <span class="p">{</span>
+    <span class="k">background</span><span class="o">:</span><span class="sx">url(img/prev.png)</span> <span class="k">no-repeat</span> <span class="m">0</span> <span class="m">0</span><span class="p">;</span>
+<span class="p">}</span>
+<br/>
+<span class="c">/* Next Icon */</span>
+<span class="nc">.peFlareLightbox</span> <span class="nc">.peFlareLightboxControls</span> <span class="nt">a</span><span class="nf">#peFlareLightboxControlNext</span> <span class="p">{</span>
+    <span class="k">background</span><span class="o">:</span><span class="sx">url(img/next.png)</span> <span class="k">no-repeat</span> <span class="m">0</span> <span class="m">0</span><span class="p">;</span>
+<span class="p">}</span>
+<br/>
+<span class="c">/* Close Icon */</span>
+<span class="nc">.peFlareLightbox</span> <span class="nc">.peFlareLightboxControls</span> <span class="nt">a</span><span class="nf">#peFlareLightboxControlClose</span> <span class="p">{</span>
+    <span class="k">background</span><span class="o">:</span><span class="sx">url(img/close.png)</span> <span class="k">no-repeat</span> <span class="m">0</span> <span class="m">0</span><span class="p">;</span>
+<span class="p">}</span>
+<br/>
+<span class="c">/* Thumbs Icon */</span>
+<span class="nc">.peFlareLightbox</span> <span class="nc">.peFlareLightboxControls</span> <span class="nt">a</span><span class="nf">#peFlareLightboxControlThumbs</span> <span class="p">{</span>
+    <span class="k">background</span><span class="o">:</span><span class="sx">url(img/thumbs.png)</span> <span class="k">no-repeat</span> <span class="m">0</span> <span class="m">0</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+<div class="note">In the download package you will find a <i>psd</i> folder which contains the original images for the flare lightbox ui. This file may be of help to you should you decide to insert your own icons.</div>
+<h2><a name="sec3_3">3.3</a> Basic Styling 2 - Frames</h2>
+<br/>
+In the <i>themes/default/skin.css</i> you will find the CSS for the image frames (fit image and thumb image). To edit the styles for these frames you will need to change the following CSS:<div class="highlight"><pre><span class="c">/*thumbnail frames*/</span>
+<br/>
+<span class="nc">.peFlareLightbox</span> <span class="nc">.peFlareLightboxThumbs</span> <span class="o">&gt;</span> <span class="nt">div</span> <span class="o">&gt;</span> <span class="nt">div</span> <span class="o">&gt;</span> <span class="nt">span</span> <span class="p">{</span>
+    <span class="k">border</span><span class="o">:</span> <span class="m">2px</span> <span class="k">solid</span> <span class="nb">white</span><span class="p">;</span>
+    <span class="n">box</span><span class="o">-</span><span class="n">shadow</span><span class="o">:</span> <span class="m">2px</span> <span class="m">2px</span> <span class="m">2px</span> <span class="m">#000</span><span class="p">;</span>
+<span class="p">}</span>
+<br/>
+<span class="c">/* fit image frame*/</span>
+<br/>
+<span class="nc">.peFlareLightbox</span> <span class="nc">.peFlareLightboxContent</span> <span class="nc">.peFlareLightboxRenderImage</span> <span class="nt">img</span><span class="nc">.fit</span> <span class="p">{</span>
+    <span class="k">border</span><span class="o">:</span> <span class="m">4px</span> <span class="k">solid</span> <span class="nb">white</span><span class="p">;</span>
+    <span class="n">box</span><span class="o">-</span><span class="n">shadow</span><span class="o">:</span> <span class="m">4px</span> <span class="m">4px</span> <span class="m">4px</span> <span class="m">#000</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+<div class="note">When editing the CSS of the plugin you will need to account for the fact that by default this plugin used compressed / minified CSS. See the section below for more info. about this.</div>
+<h2><a name="sec3_4">3.4</a> Basic Styling 3 - Where To Make CSS Edits</h2>
+<br/>
+This plugin used compressed CSS because this makes the whole plugin very quick to load. This means however that you cannot modify the CSS styles directly but must overwrite those styles instead. To do this you have 2 options:<br/>
+<br>
+<ol style="list-style-type: decimal">
+	<li>Add the edited styles into the head section of your HTML page.<br/>
+	</li>
+	<li>Manually create and insert a new stylesheet. Import this stylesheet into the HTML page immediately after the default CSS is imported. This will ensure overwriting.</li>
+</ol>
+<div class="note">NOTE: Sometimes when using the above method for CSS modification, if a CSS style modification does not result in the expected style change even though the CSS selector syntax is correct, you may need to use the <b>!important</b> keyword in your CSS rules. This sill ensure the default rules are overwritten. 
+<br/>
+Also note that to ensure overwriting of an existing CSS style, the exact same element selector needs to be used. You can find these selectors by inspecting the page, using Chrome element inspector, FireFox Firebug addon, and lots of other developer tools functions in most modern browsers.</div>
+<h1><a name="sec4_0">4</a> iOS &amp; iDevices<a class="top" href="#toc">top</a></h1>Flare has been optimized to work with Apple&#39;s mobile operating system <i>iOS</i>. The site has been tested on <i>iOS5</i> primarily on the iPad2 and the iPhone 4. To ensure the template works well on iDevices, sometimes the CSS of the template needs to be tweaked or sometimes new rules need to be added to control specific behavior found only on the mobile version of Apple&#39;s Safari browser.<br/>
+<br>
+<br/>
+<h2><a name="sec4_1">4.1</a> iDevice CSS</h2>
+<br/>
+This iDevice/mobile device specific CSS can be found at the bottom of the Stylesheets. All iDevice/mobile device styles can be recognized by their <i>.mobile</i> prefix. As example is shown below. This particular rule is required to prevent iOS devices from adjusting the size of the fonts in the template irrespective of the orientation and zoom level.<div class="highlight"><pre><span class="c">/* STYLES FOR APPLE DEVICES (iDevices) */</span>
+    <span class="nc">.mobile</span> <span class="nt">body</span><span class="o">,</span>
+    <span class="nc">.mobile</span> <span class="nt">p</span><span class="o">,</span>
+    <span class="nc">.mobile</span> <span class="nt">div</span><span class="o">,</span>
+    <span class="nc">.mobile</span> <span class="nt">h1</span><span class="o">,</span>
+    <span class="nc">.mobile</span> <span class="nt">h2</span><span class="o">,</span>
+    <span class="nc">.mobile</span> <span class="nt">h3</span><span class="o">,</span>
+    <span class="nc">.mobile</span> <span class="nt">h4</span><span class="o">,</span>
+    <span class="nc">.mobile</span> <span class="nt">h5</span><span class="o">,</span>
+    <span class="nc">.mobile</span> <span class="nt">h6</span> <span class="p">{</span>
+    <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="k">text</span><span class="o">-</span><span class="k">size</span><span class="o">-</span><span class="n">adjust</span><span class="o">:</span> <span class="k">none</span><span class="p">;</span>
+    <span class="p">}</span>
+</pre></div>
+<br/>
+<h2><a name="sec4_2">4.2</a> Rollover Effects on iDevices</h2>
+<br/>
+Some of the interesting effects used in Flare are seen or experienced by the user only when rolling over an element using their mouse. However when using a touch screen device such as the iDevices, the rollover state does not feature as prominently. It is still possible to see rollover effects as follows. In Apple&#39;s mobile Safari browser the way to activate a rollover state for an element is by <i>Soft Clicking</i>. This is simply a normal click, but as long as the element being clicked has a rollover state, then this state will be activated and a second click is then needed in order to visit the link or page or whatever is the default action of the link itself.<br/>
+<br>
+Sometimes however, rollover effects have been intentionally switched off in the CSS because they will not function correctly on a touch based device due to the different nature of a touch user interface from that of a mouse based one.<br/>
+<br>
+<br/>
+<br>
+<h2><a name="sec4_3">4.3</a> Flare and Android</h2>
+<br/>
+Flare has been tested on the Android operating system using a Samsung Galaxy Tab 10.1. running the Honeycomb version of the OS and also a Samsung Galaxy SII phone running the Ice Cream Sandwich version of the OS.  While Flare is working fine on the Honeycomb device, the template has been optimized for the latest version of the Android OS which is Ice Cream Sandwich. There are some well known bugs in the Android OS relating to video playback, there feature more so in Honeycomb, but they are a flaw in the default browser of the OS and are not related to the template. Additionally it should be noted that despite having been optimized for Android ICS, this does not mean that this template will work flawlessly on all Android devices. The reasons for this are as follows:<br/>
+<br>
+<ol style="list-style-type: decimal">
+	<li>There are just a vast number of different devices from different manufacturers, out there all running android and all with varying hardware specs. Each manufacturer has also tweaked or skinned the OS in their own way. Consequently it is impossible to perform testing on all such devices and to allow for any slight differences there may be in the way each device renders content.<br/>
+	</li>
+	<li>For reasons unknown to us, manufacturers of Android handsets and tablets are extremely slow in deploying updated to the OS. Consequently there are vast numbers of devices out in the wild which are running an array of different versions of the Android OS. Many of these devices may not have the hardware or software to run the template properly and so its impossible for us to promise full compatibility.</li>
+</ol>
+<div class="note">It is also worth noting that Android users may not enjoy as good an experience browsing this template as iOS users will. This is because at the time of writing the Android operating system does not allow for the experiencing of rollover states as iOS devices do.</div>
+</div>
+		
+		
+		<!--footer section-->
+		<div class="footer">
+			<div class="outro">
+				
+				<!--useful links section-->
+				<div class="links">
+					<span>USEFUL LINKS</span>
+					<ul>
+						<li><a href="http://support.pixelentity.com">Support Forums</a> The fastest way to get help</li>
+						<li><a href="http://pixelentity.com">Pixelentity.com </a> Free PSD Design Resources</li>
+						<li><a href="http://themeforest.net/user/pixelentity/follow">Follow Pixelentity</a> Add our items to your homepage.</li>
+						<li><a href="http://themeforest.net/user/pixelentity/follow">Pixelentity on Twitter</a> Get informed of new releases & updates</li>	
+					</ul>
+				</div>
+				
+				<!--getting support section-->
+				<p class="tagline"><span>STILL NEED HELP? - GETTING SUPPORT</span>If having read through all of the information in this page you are still experiencing problems, feel free to contact us. We provide free support* to our buyers via our support forums <i>(See link on right)</i>. Head on over there, read the FAQs, register <i>(using your purchase code)</i> and post your question in the appropriate forum.<br/><br/> *<b>Please note that support requests will not be answered if they relate to information available on this page.</b><br/><br/>Best regards, The Pixelentity Team</p>
+				
+			</div>
+			
+			<!--copyright details-->
+			<p class="copyright">Copyright &copy 2011+ Pixelentity. All rights reserved.</p>
+			
+		</div>
+		<!--end footer section-->
+		
+    </body>
+</html>
